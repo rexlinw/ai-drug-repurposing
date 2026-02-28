@@ -1,0 +1,4 @@
+disease_id,disease_name,drug_id,drug_name,overlap_score,pubmed_count
+C0021368,inflammation,CHEMBL25,aspirin,0.5,4447
+C0006142,breast cancer,CHEMBL472,glyburide,0.2,30
+C0011849,diabetes mellitus,CHEMBL472,glyburide,0.2,2398

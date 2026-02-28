@@ -1,0 +1,2001 @@
+disease_id,disease_name,drug_id,drug_name,overlap_score
+C0021368,inflammation,CHEMBL25,aspirin,0.5
+C0006142,breast cancer,CHEMBL472,glyburide,0.2
+C0011849,diabetes mellitus,CHEMBL472,glyburide,0.2
+C0011849,diabetes mellitus,CHEMBL642,acebutolol,0.0
+C0011849,diabetes mellitus,CHEMBL643,promethazine,0.0
+C0011849,diabetes mellitus,CHEMBL131,prednisolone,0.0
+C0011849,diabetes mellitus,CHEMBL644,trimipramine,0.0
+C0011849,diabetes mellitus,CHEMBL645,bisoprolol,0.0
+C0002395,alzheimer's disease,CHEMBL2,prazosin,0.0
+C0011849,diabetes mellitus,CHEMBL640,procainamide,0.0
+C0011849,diabetes mellitus,CHEMBL646,triazolam,0.0
+C0011849,diabetes mellitus,CHEMBL647,apraclonidine,0.0
+C0011849,diabetes mellitus,CHEMBL648,cyclizine,0.0
+C0011849,diabetes mellitus,CHEMBL434394,nebivolol,0.0
+C0011849,diabetes mellitus,CHEMBL650,methylprednisolone,0.0
+C0011849,diabetes mellitus,CHEMBL651,methadone,0.0
+C0011849,diabetes mellitus,CHEMBL641,atomoxetine,0.0
+C0011849,diabetes mellitus,CHEMBL130,chloramphenicol,0.0
+C0011849,diabetes mellitus,CHEMBL134,clonidine,0.0
+C0011849,diabetes mellitus,CHEMBL639,azelastine,0.0
+C0011849,diabetes mellitus,CHEMBL638,voriconazole,0.0
+C0011849,diabetes mellitus,CHEMBL129,zidovudine,0.0
+C0011849,diabetes mellitus,CHEMBL637,venlafaxine,0.0
+C0011849,diabetes mellitus,CHEMBL636,rivastigmine,0.0
+C0011849,diabetes mellitus,CHEMBL635,prednisone,0.0
+C0011849,diabetes mellitus,CHEMBL634,alfentanil,0.0
+C0011849,diabetes mellitus,CHEMBL633,amiodarone,0.0
+C0011849,diabetes mellitus,CHEMBL632,betamethasone,0.0
+C0011849,diabetes mellitus,CHEMBL631,propafenone,0.0
+C0011849,diabetes mellitus,CHEMBL128,sumatriptan,0.0
+C0011849,diabetes mellitus,CHEMBL24944,tribromsalan,0.0
+C0011849,diabetes mellitus,CHEMBL652,flecainide,0.0
+C0011849,diabetes mellitus,CHEMBL655,midazolam,0.0
+C0011849,diabetes mellitus,CHEMBL654,mirtazapine,0.0
+C0011849,diabetes mellitus,CHEMBL629,amitriptyline,0.0
+C0011849,diabetes mellitus,CHEMBL686,mefenamic acid,0.0
+C0011849,diabetes mellitus,CHEMBL139,diclofenac,0.0
+C0011849,diabetes mellitus,CHEMBL685,mebendazole,0.0
+C0011849,diabetes mellitus,CHEMBL684,diethylcarbamazine,0.0
+C0011849,diabetes mellitus,CHEMBL682,amodiaquine,0.0
+C0011849,diabetes mellitus,CHEMBL681,etomidate,0.0
+C0011849,diabetes mellitus,CHEMBL680,cefaclor anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL679,epinephrine,0.0
+C0011849,diabetes mellitus,CHEMBL677,levonordefrin,0.0
+C0011849,diabetes mellitus,CHEMBL675,alendronate sodium,0.0
+C0011849,diabetes mellitus,CHEMBL673,pargyline,0.0
+C0011849,diabetes mellitus,CHEMBL672,fenofibrate,0.0
+C0011849,diabetes mellitus,CHEMBL671,thiotepa,0.0
+C0011849,diabetes mellitus,CHEMBL669,cyclobenzaprine,0.0
+C0011849,diabetes mellitus,CHEMBL668,protriptyline,0.0
+C0011849,diabetes mellitus,CHEMBL137,metronidazole,0.0
+C0011849,diabetes mellitus,CHEMBL667,acetylcholine,0.0
+C0011849,diabetes mellitus,CHEMBL666,foscarnet,0.0
+C0011849,diabetes mellitus,CHEMBL21731,maprotiline,0.0
+C0011849,diabetes mellitus,CHEMBL661,alprazolam,0.0
+C0011849,diabetes mellitus,CHEMBL660,amantadine,0.0
+C0011849,diabetes mellitus,CHEMBL659,galantamine,0.0
+C0011849,diabetes mellitus,CHEMBL658,sufentanil,0.0
+C0011849,diabetes mellitus,CHEMBL657,diphenhydramine,0.0
+C0011849,diabetes mellitus,CHEMBL135,estradiol,0.0
+C0011849,diabetes mellitus,CHEMBL656,oxycodone,0.0
+C0011849,diabetes mellitus,CHEMBL22242,remoxipride,0.0
+C0011849,diabetes mellitus,CHEMBL21869,dibromsalan,0.0
+C0011849,diabetes mellitus,CHEMBL628,pentoxifylline,0.0
+C0011849,diabetes mellitus,CHEMBL689,mannitol,0.0
+C0011849,diabetes mellitus,CHEMBL596,fentanyl,0.0
+C0011849,diabetes mellitus,CHEMBL276568,"cefprozil anhydrous, (e)-",0.0
+C0011849,diabetes mellitus,CHEMBL603,zafirlukast,0.0
+C0011849,diabetes mellitus,CHEMBL19019,naltrexone,0.0
+C0011849,diabetes mellitus,CHEMBL602,cysteamine,0.0
+C0011849,diabetes mellitus,CHEMBL601,aminolevulinic acid,0.0
+C0011849,diabetes mellitus,CHEMBL600,acetylcysteine,0.0
+C0011849,diabetes mellitus,CHEMBL599,meloxicam,0.0
+C0011849,diabetes mellitus,CHEMBL18116,toloxatone,0.0
+C0011849,diabetes mellitus,CHEMBL18442,plerixafor,0.0
+C0011849,diabetes mellitus,CHEMBL597,phentolamine,0.0
+C0011849,diabetes mellitus,CHEMBL17860,lofexidine,0.0
+C0011849,diabetes mellitus,CHEMBL17879,maralixibat chloride,0.0
+C0011849,diabetes mellitus,CHEMBL121,rosiglitazone,0.0
+C0011849,diabetes mellitus,CHEMBL595,pioglitazone,0.0
+C0011849,diabetes mellitus,CHEMBL626,naftifine,0.0
+C0011849,diabetes mellitus,CHEMBL594,emedastine,0.0
+C0011849,diabetes mellitus,CHEMBL593,delavirdine,0.0
+C0011849,diabetes mellitus,CHEMBL592,levorphanol,0.0
+C0011849,diabetes mellitus,CHEMBL17157,terfenadine,0.0
+C0011849,diabetes mellitus,CHEMBL591,ethchlorvynol,0.0
+C0011849,diabetes mellitus,CHEMBL590,menadione,0.0
+C0011849,diabetes mellitus,CHEMBL589,ropinirole,0.0
+C0011849,diabetes mellitus,CHEMBL588,fenoldopam,0.0
+C0011849,diabetes mellitus,CHEMBL119,trimetrexate,0.0
+C0011849,diabetes mellitus,CHEMBL118,celecoxib,0.0
+C0011849,diabetes mellitus,CHEMBL16476,pronetalol,0.0
+C0011849,diabetes mellitus,CHEMBL585,triamterene,0.0
+C0011849,diabetes mellitus,CHEMBL116,amprenavir,0.0
+C0011849,diabetes mellitus,CHEMBL122,rofecoxib,0.0
+C0011849,diabetes mellitus,CHEMBL19236,moxonidine,0.0
+C0011849,diabetes mellitus,CHEMBL604,cupric sulfate,0.0
+C0011849,diabetes mellitus,CHEMBL605,procainamide hydrochloride,0.0
+C0011849,diabetes mellitus,CHEMBL21536,xanomeline,0.0
+C0011849,diabetes mellitus,CHEMBL625,thiabendazole,0.0
+C0011849,diabetes mellitus,CHEMBL623,nefazodone,0.0
+C0011849,diabetes mellitus,CHEMBL21333,pranlukast,0.0
+C0011849,diabetes mellitus,CHEMBL622,etodolac,0.0
+C0011849,diabetes mellitus,CHEMBL621,trazodone,0.0
+C0011849,diabetes mellitus,CHEMBL127,meropenem,0.0
+C0011849,diabetes mellitus,CHEMBL620,clidinium,0.0
+C0011849,diabetes mellitus,CHEMBL126,linezolid,0.0
+C0011849,diabetes mellitus,CHEMBL125,miltefosine,0.0
+C0011849,diabetes mellitus,CHEMBL617,cephalothin,0.0
+C0011849,diabetes mellitus,CHEMBL615,penicillin v,0.0
+C0011849,diabetes mellitus,CHEMBL282042,saquinavir mesylate,0.0
+C0011849,diabetes mellitus,CHEMBL19449,ibudilast,0.0
+C0011849,diabetes mellitus,CHEMBL614,pyrazinamide,0.0
+C0011849,diabetes mellitus,CHEMBL282724,sitaxentan,0.0
+C0011849,diabetes mellitus,CHEMBL612,dextroamphetamine,0.0
+C0011849,diabetes mellitus,CHEMBL19393,levamfetamine,0.0
+C0011849,diabetes mellitus,CHEMBL611,terazosin,0.0
+C0011849,diabetes mellitus,CHEMBL19490,zomepirac,0.0
+C0011849,diabetes mellitus,CHEMBL609,trientine,0.0
+C0011849,diabetes mellitus,CHEMBL19299,loxoprofen,0.0
+C0011849,diabetes mellitus,CHEMBL608,probucol,0.0
+C0011849,diabetes mellitus,CHEMBL282052,methaqualone,0.0
+C0011849,diabetes mellitus,CHEMBL607,meperidine,0.0
+C0011849,diabetes mellitus,CHEMBL278623,macimorelin,0.0
+C0011849,diabetes mellitus,CHEMBL606,misoprostol,0.0
+C0011849,diabetes mellitus,CHEMBL688,fentanyl citrate,0.0
+C0011849,diabetes mellitus,CHEMBL24072,prenylamine,0.0
+C0011849,diabetes mellitus,CHEMBL690,pravastatin sodium,0.0
+C0011849,diabetes mellitus,CHEMBL416956,mefloquine,0.0
+C0011849,diabetes mellitus,CHEMBL802,minoxidil,0.0
+C0011849,diabetes mellitus,CHEMBL799,cilostazol,0.0
+C0011849,diabetes mellitus,CHEMBL284092,gepirone,0.0
+C0011849,diabetes mellitus,CHEMBL34259,methotrexate,0.0
+C0011849,diabetes mellitus,CHEMBL797,phensuximide,0.0
+C0011849,diabetes mellitus,CHEMBL285674,estazolam,0.0
+C0011849,diabetes mellitus,CHEMBL796,methylphenidate,0.0
+C0011849,diabetes mellitus,CHEMBL32800,fenoterol,0.0
+C0011849,diabetes mellitus,CHEMBL790,chlorhexidine,0.0
+C0011849,diabetes mellitus,CHEMBL152,cidofovir anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL36506,novobiocin,0.0
+C0011849,diabetes mellitus,CHEMBL788,idoxuridine,0.0
+C0011849,diabetes mellitus,CHEMBL787,montelukast,0.0
+C0011849,diabetes mellitus,CHEMBL786,tamoxifen citrate,0.0
+C0011849,diabetes mellitus,CHEMBL32479,brotizolam,0.0
+C0011849,diabetes mellitus,CHEMBL783,nateglinide,0.0
+C0011849,diabetes mellitus,CHEMBL782,tolbutamide,0.0
+C0011849,diabetes mellitus,CHEMBL290106,bithionol,0.0
+C0011849,diabetes mellitus,CHEMBL781,mazindol,0.0
+C0011849,diabetes mellitus,CHEMBL780,pentetic acid,0.0
+C0011849,diabetes mellitus,CHEMBL33986,butorphanol,0.0
+C0011849,diabetes mellitus,CHEMBL779,tadalafil,0.0
+C0011849,diabetes mellitus,CHEMBL778,dexmedetomidine,0.0
+C0011849,diabetes mellitus,CHEMBL777,clavulanic acid,0.0
+C0011849,diabetes mellitus,CHEMBL776,metaproterenol,0.0
+C0011849,diabetes mellitus,CHEMBL773,glycine,0.0
+C0011849,diabetes mellitus,CHEMBL772,reserpine,0.0
+C0011849,diabetes mellitus,CHEMBL154,naproxen,0.0
+C0011849,diabetes mellitus,CHEMBL803,cytarabine,0.0
+C0011849,diabetes mellitus,CHEMBL771,cycloserine,0.0
+C0011849,diabetes mellitus,CHEMBL806,flutamide,0.0
+C0011849,diabetes mellitus,CHEMBL831,loxapine,0.0
+C0011849,diabetes mellitus,CHEMBL830,eflornithine,0.0
+C0011849,diabetes mellitus,CHEMBL43128,primaquine phosphate,0.0
+C0011849,diabetes mellitus,CHEMBL829,methylpromazine,0.0
+C0011849,diabetes mellitus,CHEMBL827,dexmethylphenidate,0.0
+C0011849,diabetes mellitus,CHEMBL826,enoxacin,0.0
+C0011849,diabetes mellitus,CHEMBL822,terbinafine,0.0
+C0011849,diabetes mellitus,CHEMBL821,guanidine,0.0
+C0011849,diabetes mellitus,CHEMBL820,busulfan,0.0
+C0011849,diabetes mellitus,CHEMBL290960,nifurtimox,0.0
+C0011849,diabetes mellitus,CHEMBL819,oxacillin,0.0
+C0011849,diabetes mellitus,CHEMBL818,iobenguane,0.0
+C0011849,diabetes mellitus,CHEMBL817,tolazamide,0.0
+C0011849,diabetes mellitus,CHEMBL38827,lumefantrine,0.0
+C0011849,diabetes mellitus,CHEMBL39736,buformin,0.0
+C0011849,diabetes mellitus,CHEMBL815,dinoprost,0.0
+C0011849,diabetes mellitus,CHEMBL441738,afamelanotide,0.0
+C0011849,diabetes mellitus,CHEMBL814,fluvoxamine,0.0
+C0011849,diabetes mellitus,CHEMBL289469,granisetron,0.0
+C0011849,diabetes mellitus,CHEMBL813,eprosartan,0.0
+C0011849,diabetes mellitus,CHEMBL812,pyridostigmine bromide,0.0
+C0011849,diabetes mellitus,CHEMBL37744,zimeldine,0.0
+C0011849,diabetes mellitus,CHEMBL811,brompheniramine,0.0
+C0011849,diabetes mellitus,CHEMBL810,temozolomide,0.0
+C0011849,diabetes mellitus,CHEMBL809,sertraline,0.0
+C0011849,diabetes mellitus,CHEMBL808,econazole,0.0
+C0011849,diabetes mellitus,CHEMBL807,memantine,0.0
+C0011849,diabetes mellitus,CHEMBL148,imipenem anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL770,tolazoline,0.0
+C0011849,diabetes mellitus,CHEMBL115,indinavir anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL715,olanzapine,0.0
+C0011849,diabetes mellitus,CHEMBL141,lamivudine,0.0
+C0011849,diabetes mellitus,CHEMBL713,entecavir anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL712,anisindione,0.0
+C0011849,diabetes mellitus,CHEMBL711,phenindione,0.0
+C0011849,diabetes mellitus,CHEMBL710,finasteride,0.0
+C0011849,diabetes mellitus,CHEMBL709,alfuzosin,0.0
+C0011849,diabetes mellitus,CHEMBL708,ziprasidone,0.0
+C0011849,diabetes mellitus,CHEMBL25202,tamibarotene,0.0
+C0011849,diabetes mellitus,CHEMBL278819,minaprine,0.0
+C0011849,diabetes mellitus,CHEMBL24828,vandetanib,0.0
+C0011849,diabetes mellitus,CHEMBL707,doxazosin,0.0
+C0011849,diabetes mellitus,CHEMBL282468,choline chloride,0.0
+C0011849,diabetes mellitus,CHEMBL24778,silodosin,0.0
+C0011849,diabetes mellitus,CHEMBL706,cetyl alcohol,0.0
+C0011849,diabetes mellitus,CHEMBL705,alitretinoin,0.0
+C0011849,diabetes mellitus,CHEMBL704,mesalamine,0.0
+C0011849,diabetes mellitus,CHEMBL703,suxamethonium,0.0
+C0011849,diabetes mellitus,CHEMBL702,piperacillin,0.0
+C0011849,diabetes mellitus,CHEMBL701,baclofen,0.0
+C0011849,diabetes mellitus,CHEMBL700,sulfapyridine,0.0
+C0011849,diabetes mellitus,CHEMBL698,tetracaine,0.0
+C0011849,diabetes mellitus,CHEMBL697,methsuximide,0.0
+C0011849,diabetes mellitus,CHEMBL696,ethosuximide,0.0
+C0011849,diabetes mellitus,CHEMBL695,trimethadione,0.0
+C0011849,diabetes mellitus,CHEMBL692,glycerin,0.0
+C0011849,diabetes mellitus,CHEMBL284348,dalfampridine,0.0
+C0011849,diabetes mellitus,CHEMBL691,ethinyl estradiol,0.0
+C0011849,diabetes mellitus,CHEMBL714,albuterol,0.0
+C0011849,diabetes mellitus,CHEMBL716,quetiapine,0.0
+C0011849,diabetes mellitus,CHEMBL768,esmolol,0.0
+C0011849,diabetes mellitus,CHEMBL717,medroxyprogesterone acetate,0.0
+C0011849,diabetes mellitus,CHEMBL766,cilastatin,0.0
+C0011849,diabetes mellitus,CHEMBL765,guanethidine,0.0
+C0011849,diabetes mellitus,CHEMBL762,oxymetazoline,0.0
+C0011849,diabetes mellitus,CHEMBL761,naphazoline,0.0
+C0011849,diabetes mellitus,CHEMBL760,anagrelide,0.0
+C0011849,diabetes mellitus,CHEMBL754,foscarnet sodium,0.0
+C0011849,diabetes mellitus,CHEMBL753,phenoxybenzamine,0.0
+C0011849,diabetes mellitus,CHEMBL752,adenosine phosphate,0.0
+C0011849,diabetes mellitus,CHEMBL750,zonisamide,0.0
+C0011849,diabetes mellitus,CHEMBL748,pralidoxime chloride,0.0
+C0011849,diabetes mellitus,CHEMBL746,nedocromil,0.0
+C0011849,diabetes mellitus,CHEMBL744,riluzole,0.0
+C0011849,diabetes mellitus,CHEMBL742,ketamine,0.0
+C0011849,diabetes mellitus,CHEMBL741,lamotrigine,0.0
+C0011849,diabetes mellitus,CHEMBL30219,methohexital sodium,0.0
+C0011849,diabetes mellitus,CHEMBL738,thiopental sodium,0.0
+C0011849,diabetes mellitus,CHEMBL734,acetohydroxamic acid,0.0
+C0011849,diabetes mellitus,CHEMBL730,nitroglycerin,0.0
+C0011849,diabetes mellitus,CHEMBL729,lopinavir,0.0
+C0011849,diabetes mellitus,CHEMBL728,prochlorperazine,0.0
+C0011849,diabetes mellitus,CHEMBL27193,dilevalol,0.0
+C0011849,diabetes mellitus,CHEMBL727,thioguanine,0.0
+C0011849,diabetes mellitus,CHEMBL726,fluphenazine,0.0
+C0011849,diabetes mellitus,CHEMBL723,carvedilol,0.0
+C0011849,diabetes mellitus,CHEMBL28318,propyphenazone,0.0
+C0011849,diabetes mellitus,CHEMBL720,benzyl alcohol,0.0
+C0011849,diabetes mellitus,CHEMBL719,mupirocin,0.0
+C0011849,diabetes mellitus,CHEMBL584,nelfinavir,0.0
+C0011849,diabetes mellitus,CHEMBL114,saquinavir,0.0
+C0011849,diabetes mellitus,CHEMBL288470,aminopyrine,0.0
+C0011849,diabetes mellitus,CHEMBL448,pentobarbital,0.0
+C0011849,diabetes mellitus,CHEMBL455,sulfacetamide,0.0
+C0011849,diabetes mellitus,CHEMBL454,butalbital,0.0
+C0011849,diabetes mellitus,CHEMBL268869,sulfamethoxypyridazine,0.0
+C0011849,diabetes mellitus,CHEMBL453,sulfisoxazole,0.0
+C0011849,diabetes mellitus,CHEMBL452,clonazepam,0.0
+C0011849,diabetes mellitus,CHEMBL266349,melagatran,0.0
+C0011849,diabetes mellitus,CHEMBL451,chlordiazepoxide,0.0
+C0011849,diabetes mellitus,CHEMBL450,metharbital,0.0
+C0011849,diabetes mellitus,CHEMBL7863,aprobarbital,0.0
+C0011849,diabetes mellitus,CHEMBL449,butabarbital,0.0
+C0011849,diabetes mellitus,CHEMBL7728,hexobarbital,0.0
+C0011849,diabetes mellitus,CHEMBL267894,amobarbital,0.0
+C0011849,diabetes mellitus,CHEMBL7568,quinacrine,0.0
+C0011849,diabetes mellitus,CHEMBL447,secobarbital,0.0
+C0011849,diabetes mellitus,CHEMBL485,codeine,0.0
+C0011849,diabetes mellitus,CHEMBL446,sulfamethazine,0.0
+C0011849,diabetes mellitus,CHEMBL445,nortriptyline,0.0
+C0011849,diabetes mellitus,CHEMBL42,clozapine,0.0
+C0011849,diabetes mellitus,CHEMBL443,sulfamethoxazole,0.0
+C0011849,diabetes mellitus,CHEMBL41,fluoxetine,0.0
+C0011849,diabetes mellitus,CHEMBL40,phenobarbital,0.0
+C0011849,diabetes mellitus,CHEMBL7413,methohexital,0.0
+C0011849,diabetes mellitus,CHEMBL38,tretinoin,0.0
+C0011849,diabetes mellitus,CHEMBL442,ergotamine,0.0
+C0011849,diabetes mellitus,CHEMBL268164,cyclobarbital,0.0
+C0011849,diabetes mellitus,CHEMBL441,thiopental,0.0
+C0011849,diabetes mellitus,CHEMBL440,thiamylal,0.0
+C0011849,diabetes mellitus,CHEMBL439,sulfadiazine,0.0
+C0011849,diabetes mellitus,CHEMBL43,amsacrine,0.0
+C0011849,diabetes mellitus,CHEMBL456,ethacrynic acid,0.0
+C0011849,diabetes mellitus,CHEMBL267744,ticrynafen,0.0
+C0011849,diabetes mellitus,CHEMBL457,gemfibrozil,0.0
+C0011849,diabetes mellitus,CHEMBL481,irinotecan,0.0
+C0011849,diabetes mellitus,CHEMBL480,lansoprazole,0.0
+C0011849,diabetes mellitus,CHEMBL479,thioridazine,0.0
+C0011849,diabetes mellitus,CHEMBL477,adenosine,0.0
+C0011849,diabetes mellitus,CHEMBL476,dacarbazine,0.0
+C0011849,diabetes mellitus,CHEMBL473,dofetilide,0.0
+C0011849,diabetes mellitus,CHEMBL9225,hexestrol,0.0
+C0011849,diabetes mellitus,CHEMBL471,sotalol,0.0
+C0011849,diabetes mellitus,CHEMBL469,ketorolac,0.0
+C0011849,diabetes mellitus,CHEMBL468,thalidomide,0.0
+C0011849,diabetes mellitus,CHEMBL64,isoniazid,0.0
+C0011849,diabetes mellitus,CHEMBL61,podofilox,0.0
+C0011849,diabetes mellitus,CHEMBL467,hydroxyurea,0.0
+C0011849,diabetes mellitus,CHEMBL59,dopamine,0.0
+C0011849,diabetes mellitus,CHEMBL58,mitoxantrone,0.0
+C0011849,diabetes mellitus,CHEMBL465,dronabinol,0.0
+C0011849,diabetes mellitus,CHEMBL57,nevirapine,0.0
+C0011849,diabetes mellitus,CHEMBL464,etretinate,0.0
+C0011849,diabetes mellitus,CHEMBL463,aminohippuric acid,0.0
+C0011849,diabetes mellitus,CHEMBL55,pentamidine,0.0
+C0011849,diabetes mellitus,CHEMBL54,haloperidol,0.0
+C0011849,diabetes mellitus,CHEMBL53,apomorphine,0.0
+C0011849,diabetes mellitus,CHEMBL460,molindone,0.0
+C0011849,diabetes mellitus,CHEMBL459,methyldopa,0.0
+C0011849,diabetes mellitus,CHEMBL49,buspirone,0.0
+C0011849,diabetes mellitus,CHEMBL46,ondansetron,0.0
+C0011849,diabetes mellitus,CHEMBL45,melatonin,0.0
+C0011849,diabetes mellitus,CHEMBL438,sulfamerazine,0.0
+C0011849,diabetes mellitus,CHEMBL437,sulfathiazole,0.0
+C0011849,diabetes mellitus,CHEMBL436,tolrestat,0.0
+C0011849,diabetes mellitus,CHEMBL20,acetazolamide,0.0
+C0011849,diabetes mellitus,CHEMBL417,epirubicin,0.0
+C0011849,diabetes mellitus,CHEMBL18,ethoxzolamide,0.0
+C0011849,diabetes mellitus,CHEMBL17,dichlorphenamide,0.0
+C0011849,diabetes mellitus,CHEMBL416,methoxsalen,0.0
+C0011849,diabetes mellitus,CHEMBL415,clomipramine,0.0
+C0011849,diabetes mellitus,CHEMBL269732,tacrolimus anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL413,sirolimus,0.0
+C0011849,diabetes mellitus,CHEMBL16,phenytoin,0.0
+C0011849,diabetes mellitus,CHEMBL14,carbachol,0.0
+C0011849,diabetes mellitus,CHEMBL267936,mecamylamine,0.0
+C0011849,diabetes mellitus,CHEMBL411,diethylstilbestrol,0.0
+C0011849,diabetes mellitus,CHEMBL13,metoprolol,0.0
+C0011849,diabetes mellitus,CHEMBL12,diazepam,0.0
+C0011849,diabetes mellitus,CHEMBL409,bicalutamide,0.0
+C0011849,diabetes mellitus,CHEMBL408,troglitazone,0.0
+C0011849,diabetes mellitus,CHEMBL407,flumazenil,0.0
+C0011849,diabetes mellitus,CHEMBL406,indapamide,0.0
+C0011849,diabetes mellitus,CHEMBL11,imipramine,0.0
+C0011849,diabetes mellitus,CHEMBL6437,mianserin,0.0
+C0011849,diabetes mellitus,CHEMBL6622,isosorbide dinitrate,0.0
+C0011849,diabetes mellitus,CHEMBL405,amphetamine,0.0
+C0011849,diabetes mellitus,CHEMBL9,norfloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL8,ciprofloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL404,tazobactam,0.0
+C0011849,diabetes mellitus,CHEMBL403,sulbactam,0.0
+C0011849,diabetes mellitus,CHEMBL6,indomethacin,0.0
+C0011849,diabetes mellitus,CHEMBL5,nalidixic acid,0.0
+C0011849,diabetes mellitus,CHEMBL19,methazolamide,0.0
+C0011849,diabetes mellitus,CHEMBL419,mafenide,0.0
+C0011849,diabetes mellitus,CHEMBL36,pyrimethamine,0.0
+C0011849,diabetes mellitus,CHEMBL21,sulfanilamide,0.0
+C0011849,diabetes mellitus,CHEMBL35,furosemide,0.0
+C0011849,diabetes mellitus,CHEMBL435,hydrochlorothiazide,0.0
+C0011849,diabetes mellitus,CHEMBL434,isoproterenol,0.0
+C0011849,diabetes mellitus,CHEMBL433,valproate sodium,0.0
+C0011849,diabetes mellitus,CHEMBL431,spirapril,0.0
+C0011849,diabetes mellitus,CHEMBL430,gemifloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL33,levofloxacin anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL32,moxifloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL429,labetalol,0.0
+C0011849,diabetes mellitus,CHEMBL31,gatifloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL30,cimetidine,0.0
+C0011849,diabetes mellitus,CHEMBL428,trovafloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL29,penicillin g,0.0
+C0011849,diabetes mellitus,CHEMBL427,mechlorethamine,0.0
+C0011849,diabetes mellitus,CHEMBL6995,practolol,0.0
+C0011849,diabetes mellitus,CHEMBL27,propranolol,0.0
+C0011849,diabetes mellitus,CHEMBL425,olsalazine,0.0
+C0011849,diabetes mellitus,CHEMBL423,betaxolol,0.0
+C0011849,diabetes mellitus,CHEMBL422,trifluoperazine,0.0
+C0011849,diabetes mellitus,CHEMBL25,aspirin,0.0
+C0011849,diabetes mellitus,CHEMBL24,atenolol,0.0
+C0011849,diabetes mellitus,CHEMBL23,diltiazem,0.0
+C0011849,diabetes mellitus,CHEMBL6466,coumarin,0.0
+C0011849,diabetes mellitus,CHEMBL421,sulfasalazine,0.0
+C0011849,diabetes mellitus,CHEMBL6966,verapamil,0.0
+C0011849,diabetes mellitus,CHEMBL22,trimethoprim,0.0
+C0011849,diabetes mellitus,CHEMBL420,guanabenz,0.0
+C0011849,diabetes mellitus,CHEMBL70,morphine,0.0
+C0011849,diabetes mellitus,CHEMBL71,chlorpromazine,0.0
+C0011849,diabetes mellitus,CHEMBL583,grepafloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL547,isotretinoin,0.0
+C0011849,diabetes mellitus,CHEMBL110,benznidazole,0.0
+C0011849,diabetes mellitus,CHEMBL277100,temafloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL109,valproic acid,0.0
+C0011849,diabetes mellitus,CHEMBL108,carbamazepine,0.0
+C0011849,diabetes mellitus,CHEMBL554,lapatinib,0.0
+C0011849,diabetes mellitus,CHEMBL553,erlotinib,0.0
+C0011849,diabetes mellitus,CHEMBL107,colchicine,0.0
+C0011849,diabetes mellitus,CHEMBL550,pilocarpine,0.0
+C0011849,diabetes mellitus,CHEMBL549,citalopram,0.0
+C0011849,diabetes mellitus,CHEMBL14370,reboxetine,0.0
+C0011849,diabetes mellitus,CHEMBL278020,neostigmine,0.0
+C0011849,diabetes mellitus,CHEMBL548,dinoprostone,0.0
+C0011849,diabetes mellitus,CHEMBL14376,iloperidone,0.0
+C0011849,diabetes mellitus,CHEMBL106,fluconazole,0.0
+C0011849,diabetes mellitus,CHEMBL72,desipramine,0.0
+C0011849,diabetes mellitus,CHEMBL546,oxprenolol,0.0
+C0011849,diabetes mellitus,CHEMBL545,alcohol,0.0
+C0011849,diabetes mellitus,CHEMBL105,mitomycin,0.0
+C0011849,diabetes mellitus,CHEMBL104,clotrimazole,0.0
+C0011849,diabetes mellitus,CHEMBL544,mequinol,0.0
+C0011849,diabetes mellitus,CHEMBL14060,phenol,0.0
+C0011849,diabetes mellitus,CHEMBL539,acetic acid,0.0
+C0011849,diabetes mellitus,CHEMBL537,hydroquinone,0.0
+C0011849,diabetes mellitus,CHEMBL535,sunitinib,0.0
+C0011849,diabetes mellitus,CHEMBL534,ketotifen,0.0
+C0011849,diabetes mellitus,CHEMBL103,progesterone,0.0
+C0011849,diabetes mellitus,CHEMBL533,ibutilide,0.0
+C0011849,diabetes mellitus,CHEMBL532,erythromycin,0.0
+C0011849,diabetes mellitus,CHEMBL556,deferoxamine,0.0
+C0011849,diabetes mellitus,CHEMBL558,mexiletine,0.0
+C0011849,diabetes mellitus,CHEMBL559,dextrothyroxine,0.0
+C0011849,diabetes mellitus,CHEMBL111,rimonabant,0.0
+C0011849,diabetes mellitus,CHEMBL582,isopropyl alcohol,0.0
+C0011849,diabetes mellitus,CHEMBL580,lorazepam,0.0
+C0011849,diabetes mellitus,CHEMBL578,enalapril,0.0
+C0011849,diabetes mellitus,CHEMBL577,enalaprilat anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL16080,trichloroethane,0.0
+C0011849,diabetes mellitus,CHEMBL575,methicillin,0.0
+C0011849,diabetes mellitus,CHEMBL573,niacin,0.0
+C0011849,diabetes mellitus,CHEMBL15891,lindane,0.0
+C0011849,diabetes mellitus,CHEMBL15870,indoprofen,0.0
+C0011849,diabetes mellitus,CHEMBL572,nitrofurantoin,0.0
+C0011849,diabetes mellitus,CHEMBL571,ketoprofen,0.0
+C0011849,diabetes mellitus,CHEMBL570,triflupromazine,0.0
+C0011849,diabetes mellitus,CHEMBL569,procaine,0.0
+C0011849,diabetes mellitus,CHEMBL276520,indalpine,0.0
+C0011849,diabetes mellitus,CHEMBL15677,fenclofenac,0.0
+C0011849,diabetes mellitus,CHEMBL15770,sulindac,0.0
+C0011849,diabetes mellitus,CHEMBL568,oxazepam,0.0
+C0011849,diabetes mellitus,CHEMBL567,perphenazine,0.0
+C0011849,diabetes mellitus,CHEMBL16073,phenacetin,0.0
+C0011849,diabetes mellitus,CHEMBL113,caffeine,0.0
+C0011849,diabetes mellitus,CHEMBL112,acetaminophen,0.0
+C0011849,diabetes mellitus,CHEMBL565,clofibrate,0.0
+C0011849,diabetes mellitus,CHEMBL564,promazine,0.0
+C0011849,diabetes mellitus,CHEMBL563,flurbiprofen,0.0
+C0011849,diabetes mellitus,CHEMBL562,griseofulvin,0.0
+C0011849,diabetes mellitus,CHEMBL561,lomefloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL273575,nomifensine,0.0
+C0011849,diabetes mellitus,CHEMBL531,pergolide,0.0
+C0011849,diabetes mellitus,CHEMBL530,amdinocillin,0.0
+C0011849,diabetes mellitus,CHEMBL529,azithromycin,0.0
+C0011849,diabetes mellitus,CHEMBL267345,amphotericin b,0.0
+C0011849,diabetes mellitus,CHEMBL276832,hydralazine,0.0
+C0011849,diabetes mellitus,CHEMBL11359,cisplatin,0.0
+C0011849,diabetes mellitus,CHEMBL500,pindolol,0.0
+C0011849,diabetes mellitus,CHEMBL499,timolol,0.0
+C0011849,diabetes mellitus,CHEMBL498,chlorpropamide,0.0
+C0011849,diabetes mellitus,CHEMBL88,cyclophosphamide anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL10878,agomelatine,0.0
+C0011849,diabetes mellitus,CHEMBL497,clioquinol,0.0
+C0011849,diabetes mellitus,CHEMBL496,hexachlorophene,0.0
+C0011849,diabetes mellitus,CHEMBL495,alprostadil,0.0
+C0011849,diabetes mellitus,CHEMBL428647,paclitaxel,0.0
+C0011849,diabetes mellitus,CHEMBL86,metoclopramide,0.0
+C0011849,diabetes mellitus,CHEMBL428880,cromolyn,0.0
+C0011849,diabetes mellitus,CHEMBL85,risperidone,0.0
+C0011849,diabetes mellitus,CHEMBL84,topotecan,0.0
+C0011849,diabetes mellitus,CHEMBL494,iloprost,0.0
+C0011849,diabetes mellitus,CHEMBL493,bromocriptine,0.0
+C0011849,diabetes mellitus,CHEMBL83,tamoxifen,0.0
+C0011849,diabetes mellitus,CHEMBL81,raloxifene,0.0
+C0011849,diabetes mellitus,CHEMBL80,naloxone,0.0
+C0011849,diabetes mellitus,CHEMBL492,etidocaine,0.0
+C0011849,diabetes mellitus,CHEMBL79,lidocaine,0.0
+C0011849,diabetes mellitus,CHEMBL416146,etoricoxib,0.0
+C0011849,diabetes mellitus,CHEMBL490,paroxetine,0.0
+C0011849,diabetes mellitus,CHEMBL76,chloroquine,0.0
+C0011849,diabetes mellitus,CHEMBL74,cromolyn sodium,0.0
+C0011849,diabetes mellitus,CHEMBL488,aminoglutethimide,0.0
+C0011849,diabetes mellitus,CHEMBL501,amphetamine sulfate,0.0
+C0011849,diabetes mellitus,CHEMBL90,histamine,0.0
+C0011849,diabetes mellitus,CHEMBL101,phenylbutazone,0.0
+C0011849,diabetes mellitus,CHEMBL91,miconazole,0.0
+C0011849,diabetes mellitus,CHEMBL528,ceftizoxime,0.0
+C0011849,diabetes mellitus,CHEMBL527,piroxicam,0.0
+C0011849,diabetes mellitus,CHEMBL526,propofol,0.0
+C0011849,diabetes mellitus,CHEMBL524,methoxamine,0.0
+C0011849,diabetes mellitus,CHEMBL13280,flunitrazepam,0.0
+C0011849,diabetes mellitus,CHEMBL13376,clometacin,0.0
+C0011849,diabetes mellitus,CHEMBL521,ibuprofen,0.0
+C0011849,diabetes mellitus,CHEMBL98,vorinostat,0.0
+C0011849,diabetes mellitus,CHEMBL517,disopyramide,0.0
+C0011849,diabetes mellitus,CHEMBL12856,inamrinone,0.0
+C0011849,diabetes mellitus,CHEMBL516,cyproheptadine,0.0
+C0011849,diabetes mellitus,CHEMBL515,chlorambucil,0.0
+C0011849,diabetes mellitus,CHEMBL514,lomustine,0.0
+C0011849,diabetes mellitus,CHEMBL513,carmustine,0.0
+C0011849,diabetes mellitus,CHEMBL12713,sertindole,0.0
+C0011849,diabetes mellitus,CHEMBL511,pyrilamine,0.0
+C0011849,diabetes mellitus,CHEMBL509,meclofenamic acid,0.0
+C0011849,diabetes mellitus,CHEMBL506,primaquine,0.0
+C0011849,diabetes mellitus,CHEMBL505,chlorpheniramine,0.0
+C0011849,diabetes mellitus,CHEMBL504,dimethyl sulfoxide,0.0
+C0011849,diabetes mellitus,CHEMBL269644,acetanilide,0.0
+C0011849,diabetes mellitus,CHEMBL11662,ozagrel,0.0
+C0011849,diabetes mellitus,CHEMBL503,lovastatin,0.0
+C0011849,diabetes mellitus,CHEMBL502,donepezil,0.0
+C0011849,diabetes mellitus,CHEMBL95,tacrine,0.0
+C0011849,diabetes mellitus,CHEMBL93,zileuton,0.0
+C0011849,diabetes mellitus,CHEMBL92,docetaxel anhydrous,0.0
+C0011849,diabetes mellitus,CHEMBL832,sulfinpyrazone,0.0
+C0021368,inflammation,CHEMBL2,prazosin,0.0
+C0011849,diabetes mellitus,CHEMBL3,nicotine,0.0
+C0021368,inflammation,CHEMBL130,chloramphenicol,0.0
+C0021368,inflammation,CHEMBL651,methadone,0.0
+C0021368,inflammation,CHEMBL650,methylprednisolone,0.0
+C0021368,inflammation,CHEMBL434394,nebivolol,0.0
+C0021368,inflammation,CHEMBL648,cyclizine,0.0
+C0021368,inflammation,CHEMBL647,apraclonidine,0.0
+C0021368,inflammation,CHEMBL646,triazolam,0.0
+C0021368,inflammation,CHEMBL645,bisoprolol,0.0
+C0021368,inflammation,CHEMBL644,trimipramine,0.0
+C0021368,inflammation,CHEMBL131,prednisolone,0.0
+C0021368,inflammation,CHEMBL643,promethazine,0.0
+C0021368,inflammation,CHEMBL642,acebutolol,0.0
+C0021368,inflammation,CHEMBL641,atomoxetine,0.0
+C0021368,inflammation,CHEMBL640,procainamide,0.0
+C0021368,inflammation,CHEMBL639,azelastine,0.0
+C0021368,inflammation,CHEMBL689,mannitol,0.0
+C0021368,inflammation,CHEMBL638,voriconazole,0.0
+C0021368,inflammation,CHEMBL129,zidovudine,0.0
+C0021368,inflammation,CHEMBL637,venlafaxine,0.0
+C0021368,inflammation,CHEMBL636,rivastigmine,0.0
+C0021368,inflammation,CHEMBL635,prednisone,0.0
+C0021368,inflammation,CHEMBL634,alfentanil,0.0
+C0021368,inflammation,CHEMBL633,amiodarone,0.0
+C0021368,inflammation,CHEMBL632,betamethasone,0.0
+C0021368,inflammation,CHEMBL631,propafenone,0.0
+C0021368,inflammation,CHEMBL128,sumatriptan,0.0
+C0021368,inflammation,CHEMBL24944,tribromsalan,0.0
+C0021368,inflammation,CHEMBL21869,dibromsalan,0.0
+C0021368,inflammation,CHEMBL629,amitriptyline,0.0
+C0021368,inflammation,CHEMBL652,flecainide,0.0
+C0021368,inflammation,CHEMBL134,clonidine,0.0
+C0021368,inflammation,CHEMBL654,mirtazapine,0.0
+C0021368,inflammation,CHEMBL655,midazolam,0.0
+C0021368,inflammation,CHEMBL686,mefenamic acid,0.0
+C0021368,inflammation,CHEMBL139,diclofenac,0.0
+C0021368,inflammation,CHEMBL685,mebendazole,0.0
+C0021368,inflammation,CHEMBL684,diethylcarbamazine,0.0
+C0021368,inflammation,CHEMBL682,amodiaquine,0.0
+C0021368,inflammation,CHEMBL681,etomidate,0.0
+C0021368,inflammation,CHEMBL680,cefaclor anhydrous,0.0
+C0021368,inflammation,CHEMBL679,epinephrine,0.0
+C0021368,inflammation,CHEMBL677,levonordefrin,0.0
+C0021368,inflammation,CHEMBL675,alendronate sodium,0.0
+C0021368,inflammation,CHEMBL673,pargyline,0.0
+C0021368,inflammation,CHEMBL672,fenofibrate,0.0
+C0021368,inflammation,CHEMBL671,thiotepa,0.0
+C0021368,inflammation,CHEMBL669,cyclobenzaprine,0.0
+C0021368,inflammation,CHEMBL668,protriptyline,0.0
+C0021368,inflammation,CHEMBL137,metronidazole,0.0
+C0021368,inflammation,CHEMBL667,acetylcholine,0.0
+C0021368,inflammation,CHEMBL666,foscarnet,0.0
+C0021368,inflammation,CHEMBL21731,maprotiline,0.0
+C0021368,inflammation,CHEMBL661,alprazolam,0.0
+C0021368,inflammation,CHEMBL660,amantadine,0.0
+C0021368,inflammation,CHEMBL659,galantamine,0.0
+C0021368,inflammation,CHEMBL658,sufentanil,0.0
+C0021368,inflammation,CHEMBL657,diphenhydramine,0.0
+C0021368,inflammation,CHEMBL135,estradiol,0.0
+C0021368,inflammation,CHEMBL656,oxycodone,0.0
+C0021368,inflammation,CHEMBL22242,remoxipride,0.0
+C0021368,inflammation,CHEMBL628,pentoxifylline,0.0
+C0021368,inflammation,CHEMBL626,naftifine,0.0
+C0021368,inflammation,CHEMBL21536,xanomeline,0.0
+C0021368,inflammation,CHEMBL276568,"cefprozil anhydrous, (e)-",0.0
+C0021368,inflammation,CHEMBL19019,naltrexone,0.0
+C0021368,inflammation,CHEMBL602,cysteamine,0.0
+C0021368,inflammation,CHEMBL601,aminolevulinic acid,0.0
+C0021368,inflammation,CHEMBL600,acetylcysteine,0.0
+C0021368,inflammation,CHEMBL599,meloxicam,0.0
+C0021368,inflammation,CHEMBL18116,toloxatone,0.0
+C0021368,inflammation,CHEMBL18442,plerixafor,0.0
+C0021368,inflammation,CHEMBL597,phentolamine,0.0
+C0021368,inflammation,CHEMBL17860,lofexidine,0.0
+C0021368,inflammation,CHEMBL17879,maralixibat chloride,0.0
+C0021368,inflammation,CHEMBL121,rosiglitazone,0.0
+C0021368,inflammation,CHEMBL596,fentanyl,0.0
+C0021368,inflammation,CHEMBL595,pioglitazone,0.0
+C0021368,inflammation,CHEMBL594,emedastine,0.0
+C0021368,inflammation,CHEMBL593,delavirdine,0.0
+C0021368,inflammation,CHEMBL592,levorphanol,0.0
+C0021368,inflammation,CHEMBL17157,terfenadine,0.0
+C0021368,inflammation,CHEMBL591,ethchlorvynol,0.0
+C0021368,inflammation,CHEMBL590,menadione,0.0
+C0021368,inflammation,CHEMBL589,ropinirole,0.0
+C0021368,inflammation,CHEMBL588,fenoldopam,0.0
+C0021368,inflammation,CHEMBL119,trimetrexate,0.0
+C0021368,inflammation,CHEMBL118,celecoxib,0.0
+C0021368,inflammation,CHEMBL16476,pronetalol,0.0
+C0021368,inflammation,CHEMBL585,triamterene,0.0
+C0021368,inflammation,CHEMBL116,amprenavir,0.0
+C0021368,inflammation,CHEMBL584,nelfinavir,0.0
+C0021368,inflammation,CHEMBL603,zafirlukast,0.0
+C0021368,inflammation,CHEMBL122,rofecoxib,0.0
+C0021368,inflammation,CHEMBL625,thiabendazole,0.0
+C0021368,inflammation,CHEMBL19236,moxonidine,0.0
+C0021368,inflammation,CHEMBL623,nefazodone,0.0
+C0021368,inflammation,CHEMBL21333,pranlukast,0.0
+C0021368,inflammation,CHEMBL622,etodolac,0.0
+C0021368,inflammation,CHEMBL621,trazodone,0.0
+C0021368,inflammation,CHEMBL127,meropenem,0.0
+C0021368,inflammation,CHEMBL620,clidinium,0.0
+C0021368,inflammation,CHEMBL126,linezolid,0.0
+C0021368,inflammation,CHEMBL125,miltefosine,0.0
+C0021368,inflammation,CHEMBL617,cephalothin,0.0
+C0021368,inflammation,CHEMBL615,penicillin v,0.0
+C0021368,inflammation,CHEMBL282042,saquinavir mesylate,0.0
+C0021368,inflammation,CHEMBL19449,ibudilast,0.0
+C0021368,inflammation,CHEMBL614,pyrazinamide,0.0
+C0021368,inflammation,CHEMBL282724,sitaxentan,0.0
+C0021368,inflammation,CHEMBL612,dextroamphetamine,0.0
+C0021368,inflammation,CHEMBL19393,levamfetamine,0.0
+C0021368,inflammation,CHEMBL611,terazosin,0.0
+C0021368,inflammation,CHEMBL19490,zomepirac,0.0
+C0021368,inflammation,CHEMBL609,trientine,0.0
+C0021368,inflammation,CHEMBL19299,loxoprofen,0.0
+C0021368,inflammation,CHEMBL608,probucol,0.0
+C0021368,inflammation,CHEMBL282052,methaqualone,0.0
+C0021368,inflammation,CHEMBL607,meperidine,0.0
+C0021368,inflammation,CHEMBL278623,macimorelin,0.0
+C0021368,inflammation,CHEMBL606,misoprostol,0.0
+C0021368,inflammation,CHEMBL605,procainamide hydrochloride,0.0
+C0021368,inflammation,CHEMBL604,cupric sulfate,0.0
+C0021368,inflammation,CHEMBL688,fentanyl citrate,0.0
+C0021368,inflammation,CHEMBL690,pravastatin sodium,0.0
+C0021368,inflammation,CHEMBL114,saquinavir,0.0
+C0021368,inflammation,CHEMBL787,montelukast,0.0
+C0021368,inflammation,CHEMBL154,naproxen,0.0
+C0021368,inflammation,CHEMBL802,minoxidil,0.0
+C0021368,inflammation,CHEMBL799,cilostazol,0.0
+C0021368,inflammation,CHEMBL284092,gepirone,0.0
+C0021368,inflammation,CHEMBL34259,methotrexate,0.0
+C0021368,inflammation,CHEMBL797,phensuximide,0.0
+C0021368,inflammation,CHEMBL285674,estazolam,0.0
+C0021368,inflammation,CHEMBL796,methylphenidate,0.0
+C0021368,inflammation,CHEMBL32800,fenoterol,0.0
+C0021368,inflammation,CHEMBL790,chlorhexidine,0.0
+C0021368,inflammation,CHEMBL152,cidofovir anhydrous,0.0
+C0021368,inflammation,CHEMBL36506,novobiocin,0.0
+C0021368,inflammation,CHEMBL788,idoxuridine,0.0
+C0021368,inflammation,CHEMBL786,tamoxifen citrate,0.0
+C0021368,inflammation,CHEMBL24072,prenylamine,0.0
+C0021368,inflammation,CHEMBL32479,brotizolam,0.0
+C0021368,inflammation,CHEMBL783,nateglinide,0.0
+C0021368,inflammation,CHEMBL782,tolbutamide,0.0
+C0021368,inflammation,CHEMBL290106,bithionol,0.0
+C0021368,inflammation,CHEMBL781,mazindol,0.0
+C0021368,inflammation,CHEMBL780,pentetic acid,0.0
+C0021368,inflammation,CHEMBL33986,butorphanol,0.0
+C0021368,inflammation,CHEMBL779,tadalafil,0.0
+C0021368,inflammation,CHEMBL778,dexmedetomidine,0.0
+C0021368,inflammation,CHEMBL777,clavulanic acid,0.0
+C0021368,inflammation,CHEMBL776,metaproterenol,0.0
+C0021368,inflammation,CHEMBL773,glycine,0.0
+C0021368,inflammation,CHEMBL772,reserpine,0.0
+C0021368,inflammation,CHEMBL416956,mefloquine,0.0
+C0021368,inflammation,CHEMBL803,cytarabine,0.0
+C0021368,inflammation,CHEMBL806,flutamide,0.0
+C0021368,inflammation,CHEMBL807,memantine,0.0
+C0021368,inflammation,CHEMBL832,sulfinpyrazone,0.0
+C0021368,inflammation,CHEMBL831,loxapine,0.0
+C0021368,inflammation,CHEMBL830,eflornithine,0.0
+C0021368,inflammation,CHEMBL43128,primaquine phosphate,0.0
+C0021368,inflammation,CHEMBL829,methylpromazine,0.0
+C0021368,inflammation,CHEMBL827,dexmethylphenidate,0.0
+C0021368,inflammation,CHEMBL826,enoxacin,0.0
+C0021368,inflammation,CHEMBL822,terbinafine,0.0
+C0021368,inflammation,CHEMBL821,guanidine,0.0
+C0021368,inflammation,CHEMBL820,busulfan,0.0
+C0021368,inflammation,CHEMBL290960,nifurtimox,0.0
+C0021368,inflammation,CHEMBL819,oxacillin,0.0
+C0021368,inflammation,CHEMBL818,iobenguane,0.0
+C0021368,inflammation,CHEMBL817,tolazamide,0.0
+C0021368,inflammation,CHEMBL38827,lumefantrine,0.0
+C0021368,inflammation,CHEMBL39736,buformin,0.0
+C0021368,inflammation,CHEMBL815,dinoprost,0.0
+C0021368,inflammation,CHEMBL441738,afamelanotide,0.0
+C0021368,inflammation,CHEMBL814,fluvoxamine,0.0
+C0021368,inflammation,CHEMBL289469,granisetron,0.0
+C0021368,inflammation,CHEMBL813,eprosartan,0.0
+C0021368,inflammation,CHEMBL812,pyridostigmine bromide,0.0
+C0021368,inflammation,CHEMBL37744,zimeldine,0.0
+C0021368,inflammation,CHEMBL811,brompheniramine,0.0
+C0021368,inflammation,CHEMBL810,temozolomide,0.0
+C0021368,inflammation,CHEMBL809,sertraline,0.0
+C0021368,inflammation,CHEMBL808,econazole,0.0
+C0021368,inflammation,CHEMBL148,imipenem anhydrous,0.0
+C0021368,inflammation,CHEMBL771,cycloserine,0.0
+C0021368,inflammation,CHEMBL770,tolazoline,0.0
+C0021368,inflammation,CHEMBL715,olanzapine,0.0
+C0021368,inflammation,CHEMBL141,lamivudine,0.0
+C0021368,inflammation,CHEMBL713,entecavir anhydrous,0.0
+C0021368,inflammation,CHEMBL712,anisindione,0.0
+C0021368,inflammation,CHEMBL711,phenindione,0.0
+C0021368,inflammation,CHEMBL710,finasteride,0.0
+C0021368,inflammation,CHEMBL709,alfuzosin,0.0
+C0021368,inflammation,CHEMBL708,ziprasidone,0.0
+C0021368,inflammation,CHEMBL25202,tamibarotene,0.0
+C0021368,inflammation,CHEMBL278819,minaprine,0.0
+C0021368,inflammation,CHEMBL24828,vandetanib,0.0
+C0021368,inflammation,CHEMBL707,doxazosin,0.0
+C0021368,inflammation,CHEMBL282468,choline chloride,0.0
+C0021368,inflammation,CHEMBL24778,silodosin,0.0
+C0021368,inflammation,CHEMBL706,cetyl alcohol,0.0
+C0021368,inflammation,CHEMBL705,alitretinoin,0.0
+C0021368,inflammation,CHEMBL704,mesalamine,0.0
+C0021368,inflammation,CHEMBL703,suxamethonium,0.0
+C0021368,inflammation,CHEMBL702,piperacillin,0.0
+C0021368,inflammation,CHEMBL701,baclofen,0.0
+C0021368,inflammation,CHEMBL700,sulfapyridine,0.0
+C0021368,inflammation,CHEMBL698,tetracaine,0.0
+C0021368,inflammation,CHEMBL697,methsuximide,0.0
+C0021368,inflammation,CHEMBL696,ethosuximide,0.0
+C0021368,inflammation,CHEMBL695,trimethadione,0.0
+C0021368,inflammation,CHEMBL692,glycerin,0.0
+C0021368,inflammation,CHEMBL284348,dalfampridine,0.0
+C0021368,inflammation,CHEMBL691,ethinyl estradiol,0.0
+C0021368,inflammation,CHEMBL714,albuterol,0.0
+C0021368,inflammation,CHEMBL716,quetiapine,0.0
+C0021368,inflammation,CHEMBL768,esmolol,0.0
+C0021368,inflammation,CHEMBL717,medroxyprogesterone acetate,0.0
+C0021368,inflammation,CHEMBL766,cilastatin,0.0
+C0021368,inflammation,CHEMBL765,guanethidine,0.0
+C0021368,inflammation,CHEMBL762,oxymetazoline,0.0
+C0021368,inflammation,CHEMBL761,naphazoline,0.0
+C0021368,inflammation,CHEMBL760,anagrelide,0.0
+C0021368,inflammation,CHEMBL754,foscarnet sodium,0.0
+C0021368,inflammation,CHEMBL753,phenoxybenzamine,0.0
+C0021368,inflammation,CHEMBL752,adenosine phosphate,0.0
+C0021368,inflammation,CHEMBL750,zonisamide,0.0
+C0021368,inflammation,CHEMBL748,pralidoxime chloride,0.0
+C0021368,inflammation,CHEMBL746,nedocromil,0.0
+C0021368,inflammation,CHEMBL744,riluzole,0.0
+C0021368,inflammation,CHEMBL742,ketamine,0.0
+C0021368,inflammation,CHEMBL741,lamotrigine,0.0
+C0021368,inflammation,CHEMBL30219,methohexital sodium,0.0
+C0021368,inflammation,CHEMBL738,thiopental sodium,0.0
+C0021368,inflammation,CHEMBL734,acetohydroxamic acid,0.0
+C0021368,inflammation,CHEMBL730,nitroglycerin,0.0
+C0021368,inflammation,CHEMBL729,lopinavir,0.0
+C0021368,inflammation,CHEMBL728,prochlorperazine,0.0
+C0021368,inflammation,CHEMBL27193,dilevalol,0.0
+C0021368,inflammation,CHEMBL727,thioguanine,0.0
+C0021368,inflammation,CHEMBL726,fluphenazine,0.0
+C0021368,inflammation,CHEMBL723,carvedilol,0.0
+C0021368,inflammation,CHEMBL28318,propyphenazone,0.0
+C0021368,inflammation,CHEMBL720,benzyl alcohol,0.0
+C0021368,inflammation,CHEMBL719,mupirocin,0.0
+C0021368,inflammation,CHEMBL115,indinavir anhydrous,0.0
+C0021368,inflammation,CHEMBL583,grepafloxacin,0.0
+C0021368,inflammation,CHEMBL3,nicotine,0.0
+C0021368,inflammation,CHEMBL448,pentobarbital,0.0
+C0021368,inflammation,CHEMBL455,sulfacetamide,0.0
+C0021368,inflammation,CHEMBL454,butalbital,0.0
+C0021368,inflammation,CHEMBL268869,sulfamethoxypyridazine,0.0
+C0021368,inflammation,CHEMBL453,sulfisoxazole,0.0
+C0021368,inflammation,CHEMBL452,clonazepam,0.0
+C0021368,inflammation,CHEMBL266349,melagatran,0.0
+C0021368,inflammation,CHEMBL451,chlordiazepoxide,0.0
+C0021368,inflammation,CHEMBL450,metharbital,0.0
+C0021368,inflammation,CHEMBL7863,aprobarbital,0.0
+C0021368,inflammation,CHEMBL449,butabarbital,0.0
+C0021368,inflammation,CHEMBL7728,hexobarbital,0.0
+C0021368,inflammation,CHEMBL267894,amobarbital,0.0
+C0021368,inflammation,CHEMBL7568,quinacrine,0.0
+C0021368,inflammation,CHEMBL447,secobarbital,0.0
+C0021368,inflammation,CHEMBL70,morphine,0.0
+C0021368,inflammation,CHEMBL446,sulfamethazine,0.0
+C0021368,inflammation,CHEMBL445,nortriptyline,0.0
+C0021368,inflammation,CHEMBL42,clozapine,0.0
+C0021368,inflammation,CHEMBL443,sulfamethoxazole,0.0
+C0021368,inflammation,CHEMBL41,fluoxetine,0.0
+C0021368,inflammation,CHEMBL40,phenobarbital,0.0
+C0021368,inflammation,CHEMBL7413,methohexital,0.0
+C0021368,inflammation,CHEMBL38,tretinoin,0.0
+C0021368,inflammation,CHEMBL442,ergotamine,0.0
+C0021368,inflammation,CHEMBL268164,cyclobarbital,0.0
+C0021368,inflammation,CHEMBL441,thiopental,0.0
+C0021368,inflammation,CHEMBL440,thiamylal,0.0
+C0021368,inflammation,CHEMBL439,sulfadiazine,0.0
+C0021368,inflammation,CHEMBL43,amsacrine,0.0
+C0021368,inflammation,CHEMBL456,ethacrynic acid,0.0
+C0021368,inflammation,CHEMBL267744,ticrynafen,0.0
+C0021368,inflammation,CHEMBL457,gemfibrozil,0.0
+C0021368,inflammation,CHEMBL480,lansoprazole,0.0
+C0021368,inflammation,CHEMBL479,thioridazine,0.0
+C0021368,inflammation,CHEMBL477,adenosine,0.0
+C0021368,inflammation,CHEMBL476,dacarbazine,0.0
+C0021368,inflammation,CHEMBL473,dofetilide,0.0
+C0021368,inflammation,CHEMBL9225,hexestrol,0.0
+C0021368,inflammation,CHEMBL472,glyburide,0.0
+C0021368,inflammation,CHEMBL471,sotalol,0.0
+C0021368,inflammation,CHEMBL469,ketorolac,0.0
+C0021368,inflammation,CHEMBL468,thalidomide,0.0
+C0021368,inflammation,CHEMBL64,isoniazid,0.0
+C0021368,inflammation,CHEMBL61,podofilox,0.0
+C0021368,inflammation,CHEMBL467,hydroxyurea,0.0
+C0021368,inflammation,CHEMBL59,dopamine,0.0
+C0021368,inflammation,CHEMBL58,mitoxantrone,0.0
+C0021368,inflammation,CHEMBL465,dronabinol,0.0
+C0021368,inflammation,CHEMBL57,nevirapine,0.0
+C0021368,inflammation,CHEMBL464,etretinate,0.0
+C0021368,inflammation,CHEMBL463,aminohippuric acid,0.0
+C0021368,inflammation,CHEMBL55,pentamidine,0.0
+C0021368,inflammation,CHEMBL54,haloperidol,0.0
+C0021368,inflammation,CHEMBL53,apomorphine,0.0
+C0021368,inflammation,CHEMBL460,molindone,0.0
+C0021368,inflammation,CHEMBL459,methyldopa,0.0
+C0021368,inflammation,CHEMBL49,buspirone,0.0
+C0021368,inflammation,CHEMBL46,ondansetron,0.0
+C0021368,inflammation,CHEMBL45,melatonin,0.0
+C0021368,inflammation,CHEMBL438,sulfamerazine,0.0
+C0021368,inflammation,CHEMBL437,sulfathiazole,0.0
+C0021368,inflammation,CHEMBL436,tolrestat,0.0
+C0021368,inflammation,CHEMBL19,methazolamide,0.0
+C0021368,inflammation,CHEMBL18,ethoxzolamide,0.0
+C0021368,inflammation,CHEMBL17,dichlorphenamide,0.0
+C0021368,inflammation,CHEMBL416,methoxsalen,0.0
+C0021368,inflammation,CHEMBL415,clomipramine,0.0
+C0021368,inflammation,CHEMBL269732,tacrolimus anhydrous,0.0
+C0021368,inflammation,CHEMBL413,sirolimus,0.0
+C0021368,inflammation,CHEMBL16,phenytoin,0.0
+C0021368,inflammation,CHEMBL14,carbachol,0.0
+C0021368,inflammation,CHEMBL267936,mecamylamine,0.0
+C0021368,inflammation,CHEMBL411,diethylstilbestrol,0.0
+C0021368,inflammation,CHEMBL13,metoprolol,0.0
+C0021368,inflammation,CHEMBL12,diazepam,0.0
+C0021368,inflammation,CHEMBL409,bicalutamide,0.0
+C0021368,inflammation,CHEMBL408,troglitazone,0.0
+C0021368,inflammation,CHEMBL407,flumazenil,0.0
+C0021368,inflammation,CHEMBL406,indapamide,0.0
+C0021368,inflammation,CHEMBL11,imipramine,0.0
+C0021368,inflammation,CHEMBL6437,mianserin,0.0
+C0021368,inflammation,CHEMBL6622,isosorbide dinitrate,0.0
+C0021368,inflammation,CHEMBL405,amphetamine,0.0
+C0021368,inflammation,CHEMBL9,norfloxacin,0.0
+C0021368,inflammation,CHEMBL8,ciprofloxacin,0.0
+C0021368,inflammation,CHEMBL404,tazobactam,0.0
+C0021368,inflammation,CHEMBL403,sulbactam,0.0
+C0021368,inflammation,CHEMBL6,indomethacin,0.0
+C0021368,inflammation,CHEMBL5,nalidixic acid,0.0
+C0021368,inflammation,CHEMBL4,ofloxacin,0.0
+C0021368,inflammation,CHEMBL417,epirubicin,0.0
+C0021368,inflammation,CHEMBL20,acetazolamide,0.0
+C0021368,inflammation,CHEMBL36,pyrimethamine,0.0
+C0021368,inflammation,CHEMBL419,mafenide,0.0
+C0021368,inflammation,CHEMBL35,furosemide,0.0
+C0021368,inflammation,CHEMBL435,hydrochlorothiazide,0.0
+C0021368,inflammation,CHEMBL434,isoproterenol,0.0
+C0021368,inflammation,CHEMBL433,valproate sodium,0.0
+C0021368,inflammation,CHEMBL431,spirapril,0.0
+C0021368,inflammation,CHEMBL430,gemifloxacin,0.0
+C0021368,inflammation,CHEMBL33,levofloxacin anhydrous,0.0
+C0021368,inflammation,CHEMBL32,moxifloxacin,0.0
+C0021368,inflammation,CHEMBL429,labetalol,0.0
+C0021368,inflammation,CHEMBL31,gatifloxacin,0.0
+C0021368,inflammation,CHEMBL30,cimetidine,0.0
+C0021368,inflammation,CHEMBL428,trovafloxacin,0.0
+C0021368,inflammation,CHEMBL29,penicillin g,0.0
+C0021368,inflammation,CHEMBL427,mechlorethamine,0.0
+C0021368,inflammation,CHEMBL6995,practolol,0.0
+C0021368,inflammation,CHEMBL27,propranolol,0.0
+C0021368,inflammation,CHEMBL425,olsalazine,0.0
+C0021368,inflammation,CHEMBL423,betaxolol,0.0
+C0021368,inflammation,CHEMBL422,trifluoperazine,0.0
+C0021368,inflammation,CHEMBL24,atenolol,0.0
+C0021368,inflammation,CHEMBL23,diltiazem,0.0
+C0021368,inflammation,CHEMBL6466,coumarin,0.0
+C0021368,inflammation,CHEMBL421,sulfasalazine,0.0
+C0021368,inflammation,CHEMBL6966,verapamil,0.0
+C0021368,inflammation,CHEMBL22,trimethoprim,0.0
+C0021368,inflammation,CHEMBL420,guanabenz,0.0
+C0021368,inflammation,CHEMBL21,sulfanilamide,0.0
+C0021368,inflammation,CHEMBL481,irinotecan,0.0
+C0021368,inflammation,CHEMBL485,codeine,0.0
+C0021368,inflammation,CHEMBL582,isopropyl alcohol,0.0
+C0021368,inflammation,CHEMBL106,fluconazole,0.0
+C0021368,inflammation,CHEMBL277100,temafloxacin,0.0
+C0021368,inflammation,CHEMBL109,valproic acid,0.0
+C0021368,inflammation,CHEMBL108,carbamazepine,0.0
+C0021368,inflammation,CHEMBL554,lapatinib,0.0
+C0021368,inflammation,CHEMBL553,erlotinib,0.0
+C0021368,inflammation,CHEMBL107,colchicine,0.0
+C0021368,inflammation,CHEMBL550,pilocarpine,0.0
+C0021368,inflammation,CHEMBL549,citalopram,0.0
+C0021368,inflammation,CHEMBL14370,reboxetine,0.0
+C0021368,inflammation,CHEMBL278020,neostigmine,0.0
+C0021368,inflammation,CHEMBL548,dinoprostone,0.0
+C0021368,inflammation,CHEMBL14376,iloperidone,0.0
+C0021368,inflammation,CHEMBL547,isotretinoin,0.0
+C0021368,inflammation,CHEMBL546,oxprenolol,0.0
+C0021368,inflammation,CHEMBL71,chlorpromazine,0.0
+C0021368,inflammation,CHEMBL545,alcohol,0.0
+C0021368,inflammation,CHEMBL105,mitomycin,0.0
+C0021368,inflammation,CHEMBL104,clotrimazole,0.0
+C0021368,inflammation,CHEMBL544,mequinol,0.0
+C0021368,inflammation,CHEMBL14060,phenol,0.0
+C0021368,inflammation,CHEMBL539,acetic acid,0.0
+C0021368,inflammation,CHEMBL537,hydroquinone,0.0
+C0021368,inflammation,CHEMBL535,sunitinib,0.0
+C0021368,inflammation,CHEMBL534,ketotifen,0.0
+C0021368,inflammation,CHEMBL103,progesterone,0.0
+C0021368,inflammation,CHEMBL533,ibutilide,0.0
+C0021368,inflammation,CHEMBL532,erythromycin,0.0
+C0021368,inflammation,CHEMBL531,pergolide,0.0
+C0021368,inflammation,CHEMBL110,benznidazole,0.0
+C0021368,inflammation,CHEMBL556,deferoxamine,0.0
+C0021368,inflammation,CHEMBL558,mexiletine,0.0
+C0021368,inflammation,CHEMBL559,dextrothyroxine,0.0
+C0021368,inflammation,CHEMBL580,lorazepam,0.0
+C0021368,inflammation,CHEMBL578,enalapril,0.0
+C0021368,inflammation,CHEMBL577,enalaprilat anhydrous,0.0
+C0021368,inflammation,CHEMBL16080,trichloroethane,0.0
+C0021368,inflammation,CHEMBL575,methicillin,0.0
+C0021368,inflammation,CHEMBL573,niacin,0.0
+C0021368,inflammation,CHEMBL15891,lindane,0.0
+C0021368,inflammation,CHEMBL15870,indoprofen,0.0
+C0021368,inflammation,CHEMBL572,nitrofurantoin,0.0
+C0021368,inflammation,CHEMBL571,ketoprofen,0.0
+C0021368,inflammation,CHEMBL570,triflupromazine,0.0
+C0021368,inflammation,CHEMBL569,procaine,0.0
+C0021368,inflammation,CHEMBL276520,indalpine,0.0
+C0021368,inflammation,CHEMBL15677,fenclofenac,0.0
+C0021368,inflammation,CHEMBL15770,sulindac,0.0
+C0021368,inflammation,CHEMBL568,oxazepam,0.0
+C0021368,inflammation,CHEMBL567,perphenazine,0.0
+C0021368,inflammation,CHEMBL16073,phenacetin,0.0
+C0021368,inflammation,CHEMBL113,caffeine,0.0
+C0021368,inflammation,CHEMBL112,acetaminophen,0.0
+C0021368,inflammation,CHEMBL565,clofibrate,0.0
+C0021368,inflammation,CHEMBL564,promazine,0.0
+C0021368,inflammation,CHEMBL563,flurbiprofen,0.0
+C0021368,inflammation,CHEMBL562,griseofulvin,0.0
+C0021368,inflammation,CHEMBL561,lomefloxacin,0.0
+C0021368,inflammation,CHEMBL273575,nomifensine,0.0
+C0021368,inflammation,CHEMBL111,rimonabant,0.0
+C0021368,inflammation,CHEMBL530,amdinocillin,0.0
+C0021368,inflammation,CHEMBL529,azithromycin,0.0
+C0021368,inflammation,CHEMBL101,phenylbutazone,0.0
+C0021368,inflammation,CHEMBL501,amphetamine sulfate,0.0
+C0021368,inflammation,CHEMBL11359,cisplatin,0.0
+C0021368,inflammation,CHEMBL500,pindolol,0.0
+C0021368,inflammation,CHEMBL499,timolol,0.0
+C0021368,inflammation,CHEMBL498,chlorpropamide,0.0
+C0021368,inflammation,CHEMBL88,cyclophosphamide anhydrous,0.0
+C0021368,inflammation,CHEMBL10878,agomelatine,0.0
+C0021368,inflammation,CHEMBL497,clioquinol,0.0
+C0021368,inflammation,CHEMBL496,hexachlorophene,0.0
+C0021368,inflammation,CHEMBL495,alprostadil,0.0
+C0021368,inflammation,CHEMBL428647,paclitaxel,0.0
+C0021368,inflammation,CHEMBL86,metoclopramide,0.0
+C0021368,inflammation,CHEMBL428880,cromolyn,0.0
+C0021368,inflammation,CHEMBL85,risperidone,0.0
+C0021368,inflammation,CHEMBL84,topotecan,0.0
+C0021368,inflammation,CHEMBL494,iloprost,0.0
+C0021368,inflammation,CHEMBL493,bromocriptine,0.0
+C0021368,inflammation,CHEMBL83,tamoxifen,0.0
+C0021368,inflammation,CHEMBL81,raloxifene,0.0
+C0021368,inflammation,CHEMBL80,naloxone,0.0
+C0021368,inflammation,CHEMBL492,etidocaine,0.0
+C0021368,inflammation,CHEMBL79,lidocaine,0.0
+C0021368,inflammation,CHEMBL416146,etoricoxib,0.0
+C0021368,inflammation,CHEMBL490,paroxetine,0.0
+C0021368,inflammation,CHEMBL76,chloroquine,0.0
+C0021368,inflammation,CHEMBL74,cromolyn sodium,0.0
+C0021368,inflammation,CHEMBL488,aminoglutethimide,0.0
+C0021368,inflammation,CHEMBL72,desipramine,0.0
+C0021368,inflammation,CHEMBL276832,hydralazine,0.0
+C0021368,inflammation,CHEMBL267345,amphotericin b,0.0
+C0021368,inflammation,CHEMBL528,ceftizoxime,0.0
+C0021368,inflammation,CHEMBL90,histamine,0.0
+C0021368,inflammation,CHEMBL527,piroxicam,0.0
+C0021368,inflammation,CHEMBL526,propofol,0.0
+C0021368,inflammation,CHEMBL524,methoxamine,0.0
+C0021368,inflammation,CHEMBL13280,flunitrazepam,0.0
+C0021368,inflammation,CHEMBL13376,clometacin,0.0
+C0021368,inflammation,CHEMBL521,ibuprofen,0.0
+C0021368,inflammation,CHEMBL98,vorinostat,0.0
+C0021368,inflammation,CHEMBL517,disopyramide,0.0
+C0021368,inflammation,CHEMBL12856,inamrinone,0.0
+C0021368,inflammation,CHEMBL516,cyproheptadine,0.0
+C0021368,inflammation,CHEMBL515,chlorambucil,0.0
+C0021368,inflammation,CHEMBL514,lomustine,0.0
+C0021368,inflammation,CHEMBL513,carmustine,0.0
+C0021368,inflammation,CHEMBL12713,sertindole,0.0
+C0021368,inflammation,CHEMBL511,pyrilamine,0.0
+C0021368,inflammation,CHEMBL509,meclofenamic acid,0.0
+C0021368,inflammation,CHEMBL506,primaquine,0.0
+C0021368,inflammation,CHEMBL505,chlorpheniramine,0.0
+C0021368,inflammation,CHEMBL504,dimethyl sulfoxide,0.0
+C0021368,inflammation,CHEMBL269644,acetanilide,0.0
+C0021368,inflammation,CHEMBL11662,ozagrel,0.0
+C0021368,inflammation,CHEMBL503,lovastatin,0.0
+C0021368,inflammation,CHEMBL502,donepezil,0.0
+C0021368,inflammation,CHEMBL95,tacrine,0.0
+C0021368,inflammation,CHEMBL93,zileuton,0.0
+C0021368,inflammation,CHEMBL92,docetaxel anhydrous,0.0
+C0021368,inflammation,CHEMBL91,miconazole,0.0
+C0011849,diabetes mellitus,CHEMBL4,ofloxacin,0.0
+C0011849,diabetes mellitus,CHEMBL2,prazosin,0.0
+C0002395,alzheimer's disease,CHEMBL3,nicotine,0.0
+C0002395,alzheimer's disease,CHEMBL639,azelastine,0.0
+C0002395,alzheimer's disease,CHEMBL650,methylprednisolone,0.0
+C0002395,alzheimer's disease,CHEMBL434394,nebivolol,0.0
+C0002395,alzheimer's disease,CHEMBL648,cyclizine,0.0
+C0002395,alzheimer's disease,CHEMBL647,apraclonidine,0.0
+C0002395,alzheimer's disease,CHEMBL646,triazolam,0.0
+C0002395,alzheimer's disease,CHEMBL645,bisoprolol,0.0
+C0002395,alzheimer's disease,CHEMBL644,trimipramine,0.0
+C0002395,alzheimer's disease,CHEMBL131,prednisolone,0.0
+C0002395,alzheimer's disease,CHEMBL643,promethazine,0.0
+C0002395,alzheimer's disease,CHEMBL642,acebutolol,0.0
+C0002395,alzheimer's disease,CHEMBL641,atomoxetine,0.0
+C0002395,alzheimer's disease,CHEMBL640,procainamide,0.0
+C0002395,alzheimer's disease,CHEMBL130,chloramphenicol,0.0
+C0002395,alzheimer's disease,CHEMBL638,voriconazole,0.0
+C0002395,alzheimer's disease,CHEMBL688,fentanyl citrate,0.0
+C0002395,alzheimer's disease,CHEMBL129,zidovudine,0.0
+C0002395,alzheimer's disease,CHEMBL637,venlafaxine,0.0
+C0002395,alzheimer's disease,CHEMBL636,rivastigmine,0.0
+C0002395,alzheimer's disease,CHEMBL635,prednisone,0.0
+C0002395,alzheimer's disease,CHEMBL634,alfentanil,0.0
+C0002395,alzheimer's disease,CHEMBL633,amiodarone,0.0
+C0002395,alzheimer's disease,CHEMBL632,betamethasone,0.0
+C0002395,alzheimer's disease,CHEMBL631,propafenone,0.0
+C0002395,alzheimer's disease,CHEMBL128,sumatriptan,0.0
+C0002395,alzheimer's disease,CHEMBL24944,tribromsalan,0.0
+C0002395,alzheimer's disease,CHEMBL21869,dibromsalan,0.0
+C0002395,alzheimer's disease,CHEMBL629,amitriptyline,0.0
+C0002395,alzheimer's disease,CHEMBL628,pentoxifylline,0.0
+C0002395,alzheimer's disease,CHEMBL651,methadone,0.0
+C0002395,alzheimer's disease,CHEMBL652,flecainide,0.0
+C0002395,alzheimer's disease,CHEMBL134,clonidine,0.0
+C0002395,alzheimer's disease,CHEMBL654,mirtazapine,0.0
+C0002395,alzheimer's disease,CHEMBL139,diclofenac,0.0
+C0002395,alzheimer's disease,CHEMBL685,mebendazole,0.0
+C0002395,alzheimer's disease,CHEMBL684,diethylcarbamazine,0.0
+C0002395,alzheimer's disease,CHEMBL682,amodiaquine,0.0
+C0002395,alzheimer's disease,CHEMBL681,etomidate,0.0
+C0002395,alzheimer's disease,CHEMBL680,cefaclor anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL679,epinephrine,0.0
+C0002395,alzheimer's disease,CHEMBL677,levonordefrin,0.0
+C0002395,alzheimer's disease,CHEMBL675,alendronate sodium,0.0
+C0002395,alzheimer's disease,CHEMBL673,pargyline,0.0
+C0002395,alzheimer's disease,CHEMBL672,fenofibrate,0.0
+C0002395,alzheimer's disease,CHEMBL671,thiotepa,0.0
+C0002395,alzheimer's disease,CHEMBL669,cyclobenzaprine,0.0
+C0002395,alzheimer's disease,CHEMBL668,protriptyline,0.0
+C0002395,alzheimer's disease,CHEMBL137,metronidazole,0.0
+C0002395,alzheimer's disease,CHEMBL667,acetylcholine,0.0
+C0002395,alzheimer's disease,CHEMBL666,foscarnet,0.0
+C0002395,alzheimer's disease,CHEMBL21731,maprotiline,0.0
+C0002395,alzheimer's disease,CHEMBL661,alprazolam,0.0
+C0002395,alzheimer's disease,CHEMBL660,amantadine,0.0
+C0002395,alzheimer's disease,CHEMBL659,galantamine,0.0
+C0002395,alzheimer's disease,CHEMBL658,sufentanil,0.0
+C0002395,alzheimer's disease,CHEMBL657,diphenhydramine,0.0
+C0002395,alzheimer's disease,CHEMBL135,estradiol,0.0
+C0002395,alzheimer's disease,CHEMBL656,oxycodone,0.0
+C0002395,alzheimer's disease,CHEMBL22242,remoxipride,0.0
+C0002395,alzheimer's disease,CHEMBL655,midazolam,0.0
+C0002395,alzheimer's disease,CHEMBL626,naftifine,0.0
+C0002395,alzheimer's disease,CHEMBL21536,xanomeline,0.0
+C0002395,alzheimer's disease,CHEMBL625,thiabendazole,0.0
+C0002395,alzheimer's disease,CHEMBL603,zafirlukast,0.0
+C0002395,alzheimer's disease,CHEMBL602,cysteamine,0.0
+C0002395,alzheimer's disease,CHEMBL601,aminolevulinic acid,0.0
+C0002395,alzheimer's disease,CHEMBL600,acetylcysteine,0.0
+C0002395,alzheimer's disease,CHEMBL599,meloxicam,0.0
+C0002395,alzheimer's disease,CHEMBL18116,toloxatone,0.0
+C0002395,alzheimer's disease,CHEMBL18442,plerixafor,0.0
+C0002395,alzheimer's disease,CHEMBL597,phentolamine,0.0
+C0002395,alzheimer's disease,CHEMBL17860,lofexidine,0.0
+C0002395,alzheimer's disease,CHEMBL17879,maralixibat chloride,0.0
+C0002395,alzheimer's disease,CHEMBL121,rosiglitazone,0.0
+C0002395,alzheimer's disease,CHEMBL596,fentanyl,0.0
+C0002395,alzheimer's disease,CHEMBL595,pioglitazone,0.0
+C0002395,alzheimer's disease,CHEMBL594,emedastine,0.0
+C0002395,alzheimer's disease,CHEMBL593,delavirdine,0.0
+C0002395,alzheimer's disease,CHEMBL592,levorphanol,0.0
+C0002395,alzheimer's disease,CHEMBL17157,terfenadine,0.0
+C0002395,alzheimer's disease,CHEMBL591,ethchlorvynol,0.0
+C0002395,alzheimer's disease,CHEMBL590,menadione,0.0
+C0002395,alzheimer's disease,CHEMBL589,ropinirole,0.0
+C0002395,alzheimer's disease,CHEMBL588,fenoldopam,0.0
+C0002395,alzheimer's disease,CHEMBL119,trimetrexate,0.0
+C0002395,alzheimer's disease,CHEMBL118,celecoxib,0.0
+C0002395,alzheimer's disease,CHEMBL16476,pronetalol,0.0
+C0002395,alzheimer's disease,CHEMBL585,triamterene,0.0
+C0002395,alzheimer's disease,CHEMBL116,amprenavir,0.0
+C0002395,alzheimer's disease,CHEMBL584,nelfinavir,0.0
+C0002395,alzheimer's disease,CHEMBL115,indinavir anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL19019,naltrexone,0.0
+C0002395,alzheimer's disease,CHEMBL276568,"cefprozil anhydrous, (e)-",0.0
+C0002395,alzheimer's disease,CHEMBL623,nefazodone,0.0
+C0002395,alzheimer's disease,CHEMBL122,rofecoxib,0.0
+C0002395,alzheimer's disease,CHEMBL21333,pranlukast,0.0
+C0002395,alzheimer's disease,CHEMBL622,etodolac,0.0
+C0002395,alzheimer's disease,CHEMBL621,trazodone,0.0
+C0002395,alzheimer's disease,CHEMBL127,meropenem,0.0
+C0002395,alzheimer's disease,CHEMBL620,clidinium,0.0
+C0002395,alzheimer's disease,CHEMBL126,linezolid,0.0
+C0002395,alzheimer's disease,CHEMBL125,miltefosine,0.0
+C0002395,alzheimer's disease,CHEMBL617,cephalothin,0.0
+C0002395,alzheimer's disease,CHEMBL615,penicillin v,0.0
+C0002395,alzheimer's disease,CHEMBL282042,saquinavir mesylate,0.0
+C0002395,alzheimer's disease,CHEMBL19449,ibudilast,0.0
+C0002395,alzheimer's disease,CHEMBL614,pyrazinamide,0.0
+C0002395,alzheimer's disease,CHEMBL282724,sitaxentan,0.0
+C0002395,alzheimer's disease,CHEMBL612,dextroamphetamine,0.0
+C0002395,alzheimer's disease,CHEMBL19393,levamfetamine,0.0
+C0002395,alzheimer's disease,CHEMBL611,terazosin,0.0
+C0002395,alzheimer's disease,CHEMBL19490,zomepirac,0.0
+C0002395,alzheimer's disease,CHEMBL609,trientine,0.0
+C0002395,alzheimer's disease,CHEMBL19299,loxoprofen,0.0
+C0002395,alzheimer's disease,CHEMBL608,probucol,0.0
+C0002395,alzheimer's disease,CHEMBL282052,methaqualone,0.0
+C0002395,alzheimer's disease,CHEMBL607,meperidine,0.0
+C0002395,alzheimer's disease,CHEMBL278623,macimorelin,0.0
+C0002395,alzheimer's disease,CHEMBL606,misoprostol,0.0
+C0002395,alzheimer's disease,CHEMBL605,procainamide hydrochloride,0.0
+C0002395,alzheimer's disease,CHEMBL604,cupric sulfate,0.0
+C0002395,alzheimer's disease,CHEMBL19236,moxonidine,0.0
+C0002395,alzheimer's disease,CHEMBL686,mefenamic acid,0.0
+C0002395,alzheimer's disease,CHEMBL689,mannitol,0.0
+C0002395,alzheimer's disease,CHEMBL583,grepafloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL786,tamoxifen citrate,0.0
+C0002395,alzheimer's disease,CHEMBL802,minoxidil,0.0
+C0002395,alzheimer's disease,CHEMBL799,cilostazol,0.0
+C0002395,alzheimer's disease,CHEMBL284092,gepirone,0.0
+C0002395,alzheimer's disease,CHEMBL34259,methotrexate,0.0
+C0002395,alzheimer's disease,CHEMBL797,phensuximide,0.0
+C0002395,alzheimer's disease,CHEMBL285674,estazolam,0.0
+C0002395,alzheimer's disease,CHEMBL796,methylphenidate,0.0
+C0002395,alzheimer's disease,CHEMBL32800,fenoterol,0.0
+C0002395,alzheimer's disease,CHEMBL790,chlorhexidine,0.0
+C0002395,alzheimer's disease,CHEMBL152,cidofovir anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL36506,novobiocin,0.0
+C0002395,alzheimer's disease,CHEMBL788,idoxuridine,0.0
+C0002395,alzheimer's disease,CHEMBL787,montelukast,0.0
+C0002395,alzheimer's disease,CHEMBL32479,brotizolam,0.0
+C0002395,alzheimer's disease,CHEMBL690,pravastatin sodium,0.0
+C0002395,alzheimer's disease,CHEMBL783,nateglinide,0.0
+C0002395,alzheimer's disease,CHEMBL782,tolbutamide,0.0
+C0002395,alzheimer's disease,CHEMBL290106,bithionol,0.0
+C0002395,alzheimer's disease,CHEMBL781,mazindol,0.0
+C0002395,alzheimer's disease,CHEMBL780,pentetic acid,0.0
+C0002395,alzheimer's disease,CHEMBL33986,butorphanol,0.0
+C0002395,alzheimer's disease,CHEMBL779,tadalafil,0.0
+C0002395,alzheimer's disease,CHEMBL778,dexmedetomidine,0.0
+C0002395,alzheimer's disease,CHEMBL777,clavulanic acid,0.0
+C0002395,alzheimer's disease,CHEMBL776,metaproterenol,0.0
+C0002395,alzheimer's disease,CHEMBL773,glycine,0.0
+C0002395,alzheimer's disease,CHEMBL772,reserpine,0.0
+C0002395,alzheimer's disease,CHEMBL148,imipenem anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL154,naproxen,0.0
+C0002395,alzheimer's disease,CHEMBL416956,mefloquine,0.0
+C0002395,alzheimer's disease,CHEMBL803,cytarabine,0.0
+C0002395,alzheimer's disease,CHEMBL806,flutamide,0.0
+C0002395,alzheimer's disease,CHEMBL831,loxapine,0.0
+C0002395,alzheimer's disease,CHEMBL830,eflornithine,0.0
+C0002395,alzheimer's disease,CHEMBL43128,primaquine phosphate,0.0
+C0002395,alzheimer's disease,CHEMBL829,methylpromazine,0.0
+C0002395,alzheimer's disease,CHEMBL827,dexmethylphenidate,0.0
+C0002395,alzheimer's disease,CHEMBL826,enoxacin,0.0
+C0002395,alzheimer's disease,CHEMBL822,terbinafine,0.0
+C0002395,alzheimer's disease,CHEMBL821,guanidine,0.0
+C0002395,alzheimer's disease,CHEMBL820,busulfan,0.0
+C0002395,alzheimer's disease,CHEMBL290960,nifurtimox,0.0
+C0002395,alzheimer's disease,CHEMBL819,oxacillin,0.0
+C0002395,alzheimer's disease,CHEMBL818,iobenguane,0.0
+C0002395,alzheimer's disease,CHEMBL817,tolazamide,0.0
+C0002395,alzheimer's disease,CHEMBL38827,lumefantrine,0.0
+C0002395,alzheimer's disease,CHEMBL39736,buformin,0.0
+C0002395,alzheimer's disease,CHEMBL815,dinoprost,0.0
+C0002395,alzheimer's disease,CHEMBL441738,afamelanotide,0.0
+C0002395,alzheimer's disease,CHEMBL814,fluvoxamine,0.0
+C0002395,alzheimer's disease,CHEMBL289469,granisetron,0.0
+C0002395,alzheimer's disease,CHEMBL813,eprosartan,0.0
+C0002395,alzheimer's disease,CHEMBL812,pyridostigmine bromide,0.0
+C0002395,alzheimer's disease,CHEMBL37744,zimeldine,0.0
+C0002395,alzheimer's disease,CHEMBL811,brompheniramine,0.0
+C0002395,alzheimer's disease,CHEMBL810,temozolomide,0.0
+C0002395,alzheimer's disease,CHEMBL809,sertraline,0.0
+C0002395,alzheimer's disease,CHEMBL808,econazole,0.0
+C0002395,alzheimer's disease,CHEMBL807,memantine,0.0
+C0002395,alzheimer's disease,CHEMBL771,cycloserine,0.0
+C0002395,alzheimer's disease,CHEMBL770,tolazoline,0.0
+C0002395,alzheimer's disease,CHEMBL768,esmolol,0.0
+C0002395,alzheimer's disease,CHEMBL714,albuterol,0.0
+C0002395,alzheimer's disease,CHEMBL713,entecavir anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL712,anisindione,0.0
+C0002395,alzheimer's disease,CHEMBL711,phenindione,0.0
+C0002395,alzheimer's disease,CHEMBL710,finasteride,0.0
+C0002395,alzheimer's disease,CHEMBL709,alfuzosin,0.0
+C0002395,alzheimer's disease,CHEMBL708,ziprasidone,0.0
+C0002395,alzheimer's disease,CHEMBL25202,tamibarotene,0.0
+C0002395,alzheimer's disease,CHEMBL278819,minaprine,0.0
+C0002395,alzheimer's disease,CHEMBL24828,vandetanib,0.0
+C0002395,alzheimer's disease,CHEMBL707,doxazosin,0.0
+C0002395,alzheimer's disease,CHEMBL282468,choline chloride,0.0
+C0002395,alzheimer's disease,CHEMBL24778,silodosin,0.0
+C0002395,alzheimer's disease,CHEMBL706,cetyl alcohol,0.0
+C0002395,alzheimer's disease,CHEMBL705,alitretinoin,0.0
+C0002395,alzheimer's disease,CHEMBL704,mesalamine,0.0
+C0002395,alzheimer's disease,CHEMBL703,suxamethonium,0.0
+C0002395,alzheimer's disease,CHEMBL702,piperacillin,0.0
+C0002395,alzheimer's disease,CHEMBL701,baclofen,0.0
+C0002395,alzheimer's disease,CHEMBL700,sulfapyridine,0.0
+C0002395,alzheimer's disease,CHEMBL698,tetracaine,0.0
+C0002395,alzheimer's disease,CHEMBL697,methsuximide,0.0
+C0002395,alzheimer's disease,CHEMBL696,ethosuximide,0.0
+C0002395,alzheimer's disease,CHEMBL695,trimethadione,0.0
+C0002395,alzheimer's disease,CHEMBL692,glycerin,0.0
+C0002395,alzheimer's disease,CHEMBL284348,dalfampridine,0.0
+C0002395,alzheimer's disease,CHEMBL691,ethinyl estradiol,0.0
+C0002395,alzheimer's disease,CHEMBL24072,prenylamine,0.0
+C0002395,alzheimer's disease,CHEMBL141,lamivudine,0.0
+C0002395,alzheimer's disease,CHEMBL715,olanzapine,0.0
+C0002395,alzheimer's disease,CHEMBL766,cilastatin,0.0
+C0002395,alzheimer's disease,CHEMBL716,quetiapine,0.0
+C0002395,alzheimer's disease,CHEMBL765,guanethidine,0.0
+C0002395,alzheimer's disease,CHEMBL762,oxymetazoline,0.0
+C0002395,alzheimer's disease,CHEMBL761,naphazoline,0.0
+C0002395,alzheimer's disease,CHEMBL760,anagrelide,0.0
+C0002395,alzheimer's disease,CHEMBL754,foscarnet sodium,0.0
+C0002395,alzheimer's disease,CHEMBL753,phenoxybenzamine,0.0
+C0002395,alzheimer's disease,CHEMBL752,adenosine phosphate,0.0
+C0002395,alzheimer's disease,CHEMBL750,zonisamide,0.0
+C0002395,alzheimer's disease,CHEMBL748,pralidoxime chloride,0.0
+C0002395,alzheimer's disease,CHEMBL746,nedocromil,0.0
+C0002395,alzheimer's disease,CHEMBL744,riluzole,0.0
+C0002395,alzheimer's disease,CHEMBL742,ketamine,0.0
+C0002395,alzheimer's disease,CHEMBL741,lamotrigine,0.0
+C0002395,alzheimer's disease,CHEMBL30219,methohexital sodium,0.0
+C0002395,alzheimer's disease,CHEMBL738,thiopental sodium,0.0
+C0002395,alzheimer's disease,CHEMBL734,acetohydroxamic acid,0.0
+C0002395,alzheimer's disease,CHEMBL730,nitroglycerin,0.0
+C0002395,alzheimer's disease,CHEMBL729,lopinavir,0.0
+C0002395,alzheimer's disease,CHEMBL728,prochlorperazine,0.0
+C0002395,alzheimer's disease,CHEMBL27193,dilevalol,0.0
+C0002395,alzheimer's disease,CHEMBL727,thioguanine,0.0
+C0002395,alzheimer's disease,CHEMBL726,fluphenazine,0.0
+C0002395,alzheimer's disease,CHEMBL723,carvedilol,0.0
+C0002395,alzheimer's disease,CHEMBL28318,propyphenazone,0.0
+C0002395,alzheimer's disease,CHEMBL720,benzyl alcohol,0.0
+C0002395,alzheimer's disease,CHEMBL719,mupirocin,0.0
+C0002395,alzheimer's disease,CHEMBL717,medroxyprogesterone acetate,0.0
+C0002395,alzheimer's disease,CHEMBL114,saquinavir,0.0
+C0002395,alzheimer's disease,CHEMBL582,isopropyl alcohol,0.0
+C0002395,alzheimer's disease,CHEMBL288470,aminopyrine,0.0
+C0002395,alzheimer's disease,CHEMBL447,secobarbital,0.0
+C0002395,alzheimer's disease,CHEMBL454,butalbital,0.0
+C0002395,alzheimer's disease,CHEMBL268869,sulfamethoxypyridazine,0.0
+C0002395,alzheimer's disease,CHEMBL453,sulfisoxazole,0.0
+C0002395,alzheimer's disease,CHEMBL452,clonazepam,0.0
+C0002395,alzheimer's disease,CHEMBL266349,melagatran,0.0
+C0002395,alzheimer's disease,CHEMBL451,chlordiazepoxide,0.0
+C0002395,alzheimer's disease,CHEMBL450,metharbital,0.0
+C0002395,alzheimer's disease,CHEMBL7863,aprobarbital,0.0
+C0002395,alzheimer's disease,CHEMBL449,butabarbital,0.0
+C0002395,alzheimer's disease,CHEMBL7728,hexobarbital,0.0
+C0002395,alzheimer's disease,CHEMBL267894,amobarbital,0.0
+C0002395,alzheimer's disease,CHEMBL7568,quinacrine,0.0
+C0002395,alzheimer's disease,CHEMBL448,pentobarbital,0.0
+C0002395,alzheimer's disease,CHEMBL446,sulfamethazine,0.0
+C0002395,alzheimer's disease,CHEMBL481,irinotecan,0.0
+C0002395,alzheimer's disease,CHEMBL445,nortriptyline,0.0
+C0002395,alzheimer's disease,CHEMBL42,clozapine,0.0
+C0002395,alzheimer's disease,CHEMBL443,sulfamethoxazole,0.0
+C0002395,alzheimer's disease,CHEMBL41,fluoxetine,0.0
+C0002395,alzheimer's disease,CHEMBL40,phenobarbital,0.0
+C0002395,alzheimer's disease,CHEMBL7413,methohexital,0.0
+C0002395,alzheimer's disease,CHEMBL38,tretinoin,0.0
+C0002395,alzheimer's disease,CHEMBL442,ergotamine,0.0
+C0002395,alzheimer's disease,CHEMBL268164,cyclobarbital,0.0
+C0002395,alzheimer's disease,CHEMBL441,thiopental,0.0
+C0002395,alzheimer's disease,CHEMBL440,thiamylal,0.0
+C0002395,alzheimer's disease,CHEMBL439,sulfadiazine,0.0
+C0002395,alzheimer's disease,CHEMBL438,sulfamerazine,0.0
+C0002395,alzheimer's disease,CHEMBL455,sulfacetamide,0.0
+C0002395,alzheimer's disease,CHEMBL43,amsacrine,0.0
+C0002395,alzheimer's disease,CHEMBL456,ethacrynic acid,0.0
+C0002395,alzheimer's disease,CHEMBL267744,ticrynafen,0.0
+C0002395,alzheimer's disease,CHEMBL479,thioridazine,0.0
+C0002395,alzheimer's disease,CHEMBL477,adenosine,0.0
+C0002395,alzheimer's disease,CHEMBL476,dacarbazine,0.0
+C0002395,alzheimer's disease,CHEMBL473,dofetilide,0.0
+C0002395,alzheimer's disease,CHEMBL9225,hexestrol,0.0
+C0002395,alzheimer's disease,CHEMBL472,glyburide,0.0
+C0002395,alzheimer's disease,CHEMBL471,sotalol,0.0
+C0002395,alzheimer's disease,CHEMBL469,ketorolac,0.0
+C0002395,alzheimer's disease,CHEMBL468,thalidomide,0.0
+C0002395,alzheimer's disease,CHEMBL64,isoniazid,0.0
+C0002395,alzheimer's disease,CHEMBL61,podofilox,0.0
+C0002395,alzheimer's disease,CHEMBL467,hydroxyurea,0.0
+C0002395,alzheimer's disease,CHEMBL59,dopamine,0.0
+C0002395,alzheimer's disease,CHEMBL58,mitoxantrone,0.0
+C0002395,alzheimer's disease,CHEMBL465,dronabinol,0.0
+C0002395,alzheimer's disease,CHEMBL57,nevirapine,0.0
+C0002395,alzheimer's disease,CHEMBL464,etretinate,0.0
+C0002395,alzheimer's disease,CHEMBL463,aminohippuric acid,0.0
+C0002395,alzheimer's disease,CHEMBL55,pentamidine,0.0
+C0002395,alzheimer's disease,CHEMBL54,haloperidol,0.0
+C0002395,alzheimer's disease,CHEMBL53,apomorphine,0.0
+C0002395,alzheimer's disease,CHEMBL460,molindone,0.0
+C0002395,alzheimer's disease,CHEMBL459,methyldopa,0.0
+C0002395,alzheimer's disease,CHEMBL49,buspirone,0.0
+C0002395,alzheimer's disease,CHEMBL46,ondansetron,0.0
+C0002395,alzheimer's disease,CHEMBL45,melatonin,0.0
+C0002395,alzheimer's disease,CHEMBL457,gemfibrozil,0.0
+C0002395,alzheimer's disease,CHEMBL437,sulfathiazole,0.0
+C0002395,alzheimer's disease,CHEMBL436,tolrestat,0.0
+C0002395,alzheimer's disease,CHEMBL36,pyrimethamine,0.0
+C0002395,alzheimer's disease,CHEMBL19,methazolamide,0.0
+C0002395,alzheimer's disease,CHEMBL18,ethoxzolamide,0.0
+C0002395,alzheimer's disease,CHEMBL17,dichlorphenamide,0.0
+C0002395,alzheimer's disease,CHEMBL416,methoxsalen,0.0
+C0002395,alzheimer's disease,CHEMBL415,clomipramine,0.0
+C0002395,alzheimer's disease,CHEMBL269732,tacrolimus anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL413,sirolimus,0.0
+C0002395,alzheimer's disease,CHEMBL16,phenytoin,0.0
+C0002395,alzheimer's disease,CHEMBL14,carbachol,0.0
+C0002395,alzheimer's disease,CHEMBL267936,mecamylamine,0.0
+C0002395,alzheimer's disease,CHEMBL411,diethylstilbestrol,0.0
+C0002395,alzheimer's disease,CHEMBL13,metoprolol,0.0
+C0002395,alzheimer's disease,CHEMBL12,diazepam,0.0
+C0002395,alzheimer's disease,CHEMBL409,bicalutamide,0.0
+C0002395,alzheimer's disease,CHEMBL408,troglitazone,0.0
+C0002395,alzheimer's disease,CHEMBL407,flumazenil,0.0
+C0002395,alzheimer's disease,CHEMBL406,indapamide,0.0
+C0002395,alzheimer's disease,CHEMBL11,imipramine,0.0
+C0002395,alzheimer's disease,CHEMBL6437,mianserin,0.0
+C0002395,alzheimer's disease,CHEMBL6622,isosorbide dinitrate,0.0
+C0002395,alzheimer's disease,CHEMBL405,amphetamine,0.0
+C0002395,alzheimer's disease,CHEMBL9,norfloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL8,ciprofloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL404,tazobactam,0.0
+C0002395,alzheimer's disease,CHEMBL403,sulbactam,0.0
+C0002395,alzheimer's disease,CHEMBL6,indomethacin,0.0
+C0002395,alzheimer's disease,CHEMBL5,nalidixic acid,0.0
+C0002395,alzheimer's disease,CHEMBL4,ofloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL417,epirubicin,0.0
+C0002395,alzheimer's disease,CHEMBL20,acetazolamide,0.0
+C0002395,alzheimer's disease,CHEMBL35,furosemide,0.0
+C0002395,alzheimer's disease,CHEMBL419,mafenide,0.0
+C0002395,alzheimer's disease,CHEMBL435,hydrochlorothiazide,0.0
+C0002395,alzheimer's disease,CHEMBL434,isoproterenol,0.0
+C0002395,alzheimer's disease,CHEMBL433,valproate sodium,0.0
+C0002395,alzheimer's disease,CHEMBL431,spirapril,0.0
+C0002395,alzheimer's disease,CHEMBL430,gemifloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL33,levofloxacin anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL32,moxifloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL429,labetalol,0.0
+C0002395,alzheimer's disease,CHEMBL31,gatifloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL30,cimetidine,0.0
+C0002395,alzheimer's disease,CHEMBL428,trovafloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL29,penicillin g,0.0
+C0002395,alzheimer's disease,CHEMBL427,mechlorethamine,0.0
+C0002395,alzheimer's disease,CHEMBL6995,practolol,0.0
+C0002395,alzheimer's disease,CHEMBL27,propranolol,0.0
+C0002395,alzheimer's disease,CHEMBL425,olsalazine,0.0
+C0002395,alzheimer's disease,CHEMBL423,betaxolol,0.0
+C0002395,alzheimer's disease,CHEMBL422,trifluoperazine,0.0
+C0002395,alzheimer's disease,CHEMBL25,aspirin,0.0
+C0002395,alzheimer's disease,CHEMBL24,atenolol,0.0
+C0002395,alzheimer's disease,CHEMBL23,diltiazem,0.0
+C0002395,alzheimer's disease,CHEMBL6466,coumarin,0.0
+C0002395,alzheimer's disease,CHEMBL421,sulfasalazine,0.0
+C0002395,alzheimer's disease,CHEMBL6966,verapamil,0.0
+C0002395,alzheimer's disease,CHEMBL22,trimethoprim,0.0
+C0002395,alzheimer's disease,CHEMBL420,guanabenz,0.0
+C0002395,alzheimer's disease,CHEMBL21,sulfanilamide,0.0
+C0002395,alzheimer's disease,CHEMBL480,lansoprazole,0.0
+C0002395,alzheimer's disease,CHEMBL70,morphine,0.0
+C0002395,alzheimer's disease,CHEMBL580,lorazepam,0.0
+C0002395,alzheimer's disease,CHEMBL546,oxprenolol,0.0
+C0002395,alzheimer's disease,CHEMBL109,valproic acid,0.0
+C0002395,alzheimer's disease,CHEMBL108,carbamazepine,0.0
+C0002395,alzheimer's disease,CHEMBL554,lapatinib,0.0
+C0002395,alzheimer's disease,CHEMBL553,erlotinib,0.0
+C0002395,alzheimer's disease,CHEMBL107,colchicine,0.0
+C0002395,alzheimer's disease,CHEMBL550,pilocarpine,0.0
+C0002395,alzheimer's disease,CHEMBL549,citalopram,0.0
+C0002395,alzheimer's disease,CHEMBL14370,reboxetine,0.0
+C0002395,alzheimer's disease,CHEMBL278020,neostigmine,0.0
+C0002395,alzheimer's disease,CHEMBL548,dinoprostone,0.0
+C0002395,alzheimer's disease,CHEMBL14376,iloperidone,0.0
+C0002395,alzheimer's disease,CHEMBL547,isotretinoin,0.0
+C0002395,alzheimer's disease,CHEMBL106,fluconazole,0.0
+C0002395,alzheimer's disease,CHEMBL545,alcohol,0.0
+C0002395,alzheimer's disease,CHEMBL485,codeine,0.0
+C0002395,alzheimer's disease,CHEMBL105,mitomycin,0.0
+C0002395,alzheimer's disease,CHEMBL104,clotrimazole,0.0
+C0002395,alzheimer's disease,CHEMBL544,mequinol,0.0
+C0002395,alzheimer's disease,CHEMBL14060,phenol,0.0
+C0002395,alzheimer's disease,CHEMBL539,acetic acid,0.0
+C0002395,alzheimer's disease,CHEMBL537,hydroquinone,0.0
+C0002395,alzheimer's disease,CHEMBL535,sunitinib,0.0
+C0002395,alzheimer's disease,CHEMBL534,ketotifen,0.0
+C0002395,alzheimer's disease,CHEMBL103,progesterone,0.0
+C0002395,alzheimer's disease,CHEMBL533,ibutilide,0.0
+C0002395,alzheimer's disease,CHEMBL532,erythromycin,0.0
+C0002395,alzheimer's disease,CHEMBL531,pergolide,0.0
+C0002395,alzheimer's disease,CHEMBL530,amdinocillin,0.0
+C0002395,alzheimer's disease,CHEMBL277100,temafloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL110,benznidazole,0.0
+C0002395,alzheimer's disease,CHEMBL556,deferoxamine,0.0
+C0002395,alzheimer's disease,CHEMBL558,mexiletine,0.0
+C0002395,alzheimer's disease,CHEMBL578,enalapril,0.0
+C0002395,alzheimer's disease,CHEMBL577,enalaprilat anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL16080,trichloroethane,0.0
+C0002395,alzheimer's disease,CHEMBL575,methicillin,0.0
+C0002395,alzheimer's disease,CHEMBL573,niacin,0.0
+C0002395,alzheimer's disease,CHEMBL15891,lindane,0.0
+C0002395,alzheimer's disease,CHEMBL15870,indoprofen,0.0
+C0002395,alzheimer's disease,CHEMBL572,nitrofurantoin,0.0
+C0002395,alzheimer's disease,CHEMBL571,ketoprofen,0.0
+C0002395,alzheimer's disease,CHEMBL570,triflupromazine,0.0
+C0002395,alzheimer's disease,CHEMBL569,procaine,0.0
+C0002395,alzheimer's disease,CHEMBL276520,indalpine,0.0
+C0002395,alzheimer's disease,CHEMBL15677,fenclofenac,0.0
+C0002395,alzheimer's disease,CHEMBL15770,sulindac,0.0
+C0002395,alzheimer's disease,CHEMBL568,oxazepam,0.0
+C0002395,alzheimer's disease,CHEMBL567,perphenazine,0.0
+C0002395,alzheimer's disease,CHEMBL16073,phenacetin,0.0
+C0002395,alzheimer's disease,CHEMBL113,caffeine,0.0
+C0002395,alzheimer's disease,CHEMBL112,acetaminophen,0.0
+C0002395,alzheimer's disease,CHEMBL565,clofibrate,0.0
+C0002395,alzheimer's disease,CHEMBL564,promazine,0.0
+C0002395,alzheimer's disease,CHEMBL563,flurbiprofen,0.0
+C0002395,alzheimer's disease,CHEMBL562,griseofulvin,0.0
+C0002395,alzheimer's disease,CHEMBL561,lomefloxacin,0.0
+C0002395,alzheimer's disease,CHEMBL273575,nomifensine,0.0
+C0002395,alzheimer's disease,CHEMBL111,rimonabant,0.0
+C0002395,alzheimer's disease,CHEMBL559,dextrothyroxine,0.0
+C0002395,alzheimer's disease,CHEMBL529,azithromycin,0.0
+C0002395,alzheimer's disease,CHEMBL101,phenylbutazone,0.0
+C0002395,alzheimer's disease,CHEMBL528,ceftizoxime,0.0
+C0002395,alzheimer's disease,CHEMBL276832,hydralazine,0.0
+C0002395,alzheimer's disease,CHEMBL500,pindolol,0.0
+C0002395,alzheimer's disease,CHEMBL499,timolol,0.0
+C0002395,alzheimer's disease,CHEMBL498,chlorpropamide,0.0
+C0002395,alzheimer's disease,CHEMBL88,cyclophosphamide anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL10878,agomelatine,0.0
+C0002395,alzheimer's disease,CHEMBL497,clioquinol,0.0
+C0002395,alzheimer's disease,CHEMBL496,hexachlorophene,0.0
+C0002395,alzheimer's disease,CHEMBL495,alprostadil,0.0
+C0002395,alzheimer's disease,CHEMBL428647,paclitaxel,0.0
+C0002395,alzheimer's disease,CHEMBL86,metoclopramide,0.0
+C0002395,alzheimer's disease,CHEMBL428880,cromolyn,0.0
+C0002395,alzheimer's disease,CHEMBL85,risperidone,0.0
+C0002395,alzheimer's disease,CHEMBL84,topotecan,0.0
+C0002395,alzheimer's disease,CHEMBL494,iloprost,0.0
+C0002395,alzheimer's disease,CHEMBL493,bromocriptine,0.0
+C0002395,alzheimer's disease,CHEMBL83,tamoxifen,0.0
+C0002395,alzheimer's disease,CHEMBL81,raloxifene,0.0
+C0002395,alzheimer's disease,CHEMBL80,naloxone,0.0
+C0002395,alzheimer's disease,CHEMBL492,etidocaine,0.0
+C0002395,alzheimer's disease,CHEMBL79,lidocaine,0.0
+C0002395,alzheimer's disease,CHEMBL416146,etoricoxib,0.0
+C0002395,alzheimer's disease,CHEMBL490,paroxetine,0.0
+C0002395,alzheimer's disease,CHEMBL76,chloroquine,0.0
+C0002395,alzheimer's disease,CHEMBL74,cromolyn sodium,0.0
+C0002395,alzheimer's disease,CHEMBL488,aminoglutethimide,0.0
+C0002395,alzheimer's disease,CHEMBL72,desipramine,0.0
+C0002395,alzheimer's disease,CHEMBL71,chlorpromazine,0.0
+C0002395,alzheimer's disease,CHEMBL11359,cisplatin,0.0
+C0002395,alzheimer's disease,CHEMBL501,amphetamine sulfate,0.0
+C0002395,alzheimer's disease,CHEMBL527,piroxicam,0.0
+C0002395,alzheimer's disease,CHEMBL267345,amphotericin b,0.0
+C0002395,alzheimer's disease,CHEMBL526,propofol,0.0
+C0002395,alzheimer's disease,CHEMBL524,methoxamine,0.0
+C0002395,alzheimer's disease,CHEMBL13280,flunitrazepam,0.0
+C0002395,alzheimer's disease,CHEMBL13376,clometacin,0.0
+C0002395,alzheimer's disease,CHEMBL521,ibuprofen,0.0
+C0002395,alzheimer's disease,CHEMBL98,vorinostat,0.0
+C0002395,alzheimer's disease,CHEMBL517,disopyramide,0.0
+C0002395,alzheimer's disease,CHEMBL12856,inamrinone,0.0
+C0002395,alzheimer's disease,CHEMBL516,cyproheptadine,0.0
+C0002395,alzheimer's disease,CHEMBL515,chlorambucil,0.0
+C0002395,alzheimer's disease,CHEMBL514,lomustine,0.0
+C0002395,alzheimer's disease,CHEMBL513,carmustine,0.0
+C0002395,alzheimer's disease,CHEMBL12713,sertindole,0.0
+C0002395,alzheimer's disease,CHEMBL511,pyrilamine,0.0
+C0002395,alzheimer's disease,CHEMBL509,meclofenamic acid,0.0
+C0002395,alzheimer's disease,CHEMBL506,primaquine,0.0
+C0002395,alzheimer's disease,CHEMBL505,chlorpheniramine,0.0
+C0002395,alzheimer's disease,CHEMBL504,dimethyl sulfoxide,0.0
+C0002395,alzheimer's disease,CHEMBL269644,acetanilide,0.0
+C0002395,alzheimer's disease,CHEMBL11662,ozagrel,0.0
+C0002395,alzheimer's disease,CHEMBL503,lovastatin,0.0
+C0002395,alzheimer's disease,CHEMBL502,donepezil,0.0
+C0002395,alzheimer's disease,CHEMBL95,tacrine,0.0
+C0002395,alzheimer's disease,CHEMBL93,zileuton,0.0
+C0002395,alzheimer's disease,CHEMBL92,docetaxel anhydrous,0.0
+C0002395,alzheimer's disease,CHEMBL91,miconazole,0.0
+C0002395,alzheimer's disease,CHEMBL90,histamine,0.0
+C0002395,alzheimer's disease,CHEMBL832,sulfinpyrazone,0.0
+C0006142,breast cancer,CHEMBL2,prazosin,0.0
+C0006142,breast cancer,CHEMBL288470,aminopyrine,0.0
+C0006142,breast cancer,CHEMBL130,chloramphenicol,0.0
+C0006142,breast cancer,CHEMBL651,methadone,0.0
+C0006142,breast cancer,CHEMBL650,methylprednisolone,0.0
+C0006142,breast cancer,CHEMBL434394,nebivolol,0.0
+C0006142,breast cancer,CHEMBL648,cyclizine,0.0
+C0006142,breast cancer,CHEMBL647,apraclonidine,0.0
+C0006142,breast cancer,CHEMBL646,triazolam,0.0
+C0006142,breast cancer,CHEMBL645,bisoprolol,0.0
+C0006142,breast cancer,CHEMBL644,trimipramine,0.0
+C0006142,breast cancer,CHEMBL131,prednisolone,0.0
+C0006142,breast cancer,CHEMBL643,promethazine,0.0
+C0006142,breast cancer,CHEMBL642,acebutolol,0.0
+C0006142,breast cancer,CHEMBL641,atomoxetine,0.0
+C0006142,breast cancer,CHEMBL640,procainamide,0.0
+C0006142,breast cancer,CHEMBL639,azelastine,0.0
+C0006142,breast cancer,CHEMBL689,mannitol,0.0
+C0006142,breast cancer,CHEMBL638,voriconazole,0.0
+C0006142,breast cancer,CHEMBL129,zidovudine,0.0
+C0006142,breast cancer,CHEMBL637,venlafaxine,0.0
+C0006142,breast cancer,CHEMBL636,rivastigmine,0.0
+C0006142,breast cancer,CHEMBL635,prednisone,0.0
+C0006142,breast cancer,CHEMBL634,alfentanil,0.0
+C0006142,breast cancer,CHEMBL633,amiodarone,0.0
+C0006142,breast cancer,CHEMBL632,betamethasone,0.0
+C0006142,breast cancer,CHEMBL631,propafenone,0.0
+C0006142,breast cancer,CHEMBL128,sumatriptan,0.0
+C0006142,breast cancer,CHEMBL24944,tribromsalan,0.0
+C0006142,breast cancer,CHEMBL21869,dibromsalan,0.0
+C0006142,breast cancer,CHEMBL629,amitriptyline,0.0
+C0006142,breast cancer,CHEMBL652,flecainide,0.0
+C0006142,breast cancer,CHEMBL134,clonidine,0.0
+C0006142,breast cancer,CHEMBL654,mirtazapine,0.0
+C0006142,breast cancer,CHEMBL655,midazolam,0.0
+C0006142,breast cancer,CHEMBL686,mefenamic acid,0.0
+C0006142,breast cancer,CHEMBL139,diclofenac,0.0
+C0006142,breast cancer,CHEMBL685,mebendazole,0.0
+C0006142,breast cancer,CHEMBL684,diethylcarbamazine,0.0
+C0006142,breast cancer,CHEMBL682,amodiaquine,0.0
+C0006142,breast cancer,CHEMBL681,etomidate,0.0
+C0006142,breast cancer,CHEMBL680,cefaclor anhydrous,0.0
+C0006142,breast cancer,CHEMBL679,epinephrine,0.0
+C0006142,breast cancer,CHEMBL677,levonordefrin,0.0
+C0006142,breast cancer,CHEMBL675,alendronate sodium,0.0
+C0006142,breast cancer,CHEMBL673,pargyline,0.0
+C0006142,breast cancer,CHEMBL672,fenofibrate,0.0
+C0006142,breast cancer,CHEMBL671,thiotepa,0.0
+C0006142,breast cancer,CHEMBL669,cyclobenzaprine,0.0
+C0006142,breast cancer,CHEMBL668,protriptyline,0.0
+C0006142,breast cancer,CHEMBL137,metronidazole,0.0
+C0006142,breast cancer,CHEMBL667,acetylcholine,0.0
+C0006142,breast cancer,CHEMBL666,foscarnet,0.0
+C0006142,breast cancer,CHEMBL21731,maprotiline,0.0
+C0006142,breast cancer,CHEMBL661,alprazolam,0.0
+C0006142,breast cancer,CHEMBL660,amantadine,0.0
+C0006142,breast cancer,CHEMBL659,galantamine,0.0
+C0006142,breast cancer,CHEMBL658,sufentanil,0.0
+C0006142,breast cancer,CHEMBL657,diphenhydramine,0.0
+C0006142,breast cancer,CHEMBL135,estradiol,0.0
+C0006142,breast cancer,CHEMBL656,oxycodone,0.0
+C0006142,breast cancer,CHEMBL22242,remoxipride,0.0
+C0006142,breast cancer,CHEMBL628,pentoxifylline,0.0
+C0006142,breast cancer,CHEMBL626,naftifine,0.0
+C0006142,breast cancer,CHEMBL21536,xanomeline,0.0
+C0006142,breast cancer,CHEMBL276568,"cefprozil anhydrous, (e)-",0.0
+C0006142,breast cancer,CHEMBL19019,naltrexone,0.0
+C0006142,breast cancer,CHEMBL602,cysteamine,0.0
+C0006142,breast cancer,CHEMBL601,aminolevulinic acid,0.0
+C0006142,breast cancer,CHEMBL600,acetylcysteine,0.0
+C0006142,breast cancer,CHEMBL599,meloxicam,0.0
+C0006142,breast cancer,CHEMBL18116,toloxatone,0.0
+C0006142,breast cancer,CHEMBL18442,plerixafor,0.0
+C0006142,breast cancer,CHEMBL597,phentolamine,0.0
+C0006142,breast cancer,CHEMBL17860,lofexidine,0.0
+C0006142,breast cancer,CHEMBL17879,maralixibat chloride,0.0
+C0006142,breast cancer,CHEMBL121,rosiglitazone,0.0
+C0006142,breast cancer,CHEMBL596,fentanyl,0.0
+C0006142,breast cancer,CHEMBL595,pioglitazone,0.0
+C0006142,breast cancer,CHEMBL594,emedastine,0.0
+C0006142,breast cancer,CHEMBL593,delavirdine,0.0
+C0006142,breast cancer,CHEMBL592,levorphanol,0.0
+C0006142,breast cancer,CHEMBL17157,terfenadine,0.0
+C0006142,breast cancer,CHEMBL591,ethchlorvynol,0.0
+C0006142,breast cancer,CHEMBL590,menadione,0.0
+C0006142,breast cancer,CHEMBL589,ropinirole,0.0
+C0006142,breast cancer,CHEMBL588,fenoldopam,0.0
+C0006142,breast cancer,CHEMBL119,trimetrexate,0.0
+C0006142,breast cancer,CHEMBL118,celecoxib,0.0
+C0006142,breast cancer,CHEMBL16476,pronetalol,0.0
+C0006142,breast cancer,CHEMBL585,triamterene,0.0
+C0006142,breast cancer,CHEMBL116,amprenavir,0.0
+C0006142,breast cancer,CHEMBL584,nelfinavir,0.0
+C0006142,breast cancer,CHEMBL603,zafirlukast,0.0
+C0006142,breast cancer,CHEMBL122,rofecoxib,0.0
+C0006142,breast cancer,CHEMBL625,thiabendazole,0.0
+C0006142,breast cancer,CHEMBL19236,moxonidine,0.0
+C0006142,breast cancer,CHEMBL623,nefazodone,0.0
+C0006142,breast cancer,CHEMBL21333,pranlukast,0.0
+C0006142,breast cancer,CHEMBL622,etodolac,0.0
+C0006142,breast cancer,CHEMBL621,trazodone,0.0
+C0006142,breast cancer,CHEMBL127,meropenem,0.0
+C0006142,breast cancer,CHEMBL620,clidinium,0.0
+C0006142,breast cancer,CHEMBL126,linezolid,0.0
+C0006142,breast cancer,CHEMBL125,miltefosine,0.0
+C0006142,breast cancer,CHEMBL617,cephalothin,0.0
+C0006142,breast cancer,CHEMBL615,penicillin v,0.0
+C0006142,breast cancer,CHEMBL282042,saquinavir mesylate,0.0
+C0006142,breast cancer,CHEMBL19449,ibudilast,0.0
+C0006142,breast cancer,CHEMBL614,pyrazinamide,0.0
+C0006142,breast cancer,CHEMBL282724,sitaxentan,0.0
+C0006142,breast cancer,CHEMBL612,dextroamphetamine,0.0
+C0006142,breast cancer,CHEMBL19393,levamfetamine,0.0
+C0006142,breast cancer,CHEMBL611,terazosin,0.0
+C0006142,breast cancer,CHEMBL19490,zomepirac,0.0
+C0006142,breast cancer,CHEMBL609,trientine,0.0
+C0006142,breast cancer,CHEMBL19299,loxoprofen,0.0
+C0006142,breast cancer,CHEMBL608,probucol,0.0
+C0006142,breast cancer,CHEMBL282052,methaqualone,0.0
+C0006142,breast cancer,CHEMBL607,meperidine,0.0
+C0006142,breast cancer,CHEMBL278623,macimorelin,0.0
+C0006142,breast cancer,CHEMBL606,misoprostol,0.0
+C0006142,breast cancer,CHEMBL605,procainamide hydrochloride,0.0
+C0006142,breast cancer,CHEMBL604,cupric sulfate,0.0
+C0006142,breast cancer,CHEMBL688,fentanyl citrate,0.0
+C0006142,breast cancer,CHEMBL690,pravastatin sodium,0.0
+C0006142,breast cancer,CHEMBL114,saquinavir,0.0
+C0006142,breast cancer,CHEMBL787,montelukast,0.0
+C0006142,breast cancer,CHEMBL154,naproxen,0.0
+C0006142,breast cancer,CHEMBL802,minoxidil,0.0
+C0006142,breast cancer,CHEMBL799,cilostazol,0.0
+C0006142,breast cancer,CHEMBL284092,gepirone,0.0
+C0006142,breast cancer,CHEMBL34259,methotrexate,0.0
+C0006142,breast cancer,CHEMBL797,phensuximide,0.0
+C0006142,breast cancer,CHEMBL285674,estazolam,0.0
+C0006142,breast cancer,CHEMBL796,methylphenidate,0.0
+C0006142,breast cancer,CHEMBL32800,fenoterol,0.0
+C0006142,breast cancer,CHEMBL790,chlorhexidine,0.0
+C0006142,breast cancer,CHEMBL152,cidofovir anhydrous,0.0
+C0006142,breast cancer,CHEMBL36506,novobiocin,0.0
+C0006142,breast cancer,CHEMBL788,idoxuridine,0.0
+C0006142,breast cancer,CHEMBL786,tamoxifen citrate,0.0
+C0006142,breast cancer,CHEMBL24072,prenylamine,0.0
+C0006142,breast cancer,CHEMBL32479,brotizolam,0.0
+C0006142,breast cancer,CHEMBL783,nateglinide,0.0
+C0006142,breast cancer,CHEMBL782,tolbutamide,0.0
+C0006142,breast cancer,CHEMBL290106,bithionol,0.0
+C0006142,breast cancer,CHEMBL781,mazindol,0.0
+C0006142,breast cancer,CHEMBL780,pentetic acid,0.0
+C0006142,breast cancer,CHEMBL33986,butorphanol,0.0
+C0006142,breast cancer,CHEMBL779,tadalafil,0.0
+C0006142,breast cancer,CHEMBL778,dexmedetomidine,0.0
+C0006142,breast cancer,CHEMBL777,clavulanic acid,0.0
+C0006142,breast cancer,CHEMBL776,metaproterenol,0.0
+C0006142,breast cancer,CHEMBL773,glycine,0.0
+C0006142,breast cancer,CHEMBL772,reserpine,0.0
+C0006142,breast cancer,CHEMBL416956,mefloquine,0.0
+C0006142,breast cancer,CHEMBL803,cytarabine,0.0
+C0006142,breast cancer,CHEMBL806,flutamide,0.0
+C0006142,breast cancer,CHEMBL807,memantine,0.0
+C0006142,breast cancer,CHEMBL832,sulfinpyrazone,0.0
+C0006142,breast cancer,CHEMBL831,loxapine,0.0
+C0006142,breast cancer,CHEMBL830,eflornithine,0.0
+C0006142,breast cancer,CHEMBL43128,primaquine phosphate,0.0
+C0006142,breast cancer,CHEMBL829,methylpromazine,0.0
+C0006142,breast cancer,CHEMBL827,dexmethylphenidate,0.0
+C0006142,breast cancer,CHEMBL826,enoxacin,0.0
+C0006142,breast cancer,CHEMBL822,terbinafine,0.0
+C0006142,breast cancer,CHEMBL821,guanidine,0.0
+C0006142,breast cancer,CHEMBL820,busulfan,0.0
+C0006142,breast cancer,CHEMBL290960,nifurtimox,0.0
+C0006142,breast cancer,CHEMBL819,oxacillin,0.0
+C0006142,breast cancer,CHEMBL818,iobenguane,0.0
+C0006142,breast cancer,CHEMBL817,tolazamide,0.0
+C0006142,breast cancer,CHEMBL38827,lumefantrine,0.0
+C0006142,breast cancer,CHEMBL39736,buformin,0.0
+C0006142,breast cancer,CHEMBL815,dinoprost,0.0
+C0006142,breast cancer,CHEMBL441738,afamelanotide,0.0
+C0006142,breast cancer,CHEMBL814,fluvoxamine,0.0
+C0006142,breast cancer,CHEMBL289469,granisetron,0.0
+C0006142,breast cancer,CHEMBL813,eprosartan,0.0
+C0006142,breast cancer,CHEMBL812,pyridostigmine bromide,0.0
+C0006142,breast cancer,CHEMBL37744,zimeldine,0.0
+C0006142,breast cancer,CHEMBL811,brompheniramine,0.0
+C0006142,breast cancer,CHEMBL810,temozolomide,0.0
+C0006142,breast cancer,CHEMBL809,sertraline,0.0
+C0006142,breast cancer,CHEMBL808,econazole,0.0
+C0006142,breast cancer,CHEMBL148,imipenem anhydrous,0.0
+C0006142,breast cancer,CHEMBL771,cycloserine,0.0
+C0006142,breast cancer,CHEMBL770,tolazoline,0.0
+C0006142,breast cancer,CHEMBL715,olanzapine,0.0
+C0006142,breast cancer,CHEMBL141,lamivudine,0.0
+C0006142,breast cancer,CHEMBL713,entecavir anhydrous,0.0
+C0006142,breast cancer,CHEMBL712,anisindione,0.0
+C0006142,breast cancer,CHEMBL711,phenindione,0.0
+C0006142,breast cancer,CHEMBL710,finasteride,0.0
+C0006142,breast cancer,CHEMBL709,alfuzosin,0.0
+C0006142,breast cancer,CHEMBL708,ziprasidone,0.0
+C0006142,breast cancer,CHEMBL25202,tamibarotene,0.0
+C0006142,breast cancer,CHEMBL278819,minaprine,0.0
+C0006142,breast cancer,CHEMBL24828,vandetanib,0.0
+C0006142,breast cancer,CHEMBL707,doxazosin,0.0
+C0006142,breast cancer,CHEMBL282468,choline chloride,0.0
+C0006142,breast cancer,CHEMBL24778,silodosin,0.0
+C0006142,breast cancer,CHEMBL706,cetyl alcohol,0.0
+C0006142,breast cancer,CHEMBL705,alitretinoin,0.0
+C0006142,breast cancer,CHEMBL704,mesalamine,0.0
+C0006142,breast cancer,CHEMBL703,suxamethonium,0.0
+C0006142,breast cancer,CHEMBL702,piperacillin,0.0
+C0006142,breast cancer,CHEMBL701,baclofen,0.0
+C0006142,breast cancer,CHEMBL700,sulfapyridine,0.0
+C0006142,breast cancer,CHEMBL698,tetracaine,0.0
+C0006142,breast cancer,CHEMBL697,methsuximide,0.0
+C0006142,breast cancer,CHEMBL696,ethosuximide,0.0
+C0006142,breast cancer,CHEMBL695,trimethadione,0.0
+C0006142,breast cancer,CHEMBL692,glycerin,0.0
+C0006142,breast cancer,CHEMBL284348,dalfampridine,0.0
+C0006142,breast cancer,CHEMBL691,ethinyl estradiol,0.0
+C0006142,breast cancer,CHEMBL714,albuterol,0.0
+C0006142,breast cancer,CHEMBL716,quetiapine,0.0
+C0006142,breast cancer,CHEMBL768,esmolol,0.0
+C0006142,breast cancer,CHEMBL717,medroxyprogesterone acetate,0.0
+C0006142,breast cancer,CHEMBL766,cilastatin,0.0
+C0006142,breast cancer,CHEMBL765,guanethidine,0.0
+C0006142,breast cancer,CHEMBL762,oxymetazoline,0.0
+C0006142,breast cancer,CHEMBL761,naphazoline,0.0
+C0006142,breast cancer,CHEMBL760,anagrelide,0.0
+C0006142,breast cancer,CHEMBL754,foscarnet sodium,0.0
+C0006142,breast cancer,CHEMBL753,phenoxybenzamine,0.0
+C0006142,breast cancer,CHEMBL752,adenosine phosphate,0.0
+C0006142,breast cancer,CHEMBL750,zonisamide,0.0
+C0006142,breast cancer,CHEMBL748,pralidoxime chloride,0.0
+C0006142,breast cancer,CHEMBL746,nedocromil,0.0
+C0006142,breast cancer,CHEMBL744,riluzole,0.0
+C0006142,breast cancer,CHEMBL742,ketamine,0.0
+C0006142,breast cancer,CHEMBL741,lamotrigine,0.0
+C0006142,breast cancer,CHEMBL30219,methohexital sodium,0.0
+C0006142,breast cancer,CHEMBL738,thiopental sodium,0.0
+C0006142,breast cancer,CHEMBL734,acetohydroxamic acid,0.0
+C0006142,breast cancer,CHEMBL730,nitroglycerin,0.0
+C0006142,breast cancer,CHEMBL729,lopinavir,0.0
+C0006142,breast cancer,CHEMBL728,prochlorperazine,0.0
+C0006142,breast cancer,CHEMBL27193,dilevalol,0.0
+C0006142,breast cancer,CHEMBL727,thioguanine,0.0
+C0006142,breast cancer,CHEMBL726,fluphenazine,0.0
+C0006142,breast cancer,CHEMBL723,carvedilol,0.0
+C0006142,breast cancer,CHEMBL28318,propyphenazone,0.0
+C0006142,breast cancer,CHEMBL720,benzyl alcohol,0.0
+C0006142,breast cancer,CHEMBL719,mupirocin,0.0
+C0006142,breast cancer,CHEMBL115,indinavir anhydrous,0.0
+C0006142,breast cancer,CHEMBL583,grepafloxacin,0.0
+C0006142,breast cancer,CHEMBL3,nicotine,0.0
+C0006142,breast cancer,CHEMBL447,secobarbital,0.0
+C0006142,breast cancer,CHEMBL454,butalbital,0.0
+C0006142,breast cancer,CHEMBL268869,sulfamethoxypyridazine,0.0
+C0006142,breast cancer,CHEMBL453,sulfisoxazole,0.0
+C0006142,breast cancer,CHEMBL452,clonazepam,0.0
+C0006142,breast cancer,CHEMBL266349,melagatran,0.0
+C0006142,breast cancer,CHEMBL451,chlordiazepoxide,0.0
+C0006142,breast cancer,CHEMBL450,metharbital,0.0
+C0006142,breast cancer,CHEMBL7863,aprobarbital,0.0
+C0006142,breast cancer,CHEMBL449,butabarbital,0.0
+C0006142,breast cancer,CHEMBL7728,hexobarbital,0.0
+C0006142,breast cancer,CHEMBL267894,amobarbital,0.0
+C0006142,breast cancer,CHEMBL7568,quinacrine,0.0
+C0006142,breast cancer,CHEMBL448,pentobarbital,0.0
+C0006142,breast cancer,CHEMBL446,sulfamethazine,0.0
+C0006142,breast cancer,CHEMBL70,morphine,0.0
+C0006142,breast cancer,CHEMBL445,nortriptyline,0.0
+C0006142,breast cancer,CHEMBL42,clozapine,0.0
+C0006142,breast cancer,CHEMBL443,sulfamethoxazole,0.0
+C0006142,breast cancer,CHEMBL41,fluoxetine,0.0
+C0006142,breast cancer,CHEMBL40,phenobarbital,0.0
+C0006142,breast cancer,CHEMBL7413,methohexital,0.0
+C0006142,breast cancer,CHEMBL38,tretinoin,0.0
+C0006142,breast cancer,CHEMBL442,ergotamine,0.0
+C0006142,breast cancer,CHEMBL268164,cyclobarbital,0.0
+C0006142,breast cancer,CHEMBL441,thiopental,0.0
+C0006142,breast cancer,CHEMBL440,thiamylal,0.0
+C0006142,breast cancer,CHEMBL439,sulfadiazine,0.0
+C0006142,breast cancer,CHEMBL438,sulfamerazine,0.0
+C0006142,breast cancer,CHEMBL455,sulfacetamide,0.0
+C0006142,breast cancer,CHEMBL43,amsacrine,0.0
+C0006142,breast cancer,CHEMBL456,ethacrynic acid,0.0
+C0006142,breast cancer,CHEMBL267744,ticrynafen,0.0
+C0006142,breast cancer,CHEMBL480,lansoprazole,0.0
+C0006142,breast cancer,CHEMBL479,thioridazine,0.0
+C0006142,breast cancer,CHEMBL477,adenosine,0.0
+C0006142,breast cancer,CHEMBL476,dacarbazine,0.0
+C0006142,breast cancer,CHEMBL473,dofetilide,0.0
+C0006142,breast cancer,CHEMBL9225,hexestrol,0.0
+C0006142,breast cancer,CHEMBL471,sotalol,0.0
+C0006142,breast cancer,CHEMBL469,ketorolac,0.0
+C0006142,breast cancer,CHEMBL468,thalidomide,0.0
+C0006142,breast cancer,CHEMBL64,isoniazid,0.0
+C0006142,breast cancer,CHEMBL61,podofilox,0.0
+C0006142,breast cancer,CHEMBL467,hydroxyurea,0.0
+C0006142,breast cancer,CHEMBL59,dopamine,0.0
+C0006142,breast cancer,CHEMBL58,mitoxantrone,0.0
+C0006142,breast cancer,CHEMBL465,dronabinol,0.0
+C0006142,breast cancer,CHEMBL57,nevirapine,0.0
+C0006142,breast cancer,CHEMBL464,etretinate,0.0
+C0006142,breast cancer,CHEMBL463,aminohippuric acid,0.0
+C0006142,breast cancer,CHEMBL55,pentamidine,0.0
+C0006142,breast cancer,CHEMBL54,haloperidol,0.0
+C0006142,breast cancer,CHEMBL53,apomorphine,0.0
+C0006142,breast cancer,CHEMBL460,molindone,0.0
+C0006142,breast cancer,CHEMBL459,methyldopa,0.0
+C0006142,breast cancer,CHEMBL49,buspirone,0.0
+C0006142,breast cancer,CHEMBL46,ondansetron,0.0
+C0006142,breast cancer,CHEMBL45,melatonin,0.0
+C0006142,breast cancer,CHEMBL457,gemfibrozil,0.0
+C0006142,breast cancer,CHEMBL437,sulfathiazole,0.0
+C0006142,breast cancer,CHEMBL436,tolrestat,0.0
+C0006142,breast cancer,CHEMBL36,pyrimethamine,0.0
+C0006142,breast cancer,CHEMBL19,methazolamide,0.0
+C0006142,breast cancer,CHEMBL18,ethoxzolamide,0.0
+C0006142,breast cancer,CHEMBL17,dichlorphenamide,0.0
+C0006142,breast cancer,CHEMBL416,methoxsalen,0.0
+C0006142,breast cancer,CHEMBL415,clomipramine,0.0
+C0006142,breast cancer,CHEMBL269732,tacrolimus anhydrous,0.0
+C0006142,breast cancer,CHEMBL413,sirolimus,0.0
+C0006142,breast cancer,CHEMBL16,phenytoin,0.0
+C0006142,breast cancer,CHEMBL14,carbachol,0.0
+C0006142,breast cancer,CHEMBL267936,mecamylamine,0.0
+C0006142,breast cancer,CHEMBL411,diethylstilbestrol,0.0
+C0006142,breast cancer,CHEMBL13,metoprolol,0.0
+C0006142,breast cancer,CHEMBL12,diazepam,0.0
+C0006142,breast cancer,CHEMBL409,bicalutamide,0.0
+C0006142,breast cancer,CHEMBL408,troglitazone,0.0
+C0006142,breast cancer,CHEMBL407,flumazenil,0.0
+C0006142,breast cancer,CHEMBL406,indapamide,0.0
+C0006142,breast cancer,CHEMBL11,imipramine,0.0
+C0006142,breast cancer,CHEMBL6437,mianserin,0.0
+C0006142,breast cancer,CHEMBL6622,isosorbide dinitrate,0.0
+C0006142,breast cancer,CHEMBL405,amphetamine,0.0
+C0006142,breast cancer,CHEMBL9,norfloxacin,0.0
+C0006142,breast cancer,CHEMBL8,ciprofloxacin,0.0
+C0006142,breast cancer,CHEMBL404,tazobactam,0.0
+C0006142,breast cancer,CHEMBL403,sulbactam,0.0
+C0006142,breast cancer,CHEMBL6,indomethacin,0.0
+C0006142,breast cancer,CHEMBL5,nalidixic acid,0.0
+C0006142,breast cancer,CHEMBL4,ofloxacin,0.0
+C0006142,breast cancer,CHEMBL417,epirubicin,0.0
+C0006142,breast cancer,CHEMBL20,acetazolamide,0.0
+C0006142,breast cancer,CHEMBL35,furosemide,0.0
+C0006142,breast cancer,CHEMBL419,mafenide,0.0
+C0006142,breast cancer,CHEMBL435,hydrochlorothiazide,0.0
+C0006142,breast cancer,CHEMBL434,isoproterenol,0.0
+C0006142,breast cancer,CHEMBL433,valproate sodium,0.0
+C0006142,breast cancer,CHEMBL431,spirapril,0.0
+C0006142,breast cancer,CHEMBL430,gemifloxacin,0.0
+C0006142,breast cancer,CHEMBL33,levofloxacin anhydrous,0.0
+C0006142,breast cancer,CHEMBL32,moxifloxacin,0.0
+C0006142,breast cancer,CHEMBL429,labetalol,0.0
+C0006142,breast cancer,CHEMBL31,gatifloxacin,0.0
+C0006142,breast cancer,CHEMBL30,cimetidine,0.0
+C0006142,breast cancer,CHEMBL428,trovafloxacin,0.0
+C0006142,breast cancer,CHEMBL29,penicillin g,0.0
+C0006142,breast cancer,CHEMBL427,mechlorethamine,0.0
+C0006142,breast cancer,CHEMBL6995,practolol,0.0
+C0006142,breast cancer,CHEMBL27,propranolol,0.0
+C0006142,breast cancer,CHEMBL425,olsalazine,0.0
+C0006142,breast cancer,CHEMBL423,betaxolol,0.0
+C0006142,breast cancer,CHEMBL422,trifluoperazine,0.0
+C0006142,breast cancer,CHEMBL25,aspirin,0.0
+C0006142,breast cancer,CHEMBL24,atenolol,0.0
+C0006142,breast cancer,CHEMBL23,diltiazem,0.0
+C0006142,breast cancer,CHEMBL6466,coumarin,0.0
+C0006142,breast cancer,CHEMBL421,sulfasalazine,0.0
+C0006142,breast cancer,CHEMBL6966,verapamil,0.0
+C0006142,breast cancer,CHEMBL22,trimethoprim,0.0
+C0006142,breast cancer,CHEMBL420,guanabenz,0.0
+C0006142,breast cancer,CHEMBL21,sulfanilamide,0.0
+C0006142,breast cancer,CHEMBL481,irinotecan,0.0
+C0006142,breast cancer,CHEMBL485,codeine,0.0
+C0006142,breast cancer,CHEMBL582,isopropyl alcohol,0.0
+C0006142,breast cancer,CHEMBL106,fluconazole,0.0
+C0006142,breast cancer,CHEMBL277100,temafloxacin,0.0
+C0006142,breast cancer,CHEMBL109,valproic acid,0.0
+C0006142,breast cancer,CHEMBL108,carbamazepine,0.0
+C0006142,breast cancer,CHEMBL554,lapatinib,0.0
+C0006142,breast cancer,CHEMBL553,erlotinib,0.0
+C0006142,breast cancer,CHEMBL107,colchicine,0.0
+C0006142,breast cancer,CHEMBL550,pilocarpine,0.0
+C0006142,breast cancer,CHEMBL549,citalopram,0.0
+C0006142,breast cancer,CHEMBL14370,reboxetine,0.0
+C0006142,breast cancer,CHEMBL278020,neostigmine,0.0
+C0006142,breast cancer,CHEMBL548,dinoprostone,0.0
+C0006142,breast cancer,CHEMBL14376,iloperidone,0.0
+C0006142,breast cancer,CHEMBL547,isotretinoin,0.0
+C0006142,breast cancer,CHEMBL546,oxprenolol,0.0
+C0006142,breast cancer,CHEMBL71,chlorpromazine,0.0
+C0006142,breast cancer,CHEMBL545,alcohol,0.0
+C0006142,breast cancer,CHEMBL105,mitomycin,0.0
+C0006142,breast cancer,CHEMBL104,clotrimazole,0.0
+C0006142,breast cancer,CHEMBL544,mequinol,0.0
+C0006142,breast cancer,CHEMBL14060,phenol,0.0
+C0006142,breast cancer,CHEMBL539,acetic acid,0.0
+C0006142,breast cancer,CHEMBL537,hydroquinone,0.0
+C0006142,breast cancer,CHEMBL535,sunitinib,0.0
+C0006142,breast cancer,CHEMBL534,ketotifen,0.0
+C0006142,breast cancer,CHEMBL103,progesterone,0.0
+C0006142,breast cancer,CHEMBL533,ibutilide,0.0
+C0006142,breast cancer,CHEMBL532,erythromycin,0.0
+C0006142,breast cancer,CHEMBL531,pergolide,0.0
+C0006142,breast cancer,CHEMBL110,benznidazole,0.0
+C0006142,breast cancer,CHEMBL556,deferoxamine,0.0
+C0006142,breast cancer,CHEMBL558,mexiletine,0.0
+C0006142,breast cancer,CHEMBL559,dextrothyroxine,0.0
+C0006142,breast cancer,CHEMBL580,lorazepam,0.0
+C0006142,breast cancer,CHEMBL578,enalapril,0.0
+C0006142,breast cancer,CHEMBL577,enalaprilat anhydrous,0.0
+C0006142,breast cancer,CHEMBL16080,trichloroethane,0.0
+C0006142,breast cancer,CHEMBL575,methicillin,0.0
+C0006142,breast cancer,CHEMBL573,niacin,0.0
+C0006142,breast cancer,CHEMBL15891,lindane,0.0
+C0006142,breast cancer,CHEMBL15870,indoprofen,0.0
+C0006142,breast cancer,CHEMBL572,nitrofurantoin,0.0
+C0006142,breast cancer,CHEMBL571,ketoprofen,0.0
+C0006142,breast cancer,CHEMBL570,triflupromazine,0.0
+C0006142,breast cancer,CHEMBL569,procaine,0.0
+C0006142,breast cancer,CHEMBL276520,indalpine,0.0
+C0006142,breast cancer,CHEMBL15677,fenclofenac,0.0
+C0006142,breast cancer,CHEMBL15770,sulindac,0.0
+C0006142,breast cancer,CHEMBL568,oxazepam,0.0
+C0006142,breast cancer,CHEMBL567,perphenazine,0.0
+C0006142,breast cancer,CHEMBL16073,phenacetin,0.0
+C0006142,breast cancer,CHEMBL113,caffeine,0.0
+C0006142,breast cancer,CHEMBL112,acetaminophen,0.0
+C0006142,breast cancer,CHEMBL565,clofibrate,0.0
+C0006142,breast cancer,CHEMBL564,promazine,0.0
+C0006142,breast cancer,CHEMBL563,flurbiprofen,0.0
+C0006142,breast cancer,CHEMBL562,griseofulvin,0.0
+C0006142,breast cancer,CHEMBL561,lomefloxacin,0.0
+C0006142,breast cancer,CHEMBL273575,nomifensine,0.0
+C0006142,breast cancer,CHEMBL111,rimonabant,0.0
+C0006142,breast cancer,CHEMBL530,amdinocillin,0.0
+C0006142,breast cancer,CHEMBL529,azithromycin,0.0
+C0006142,breast cancer,CHEMBL101,phenylbutazone,0.0
+C0006142,breast cancer,CHEMBL501,amphetamine sulfate,0.0
+C0006142,breast cancer,CHEMBL11359,cisplatin,0.0
+C0006142,breast cancer,CHEMBL500,pindolol,0.0
+C0006142,breast cancer,CHEMBL499,timolol,0.0
+C0006142,breast cancer,CHEMBL498,chlorpropamide,0.0
+C0006142,breast cancer,CHEMBL88,cyclophosphamide anhydrous,0.0
+C0006142,breast cancer,CHEMBL10878,agomelatine,0.0
+C0006142,breast cancer,CHEMBL497,clioquinol,0.0
+C0006142,breast cancer,CHEMBL496,hexachlorophene,0.0
+C0006142,breast cancer,CHEMBL495,alprostadil,0.0
+C0006142,breast cancer,CHEMBL428647,paclitaxel,0.0
+C0006142,breast cancer,CHEMBL86,metoclopramide,0.0
+C0006142,breast cancer,CHEMBL428880,cromolyn,0.0
+C0006142,breast cancer,CHEMBL85,risperidone,0.0
+C0006142,breast cancer,CHEMBL84,topotecan,0.0
+C0006142,breast cancer,CHEMBL494,iloprost,0.0
+C0006142,breast cancer,CHEMBL493,bromocriptine,0.0
+C0006142,breast cancer,CHEMBL83,tamoxifen,0.0
+C0006142,breast cancer,CHEMBL81,raloxifene,0.0
+C0006142,breast cancer,CHEMBL80,naloxone,0.0
+C0006142,breast cancer,CHEMBL492,etidocaine,0.0
+C0006142,breast cancer,CHEMBL79,lidocaine,0.0
+C0006142,breast cancer,CHEMBL416146,etoricoxib,0.0
+C0006142,breast cancer,CHEMBL490,paroxetine,0.0
+C0006142,breast cancer,CHEMBL76,chloroquine,0.0
+C0006142,breast cancer,CHEMBL74,cromolyn sodium,0.0
+C0006142,breast cancer,CHEMBL488,aminoglutethimide,0.0
+C0006142,breast cancer,CHEMBL72,desipramine,0.0
+C0006142,breast cancer,CHEMBL276832,hydralazine,0.0
+C0006142,breast cancer,CHEMBL267345,amphotericin b,0.0
+C0006142,breast cancer,CHEMBL528,ceftizoxime,0.0
+C0006142,breast cancer,CHEMBL90,histamine,0.0
+C0006142,breast cancer,CHEMBL527,piroxicam,0.0
+C0006142,breast cancer,CHEMBL526,propofol,0.0
+C0006142,breast cancer,CHEMBL524,methoxamine,0.0
+C0006142,breast cancer,CHEMBL13280,flunitrazepam,0.0
+C0006142,breast cancer,CHEMBL13376,clometacin,0.0
+C0006142,breast cancer,CHEMBL521,ibuprofen,0.0
+C0006142,breast cancer,CHEMBL98,vorinostat,0.0
+C0006142,breast cancer,CHEMBL517,disopyramide,0.0
+C0006142,breast cancer,CHEMBL12856,inamrinone,0.0
+C0006142,breast cancer,CHEMBL516,cyproheptadine,0.0
+C0006142,breast cancer,CHEMBL515,chlorambucil,0.0
+C0006142,breast cancer,CHEMBL514,lomustine,0.0
+C0006142,breast cancer,CHEMBL513,carmustine,0.0
+C0006142,breast cancer,CHEMBL12713,sertindole,0.0
+C0006142,breast cancer,CHEMBL511,pyrilamine,0.0
+C0006142,breast cancer,CHEMBL509,meclofenamic acid,0.0
+C0006142,breast cancer,CHEMBL506,primaquine,0.0
+C0006142,breast cancer,CHEMBL505,chlorpheniramine,0.0
+C0006142,breast cancer,CHEMBL504,dimethyl sulfoxide,0.0
+C0006142,breast cancer,CHEMBL269644,acetanilide,0.0
+C0006142,breast cancer,CHEMBL11662,ozagrel,0.0
+C0006142,breast cancer,CHEMBL503,lovastatin,0.0
+C0006142,breast cancer,CHEMBL502,donepezil,0.0
+C0006142,breast cancer,CHEMBL95,tacrine,0.0
+C0006142,breast cancer,CHEMBL93,zileuton,0.0
+C0006142,breast cancer,CHEMBL92,docetaxel anhydrous,0.0
+C0006142,breast cancer,CHEMBL91,miconazole,0.0
+C0021368,inflammation,CHEMBL288470,aminopyrine,0.0

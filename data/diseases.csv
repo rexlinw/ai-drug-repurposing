@@ -1,0 +1,5 @@
+diseaseid,disease_name,disease_type
+C0002395,Alzheimer's disease,disease
+C0006142,Breast cancer,disease
+C0011849,Diabetes mellitus,disease
+C0021368,Inflammation,disease

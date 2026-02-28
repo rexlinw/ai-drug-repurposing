@@ -1,0 +1,501 @@
+drug_id,drug_name,drug_type,approval_status
+CHEMBL2,PRAZOSIN,Small molecule,Investigational
+CHEMBL3,NICOTINE,Small molecule,Investigational
+CHEMBL4,OFLOXACIN,Small molecule,Investigational
+CHEMBL5,NALIDIXIC ACID,Small molecule,Investigational
+CHEMBL6,INDOMETHACIN,Small molecule,Investigational
+CHEMBL403,SULBACTAM,Small molecule,Investigational
+CHEMBL404,TAZOBACTAM,Small molecule,Investigational
+CHEMBL8,CIPROFLOXACIN,Small molecule,Investigational
+CHEMBL9,NORFLOXACIN,Small molecule,Investigational
+CHEMBL405,AMPHETAMINE,Small molecule,Investigational
+CHEMBL6622,ISOSORBIDE DINITRATE,Small molecule,Investigational
+CHEMBL6437,MIANSERIN,Small molecule,Investigational
+CHEMBL11,IMIPRAMINE,Small molecule,Investigational
+CHEMBL406,INDAPAMIDE,Small molecule,Investigational
+CHEMBL407,FLUMAZENIL,Small molecule,Investigational
+CHEMBL408,TROGLITAZONE,Small molecule,Investigational
+CHEMBL409,BICALUTAMIDE,Small molecule,Investigational
+CHEMBL12,DIAZEPAM,Small molecule,Investigational
+CHEMBL13,METOPROLOL,Small molecule,Investigational
+CHEMBL411,DIETHYLSTILBESTROL,Small molecule,Investigational
+CHEMBL267936,MECAMYLAMINE,Small molecule,Investigational
+CHEMBL14,CARBACHOL,Small molecule,Investigational
+CHEMBL16,PHENYTOIN,Small molecule,Investigational
+CHEMBL413,SIROLIMUS,Small molecule,Investigational
+CHEMBL269732,TACROLIMUS ANHYDROUS,Small molecule,Investigational
+CHEMBL415,CLOMIPRAMINE,Small molecule,Investigational
+CHEMBL416,METHOXSALEN,Small molecule,Investigational
+CHEMBL17,DICHLORPHENAMIDE,Small molecule,Investigational
+CHEMBL18,ETHOXZOLAMIDE,Small molecule,Investigational
+CHEMBL417,EPIRUBICIN,Small molecule,Investigational
+CHEMBL19,METHAZOLAMIDE,Small molecule,Investigational
+CHEMBL20,ACETAZOLAMIDE,Small molecule,Investigational
+CHEMBL419,MAFENIDE,Small molecule,Investigational
+CHEMBL21,SULFANILAMIDE,Small molecule,Investigational
+CHEMBL420,GUANABENZ,Small molecule,Investigational
+CHEMBL22,TRIMETHOPRIM,Small molecule,Investigational
+CHEMBL6966,VERAPAMIL,Small molecule,Investigational
+CHEMBL421,SULFASALAZINE,Small molecule,Investigational
+CHEMBL6466,COUMARIN,Small molecule,Investigational
+CHEMBL23,DILTIAZEM,Small molecule,Investigational
+CHEMBL24,ATENOLOL,Small molecule,Investigational
+CHEMBL25,ASPIRIN,Small molecule,Investigational
+CHEMBL422,TRIFLUOPERAZINE,Small molecule,Investigational
+CHEMBL423,BETAXOLOL,Small molecule,Investigational
+CHEMBL425,OLSALAZINE,Small molecule,Investigational
+CHEMBL27,PROPRANOLOL,Small molecule,Investigational
+CHEMBL6995,PRACTOLOL,Small molecule,Investigational
+CHEMBL427,MECHLORETHAMINE,Small molecule,Investigational
+CHEMBL29,PENICILLIN G,Small molecule,Investigational
+CHEMBL428,TROVAFLOXACIN,Small molecule,Investigational
+CHEMBL30,CIMETIDINE,Small molecule,Investigational
+CHEMBL31,GATIFLOXACIN,Small molecule,Investigational
+CHEMBL429,LABETALOL,Small molecule,Investigational
+CHEMBL32,MOXIFLOXACIN,Small molecule,Investigational
+CHEMBL33,LEVOFLOXACIN ANHYDROUS,Small molecule,Investigational
+CHEMBL430,GEMIFLOXACIN,Small molecule,Investigational
+CHEMBL431,SPIRAPRIL,Small molecule,Investigational
+CHEMBL433,VALPROATE SODIUM,Small molecule,Investigational
+CHEMBL434,ISOPROTERENOL,Small molecule,Investigational
+CHEMBL435,HYDROCHLOROTHIAZIDE,Small molecule,Investigational
+CHEMBL35,FUROSEMIDE,Small molecule,Investigational
+CHEMBL36,PYRIMETHAMINE,Small molecule,Investigational
+CHEMBL436,TOLRESTAT,Small molecule,Investigational
+CHEMBL437,SULFATHIAZOLE,Small molecule,Investigational
+CHEMBL438,SULFAMERAZINE,Small molecule,Investigational
+CHEMBL439,SULFADIAZINE,Small molecule,Investigational
+CHEMBL440,THIAMYLAL,Small molecule,Investigational
+CHEMBL441,THIOPENTAL,Small molecule,Investigational
+CHEMBL268164,CYCLOBARBITAL,Small molecule,Investigational
+CHEMBL442,ERGOTAMINE,Small molecule,Investigational
+CHEMBL38,TRETINOIN,Small molecule,Investigational
+CHEMBL7413,METHOHEXITAL,Small molecule,Investigational
+CHEMBL40,PHENOBARBITAL,Small molecule,Investigational
+CHEMBL41,FLUOXETINE,Small molecule,Investigational
+CHEMBL443,SULFAMETHOXAZOLE,Small molecule,Investigational
+CHEMBL42,CLOZAPINE,Small molecule,Investigational
+CHEMBL445,NORTRIPTYLINE,Small molecule,Investigational
+CHEMBL446,SULFAMETHAZINE,Small molecule,Investigational
+CHEMBL447,SECOBARBITAL,Small molecule,Investigational
+CHEMBL448,PENTOBARBITAL,Small molecule,Investigational
+CHEMBL7568,QUINACRINE,Small molecule,Investigational
+CHEMBL267894,AMOBARBITAL,Small molecule,Investigational
+CHEMBL7728,HEXOBARBITAL,Small molecule,Investigational
+CHEMBL449,BUTABARBITAL,Small molecule,Investigational
+CHEMBL7863,APROBARBITAL,Small molecule,Investigational
+CHEMBL450,METHARBITAL,Small molecule,Investigational
+CHEMBL451,CHLORDIAZEPOXIDE,Small molecule,Investigational
+CHEMBL266349,MELAGATRAN,Small molecule,Investigational
+CHEMBL452,CLONAZEPAM,Small molecule,Investigational
+CHEMBL453,SULFISOXAZOLE,Small molecule,Investigational
+CHEMBL268869,SULFAMETHOXYPYRIDAZINE,Small molecule,Investigational
+CHEMBL454,BUTALBITAL,Small molecule,Investigational
+CHEMBL455,SULFACETAMIDE,Small molecule,Investigational
+CHEMBL43,AMSACRINE,Small molecule,Investigational
+CHEMBL456,ETHACRYNIC ACID,Small molecule,Investigational
+CHEMBL267744,TICRYNAFEN,Small molecule,Investigational
+CHEMBL457,GEMFIBROZIL,Small molecule,Investigational
+CHEMBL45,MELATONIN,Small molecule,Investigational
+CHEMBL46,ONDANSETRON,Small molecule,Investigational
+CHEMBL49,BUSPIRONE,Small molecule,Investigational
+CHEMBL459,METHYLDOPA,Small molecule,Investigational
+CHEMBL460,MOLINDONE,Small molecule,Investigational
+CHEMBL53,APOMORPHINE,Small molecule,Investigational
+CHEMBL54,HALOPERIDOL,Small molecule,Investigational
+CHEMBL55,PENTAMIDINE,Small molecule,Investigational
+CHEMBL463,AMINOHIPPURIC ACID,Small molecule,Investigational
+CHEMBL464,ETRETINATE,Small molecule,Investigational
+CHEMBL57,NEVIRAPINE,Small molecule,Investigational
+CHEMBL465,DRONABINOL,Small molecule,Investigational
+CHEMBL58,MITOXANTRONE,Small molecule,Investigational
+CHEMBL59,DOPAMINE,Small molecule,Investigational
+CHEMBL467,HYDROXYUREA,Small molecule,Investigational
+CHEMBL61,PODOFILOX,Small molecule,Investigational
+CHEMBL64,ISONIAZID,Small molecule,Investigational
+CHEMBL468,THALIDOMIDE,Small molecule,Investigational
+CHEMBL469,KETOROLAC,Small molecule,Investigational
+CHEMBL471,SOTALOL,Small molecule,Investigational
+CHEMBL472,GLYBURIDE,Small molecule,Investigational
+CHEMBL9225,HEXESTROL,Small molecule,Investigational
+CHEMBL473,DOFETILIDE,Small molecule,Investigational
+CHEMBL476,DACARBAZINE,Small molecule,Investigational
+CHEMBL477,ADENOSINE,Small molecule,Investigational
+CHEMBL479,THIORIDAZINE,Small molecule,Investigational
+CHEMBL480,LANSOPRAZOLE,Small molecule,Investigational
+CHEMBL481,IRINOTECAN,Small molecule,Investigational
+CHEMBL70,MORPHINE,Small molecule,Investigational
+CHEMBL485,CODEINE,Small molecule,Investigational
+CHEMBL71,CHLORPROMAZINE,Small molecule,Investigational
+CHEMBL72,DESIPRAMINE,Small molecule,Investigational
+CHEMBL488,AMINOGLUTETHIMIDE,Small molecule,Investigational
+CHEMBL74,CROMOLYN SODIUM,Small molecule,Investigational
+CHEMBL76,CHLOROQUINE,Small molecule,Investigational
+CHEMBL490,PAROXETINE,Small molecule,Investigational
+CHEMBL416146,ETORICOXIB,Small molecule,Investigational
+CHEMBL79,LIDOCAINE,Small molecule,Investigational
+CHEMBL492,ETIDOCAINE,Small molecule,Investigational
+CHEMBL80,NALOXONE,Small molecule,Investigational
+CHEMBL81,RALOXIFENE,Small molecule,Investigational
+CHEMBL83,TAMOXIFEN,Small molecule,Investigational
+CHEMBL493,BROMOCRIPTINE,Small molecule,Investigational
+CHEMBL494,ILOPROST,Small molecule,Investigational
+CHEMBL84,TOPOTECAN,Small molecule,Investigational
+CHEMBL85,RISPERIDONE,Small molecule,Investigational
+CHEMBL428880,CROMOLYN,Small molecule,Investigational
+CHEMBL86,METOCLOPRAMIDE,Small molecule,Investigational
+CHEMBL428647,PACLITAXEL,Small molecule,Investigational
+CHEMBL495,ALPROSTADIL,Small molecule,Investigational
+CHEMBL496,HEXACHLOROPHENE,Small molecule,Investigational
+CHEMBL497,CLIOQUINOL,Small molecule,Investigational
+CHEMBL10878,AGOMELATINE,Small molecule,Investigational
+CHEMBL88,CYCLOPHOSPHAMIDE ANHYDROUS,Small molecule,Investigational
+CHEMBL498,CHLORPROPAMIDE,Small molecule,Investigational
+CHEMBL499,TIMOLOL,Small molecule,Investigational
+CHEMBL500,PINDOLOL,Small molecule,Investigational
+CHEMBL11359,CISPLATIN,Small molecule,Investigational
+CHEMBL276832,HYDRALAZINE,Small molecule,Investigational
+CHEMBL501,AMPHETAMINE SULFATE,Small molecule,Investigational
+CHEMBL267345,AMPHOTERICIN B,Small molecule,Investigational
+CHEMBL90,HISTAMINE,Small molecule,Investigational
+CHEMBL91,MICONAZOLE,Small molecule,Investigational
+CHEMBL92,DOCETAXEL ANHYDROUS,Small molecule,Investigational
+CHEMBL93,ZILEUTON,Small molecule,Investigational
+CHEMBL95,TACRINE,Small molecule,Investigational
+CHEMBL502,DONEPEZIL,Small molecule,Investigational
+CHEMBL503,LOVASTATIN,Small molecule,Investigational
+CHEMBL11662,OZAGREL,Small molecule,Investigational
+CHEMBL269644,ACETANILIDE,Small molecule,Investigational
+CHEMBL504,DIMETHYL SULFOXIDE,Small molecule,Investigational
+CHEMBL505,CHLORPHENIRAMINE,Small molecule,Investigational
+CHEMBL506,PRIMAQUINE,Small molecule,Investigational
+CHEMBL509,MECLOFENAMIC ACID,Small molecule,Investigational
+CHEMBL511,PYRILAMINE,Small molecule,Investigational
+CHEMBL12713,SERTINDOLE,Small molecule,Investigational
+CHEMBL513,CARMUSTINE,Small molecule,Investigational
+CHEMBL514,LOMUSTINE,Small molecule,Investigational
+CHEMBL515,CHLORAMBUCIL,Small molecule,Investigational
+CHEMBL516,CYPROHEPTADINE,Small molecule,Investigational
+CHEMBL12856,INAMRINONE,Small molecule,Investigational
+CHEMBL517,DISOPYRAMIDE,Small molecule,Investigational
+CHEMBL98,VORINOSTAT,Small molecule,Investigational
+CHEMBL521,IBUPROFEN,Small molecule,Investigational
+CHEMBL13376,CLOMETACIN,Small molecule,Investigational
+CHEMBL13280,FLUNITRAZEPAM,Small molecule,Investigational
+CHEMBL524,METHOXAMINE,Small molecule,Investigational
+CHEMBL526,PROPOFOL,Small molecule,Investigational
+CHEMBL527,PIROXICAM,Small molecule,Investigational
+CHEMBL528,CEFTIZOXIME,Small molecule,Investigational
+CHEMBL101,PHENYLBUTAZONE,Small molecule,Investigational
+CHEMBL529,AZITHROMYCIN,Small molecule,Investigational
+CHEMBL530,AMDINOCILLIN,Small molecule,Investigational
+CHEMBL531,PERGOLIDE,Small molecule,Investigational
+CHEMBL532,ERYTHROMYCIN,Small molecule,Investigational
+CHEMBL533,IBUTILIDE,Small molecule,Investigational
+CHEMBL103,PROGESTERONE,Small molecule,Investigational
+CHEMBL534,KETOTIFEN,Small molecule,Investigational
+CHEMBL535,SUNITINIB,Small molecule,Investigational
+CHEMBL537,HYDROQUINONE,Small molecule,Investigational
+CHEMBL539,ACETIC ACID,Small molecule,Investigational
+CHEMBL14060,PHENOL,Small molecule,Investigational
+CHEMBL544,MEQUINOL,Small molecule,Investigational
+CHEMBL104,CLOTRIMAZOLE,Small molecule,Investigational
+CHEMBL105,MITOMYCIN,Small molecule,Investigational
+CHEMBL545,ALCOHOL,Small molecule,Investigational
+CHEMBL546,OXPRENOLOL,Small molecule,Investigational
+CHEMBL106,FLUCONAZOLE,Small molecule,Investigational
+CHEMBL547,ISOTRETINOIN,Small molecule,Investigational
+CHEMBL14376,ILOPERIDONE,Small molecule,Investigational
+CHEMBL548,DINOPROSTONE,Small molecule,Investigational
+CHEMBL278020,NEOSTIGMINE,Small molecule,Investigational
+CHEMBL14370,REBOXETINE,Small molecule,Investigational
+CHEMBL549,CITALOPRAM,Small molecule,Investigational
+CHEMBL550,PILOCARPINE,Small molecule,Investigational
+CHEMBL107,COLCHICINE,Small molecule,Investigational
+CHEMBL553,ERLOTINIB,Small molecule,Investigational
+CHEMBL554,LAPATINIB,Small molecule,Investigational
+CHEMBL108,CARBAMAZEPINE,Small molecule,Investigational
+CHEMBL109,VALPROIC ACID,Small molecule,Investigational
+CHEMBL277100,TEMAFLOXACIN,Small molecule,Investigational
+CHEMBL110,BENZNIDAZOLE,Small molecule,Investigational
+CHEMBL556,DEFEROXAMINE,Small molecule,Investigational
+CHEMBL558,MEXILETINE,Small molecule,Investigational
+CHEMBL559,DEXTROTHYROXINE,Small molecule,Investigational
+CHEMBL111,RIMONABANT,Small molecule,Investigational
+CHEMBL273575,NOMIFENSINE,Small molecule,Investigational
+CHEMBL561,LOMEFLOXACIN,Small molecule,Investigational
+CHEMBL562,GRISEOFULVIN,Small molecule,Investigational
+CHEMBL563,FLURBIPROFEN,Small molecule,Investigational
+CHEMBL564,PROMAZINE,Small molecule,Investigational
+CHEMBL565,CLOFIBRATE,Small molecule,Investigational
+CHEMBL112,ACETAMINOPHEN,Small molecule,Investigational
+CHEMBL113,CAFFEINE,Small molecule,Investigational
+CHEMBL16073,PHENACETIN,Small molecule,Investigational
+CHEMBL567,PERPHENAZINE,Small molecule,Investigational
+CHEMBL568,OXAZEPAM,Small molecule,Investigational
+CHEMBL15770,SULINDAC,Small molecule,Investigational
+CHEMBL15677,FENCLOFENAC,Small molecule,Investigational
+CHEMBL276520,INDALPINE,Small molecule,Investigational
+CHEMBL569,PROCAINE,Small molecule,Investigational
+CHEMBL570,TRIFLUPROMAZINE,Small molecule,Investigational
+CHEMBL571,KETOPROFEN,Small molecule,Investigational
+CHEMBL572,NITROFURANTOIN,Small molecule,Investigational
+CHEMBL15870,INDOPROFEN,Small molecule,Investigational
+CHEMBL15891,LINDANE,Small molecule,Investigational
+CHEMBL573,NIACIN,Small molecule,Investigational
+CHEMBL575,METHICILLIN,Small molecule,Investigational
+CHEMBL16080,TRICHLOROETHANE,Small molecule,Investigational
+CHEMBL577,ENALAPRILAT ANHYDROUS,Small molecule,Investigational
+CHEMBL578,ENALAPRIL,Small molecule,Investigational
+CHEMBL580,LORAZEPAM,Small molecule,Investigational
+CHEMBL582,ISOPROPYL ALCOHOL,Small molecule,Investigational
+CHEMBL583,GREPAFLOXACIN,Small molecule,Investigational
+CHEMBL114,SAQUINAVIR,Small molecule,Investigational
+CHEMBL115,INDINAVIR ANHYDROUS,Small molecule,Investigational
+CHEMBL584,NELFINAVIR,Small molecule,Investigational
+CHEMBL116,AMPRENAVIR,Small molecule,Investigational
+CHEMBL585,TRIAMTERENE,Small molecule,Investigational
+CHEMBL16476,PRONETALOL,Small molecule,Investigational
+CHEMBL118,CELECOXIB,Small molecule,Investigational
+CHEMBL119,TRIMETREXATE,Small molecule,Investigational
+CHEMBL588,FENOLDOPAM,Small molecule,Investigational
+CHEMBL589,ROPINIROLE,Small molecule,Investigational
+CHEMBL590,MENADIONE,Small molecule,Investigational
+CHEMBL591,ETHCHLORVYNOL,Small molecule,Investigational
+CHEMBL17157,TERFENADINE,Small molecule,Investigational
+CHEMBL592,LEVORPHANOL,Small molecule,Investigational
+CHEMBL593,DELAVIRDINE,Small molecule,Investigational
+CHEMBL594,EMEDASTINE,Small molecule,Investigational
+CHEMBL595,PIOGLITAZONE,Small molecule,Investigational
+CHEMBL596,FENTANYL,Small molecule,Investigational
+CHEMBL121,ROSIGLITAZONE,Small molecule,Investigational
+CHEMBL17879,MARALIXIBAT CHLORIDE,Small molecule,Investigational
+CHEMBL17860,LOFEXIDINE,Small molecule,Investigational
+CHEMBL597,PHENTOLAMINE,Small molecule,Investigational
+CHEMBL18442,PLERIXAFOR,Small molecule,Investigational
+CHEMBL18116,TOLOXATONE,Small molecule,Investigational
+CHEMBL599,MELOXICAM,Small molecule,Investigational
+CHEMBL600,ACETYLCYSTEINE,Small molecule,Investigational
+CHEMBL601,AMINOLEVULINIC ACID,Small molecule,Investigational
+CHEMBL602,CYSTEAMINE,Small molecule,Investigational
+CHEMBL19019,NALTREXONE,Small molecule,Investigational
+CHEMBL603,ZAFIRLUKAST,Small molecule,Investigational
+CHEMBL276568,"CEFPROZIL ANHYDROUS, (E)-",Small molecule,Investigational
+CHEMBL122,ROFECOXIB,Small molecule,Investigational
+CHEMBL19236,MOXONIDINE,Small molecule,Investigational
+CHEMBL604,CUPRIC SULFATE,Small molecule,Investigational
+CHEMBL605,PROCAINAMIDE HYDROCHLORIDE,Small molecule,Investigational
+CHEMBL606,MISOPROSTOL,Small molecule,Investigational
+CHEMBL278623,MACIMORELIN,Small molecule,Investigational
+CHEMBL607,MEPERIDINE,Small molecule,Investigational
+CHEMBL282052,METHAQUALONE,Small molecule,Investigational
+CHEMBL608,PROBUCOL,Small molecule,Investigational
+CHEMBL19299,LOXOPROFEN,Small molecule,Investigational
+CHEMBL609,TRIENTINE,Small molecule,Investigational
+CHEMBL19490,ZOMEPIRAC,Small molecule,Investigational
+CHEMBL611,TERAZOSIN,Small molecule,Investigational
+CHEMBL19393,LEVAMFETAMINE,Small molecule,Investigational
+CHEMBL612,DEXTROAMPHETAMINE,Small molecule,Investigational
+CHEMBL282724,SITAXENTAN,Small molecule,Investigational
+CHEMBL614,PYRAZINAMIDE,Small molecule,Investigational
+CHEMBL19449,IBUDILAST,Small molecule,Investigational
+CHEMBL282042,SAQUINAVIR MESYLATE,Small molecule,Investigational
+CHEMBL615,PENICILLIN V,Small molecule,Investigational
+CHEMBL617,CEPHALOTHIN,Small molecule,Investigational
+CHEMBL125,MILTEFOSINE,Small molecule,Investigational
+CHEMBL126,LINEZOLID,Small molecule,Investigational
+CHEMBL620,CLIDINIUM,Small molecule,Investigational
+CHEMBL127,MEROPENEM,Small molecule,Investigational
+CHEMBL621,TRAZODONE,Small molecule,Investigational
+CHEMBL622,ETODOLAC,Small molecule,Investigational
+CHEMBL21333,PRANLUKAST,Small molecule,Investigational
+CHEMBL623,NEFAZODONE,Small molecule,Investigational
+CHEMBL625,THIABENDAZOLE,Small molecule,Investigational
+CHEMBL21536,XANOMELINE,Small molecule,Investigational
+CHEMBL626,NAFTIFINE,Small molecule,Investigational
+CHEMBL628,PENTOXIFYLLINE,Small molecule,Investigational
+CHEMBL629,AMITRIPTYLINE,Small molecule,Investigational
+CHEMBL21869,DIBROMSALAN,Small molecule,Investigational
+CHEMBL24944,TRIBROMSALAN,Small molecule,Investigational
+CHEMBL128,SUMATRIPTAN,Small molecule,Investigational
+CHEMBL631,PROPAFENONE,Small molecule,Investigational
+CHEMBL632,BETAMETHASONE,Small molecule,Investigational
+CHEMBL633,AMIODARONE,Small molecule,Investigational
+CHEMBL634,ALFENTANIL,Small molecule,Investigational
+CHEMBL635,PREDNISONE,Small molecule,Investigational
+CHEMBL636,RIVASTIGMINE,Small molecule,Investigational
+CHEMBL637,VENLAFAXINE,Small molecule,Investigational
+CHEMBL129,ZIDOVUDINE,Small molecule,Investigational
+CHEMBL638,VORICONAZOLE,Small molecule,Investigational
+CHEMBL639,AZELASTINE,Small molecule,Investigational
+CHEMBL130,CHLORAMPHENICOL,Small molecule,Investigational
+CHEMBL640,PROCAINAMIDE,Small molecule,Investigational
+CHEMBL641,ATOMOXETINE,Small molecule,Investigational
+CHEMBL642,ACEBUTOLOL,Small molecule,Investigational
+CHEMBL643,PROMETHAZINE,Small molecule,Investigational
+CHEMBL131,PREDNISOLONE,Small molecule,Investigational
+CHEMBL644,TRIMIPRAMINE,Small molecule,Investigational
+CHEMBL645,BISOPROLOL,Small molecule,Investigational
+CHEMBL646,TRIAZOLAM,Small molecule,Investigational
+CHEMBL647,APRACLONIDINE,Small molecule,Investigational
+CHEMBL648,CYCLIZINE,Small molecule,Investigational
+CHEMBL434394,NEBIVOLOL,Small molecule,Investigational
+CHEMBL650,METHYLPREDNISOLONE,Small molecule,Investigational
+CHEMBL651,METHADONE,Small molecule,Investigational
+CHEMBL652,FLECAINIDE,Small molecule,Investigational
+CHEMBL134,CLONIDINE,Small molecule,Investigational
+CHEMBL654,MIRTAZAPINE,Small molecule,Investigational
+CHEMBL655,MIDAZOLAM,Small molecule,Investigational
+CHEMBL22242,REMOXIPRIDE,Small molecule,Investigational
+CHEMBL656,OXYCODONE,Small molecule,Investigational
+CHEMBL135,ESTRADIOL,Small molecule,Investigational
+CHEMBL657,DIPHENHYDRAMINE,Small molecule,Investigational
+CHEMBL658,SUFENTANIL,Small molecule,Investigational
+CHEMBL659,GALANTAMINE,Small molecule,Investigational
+CHEMBL660,AMANTADINE,Small molecule,Investigational
+CHEMBL661,ALPRAZOLAM,Small molecule,Investigational
+CHEMBL21731,MAPROTILINE,Small molecule,Investigational
+CHEMBL666,FOSCARNET,Small molecule,Investigational
+CHEMBL667,ACETYLCHOLINE,Small molecule,Investigational
+CHEMBL137,METRONIDAZOLE,Small molecule,Investigational
+CHEMBL668,PROTRIPTYLINE,Small molecule,Investigational
+CHEMBL669,CYCLOBENZAPRINE,Small molecule,Investigational
+CHEMBL671,THIOTEPA,Small molecule,Investigational
+CHEMBL672,FENOFIBRATE,Small molecule,Investigational
+CHEMBL673,PARGYLINE,Small molecule,Investigational
+CHEMBL675,ALENDRONATE SODIUM,Small molecule,Investigational
+CHEMBL677,LEVONORDEFRIN,Small molecule,Investigational
+CHEMBL679,EPINEPHRINE,Small molecule,Investigational
+CHEMBL680,CEFACLOR ANHYDROUS,Small molecule,Investigational
+CHEMBL681,ETOMIDATE,Small molecule,Investigational
+CHEMBL682,AMODIAQUINE,Small molecule,Investigational
+CHEMBL684,DIETHYLCARBAMAZINE,Small molecule,Investigational
+CHEMBL685,MEBENDAZOLE,Small molecule,Investigational
+CHEMBL139,DICLOFENAC,Small molecule,Investigational
+CHEMBL686,MEFENAMIC ACID,Small molecule,Investigational
+CHEMBL688,FENTANYL CITRATE,Small molecule,Investigational
+CHEMBL689,MANNITOL,Small molecule,Investigational
+CHEMBL690,PRAVASTATIN SODIUM,Small molecule,Investigational
+CHEMBL24072,PRENYLAMINE,Small molecule,Investigational
+CHEMBL691,ETHINYL ESTRADIOL,Small molecule,Investigational
+CHEMBL284348,DALFAMPRIDINE,Small molecule,Investigational
+CHEMBL692,GLYCERIN,Small molecule,Investigational
+CHEMBL695,TRIMETHADIONE,Small molecule,Investigational
+CHEMBL696,ETHOSUXIMIDE,Small molecule,Investigational
+CHEMBL697,METHSUXIMIDE,Small molecule,Investigational
+CHEMBL698,TETRACAINE,Small molecule,Investigational
+CHEMBL700,SULFAPYRIDINE,Small molecule,Investigational
+CHEMBL701,BACLOFEN,Small molecule,Investigational
+CHEMBL702,PIPERACILLIN,Small molecule,Investigational
+CHEMBL703,SUXAMETHONIUM,Small molecule,Investigational
+CHEMBL704,MESALAMINE,Small molecule,Investigational
+CHEMBL705,ALITRETINOIN,Small molecule,Investigational
+CHEMBL706,CETYL ALCOHOL,Small molecule,Investigational
+CHEMBL24778,SILODOSIN,Small molecule,Investigational
+CHEMBL282468,CHOLINE CHLORIDE,Small molecule,Investigational
+CHEMBL707,DOXAZOSIN,Small molecule,Investigational
+CHEMBL24828,VANDETANIB,Small molecule,Investigational
+CHEMBL278819,MINAPRINE,Small molecule,Investigational
+CHEMBL25202,TAMIBAROTENE,Small molecule,Investigational
+CHEMBL708,ZIPRASIDONE,Small molecule,Investigational
+CHEMBL709,ALFUZOSIN,Small molecule,Investigational
+CHEMBL710,FINASTERIDE,Small molecule,Investigational
+CHEMBL711,PHENINDIONE,Small molecule,Investigational
+CHEMBL712,ANISINDIONE,Small molecule,Investigational
+CHEMBL713,ENTECAVIR ANHYDROUS,Small molecule,Investigational
+CHEMBL141,LAMIVUDINE,Small molecule,Investigational
+CHEMBL714,ALBUTEROL,Small molecule,Investigational
+CHEMBL715,OLANZAPINE,Small molecule,Investigational
+CHEMBL716,QUETIAPINE,Small molecule,Investigational
+CHEMBL717,MEDROXYPROGESTERONE ACETATE,Small molecule,Investigational
+CHEMBL719,MUPIROCIN,Small molecule,Investigational
+CHEMBL720,BENZYL ALCOHOL,Small molecule,Investigational
+CHEMBL28318,PROPYPHENAZONE,Small molecule,Investigational
+CHEMBL723,CARVEDILOL,Small molecule,Investigational
+CHEMBL726,FLUPHENAZINE,Small molecule,Investigational
+CHEMBL727,THIOGUANINE,Small molecule,Investigational
+CHEMBL27193,DILEVALOL,Small molecule,Investigational
+CHEMBL728,PROCHLORPERAZINE,Small molecule,Investigational
+CHEMBL729,LOPINAVIR,Small molecule,Investigational
+CHEMBL730,NITROGLYCERIN,Small molecule,Investigational
+CHEMBL734,ACETOHYDROXAMIC ACID,Small molecule,Investigational
+CHEMBL738,THIOPENTAL SODIUM,Small molecule,Investigational
+CHEMBL30219,METHOHEXITAL SODIUM,Small molecule,Investigational
+CHEMBL741,LAMOTRIGINE,Small molecule,Investigational
+CHEMBL742,KETAMINE,Small molecule,Investigational
+CHEMBL744,RILUZOLE,Small molecule,Investigational
+CHEMBL746,NEDOCROMIL,Small molecule,Investigational
+CHEMBL748,PRALIDOXIME CHLORIDE,Small molecule,Investigational
+CHEMBL750,ZONISAMIDE,Small molecule,Investigational
+CHEMBL752,ADENOSINE PHOSPHATE,Small molecule,Investigational
+CHEMBL753,PHENOXYBENZAMINE,Small molecule,Investigational
+CHEMBL754,FOSCARNET SODIUM,Small molecule,Investigational
+CHEMBL760,ANAGRELIDE,Small molecule,Investigational
+CHEMBL761,NAPHAZOLINE,Small molecule,Investigational
+CHEMBL762,OXYMETAZOLINE,Small molecule,Investigational
+CHEMBL765,GUANETHIDINE,Small molecule,Investigational
+CHEMBL766,CILASTATIN,Small molecule,Investigational
+CHEMBL768,ESMOLOL,Small molecule,Investigational
+CHEMBL770,TOLAZOLINE,Small molecule,Investigational
+CHEMBL771,CYCLOSERINE,Small molecule,Investigational
+CHEMBL148,IMIPENEM ANHYDROUS,Small molecule,Investigational
+CHEMBL772,RESERPINE,Small molecule,Investigational
+CHEMBL773,GLYCINE,Small molecule,Investigational
+CHEMBL776,METAPROTERENOL,Small molecule,Investigational
+CHEMBL777,CLAVULANIC ACID,Small molecule,Investigational
+CHEMBL778,DEXMEDETOMIDINE,Small molecule,Investigational
+CHEMBL779,TADALAFIL,Small molecule,Investigational
+CHEMBL33986,BUTORPHANOL,Small molecule,Investigational
+CHEMBL780,PENTETIC ACID,Small molecule,Investigational
+CHEMBL781,MAZINDOL,Small molecule,Investigational
+CHEMBL290106,BITHIONOL,Small molecule,Investigational
+CHEMBL782,TOLBUTAMIDE,Small molecule,Investigational
+CHEMBL783,NATEGLINIDE,Small molecule,Investigational
+CHEMBL32479,BROTIZOLAM,Small molecule,Investigational
+CHEMBL786,TAMOXIFEN CITRATE,Small molecule,Investigational
+CHEMBL787,MONTELUKAST,Small molecule,Investigational
+CHEMBL788,IDOXURIDINE,Small molecule,Investigational
+CHEMBL36506,NOVOBIOCIN,Small molecule,Investigational
+CHEMBL152,CIDOFOVIR ANHYDROUS,Small molecule,Investigational
+CHEMBL790,CHLORHEXIDINE,Small molecule,Investigational
+CHEMBL32800,FENOTEROL,Small molecule,Investigational
+CHEMBL796,METHYLPHENIDATE,Small molecule,Investigational
+CHEMBL285674,ESTAZOLAM,Small molecule,Investigational
+CHEMBL797,PHENSUXIMIDE,Small molecule,Investigational
+CHEMBL34259,METHOTREXATE,Small molecule,Investigational
+CHEMBL284092,GEPIRONE,Small molecule,Investigational
+CHEMBL799,CILOSTAZOL,Small molecule,Investigational
+CHEMBL802,MINOXIDIL,Small molecule,Investigational
+CHEMBL154,NAPROXEN,Small molecule,Investigational
+CHEMBL416956,MEFLOQUINE,Small molecule,Investigational
+CHEMBL803,CYTARABINE,Small molecule,Investigational
+CHEMBL806,FLUTAMIDE,Small molecule,Investigational
+CHEMBL807,MEMANTINE,Small molecule,Investigational
+CHEMBL808,ECONAZOLE,Small molecule,Investigational
+CHEMBL809,SERTRALINE,Small molecule,Investigational
+CHEMBL810,TEMOZOLOMIDE,Small molecule,Investigational
+CHEMBL811,BROMPHENIRAMINE,Small molecule,Investigational
+CHEMBL37744,ZIMELDINE,Small molecule,Investigational
+CHEMBL812,PYRIDOSTIGMINE BROMIDE,Small molecule,Investigational
+CHEMBL813,EPROSARTAN,Small molecule,Investigational
+CHEMBL289469,GRANISETRON,Small molecule,Investigational
+CHEMBL814,FLUVOXAMINE,Small molecule,Investigational
+CHEMBL441738,AFAMELANOTIDE,Protein,Investigational
+CHEMBL815,DINOPROST,Small molecule,Investigational
+CHEMBL39736,BUFORMIN,Small molecule,Investigational
+CHEMBL38827,LUMEFANTRINE,Small molecule,Investigational
+CHEMBL817,TOLAZAMIDE,Small molecule,Investigational
+CHEMBL818,IOBENGUANE,Small molecule,Investigational
+CHEMBL819,OXACILLIN,Small molecule,Investigational
+CHEMBL290960,NIFURTIMOX,Small molecule,Investigational
+CHEMBL820,BUSULFAN,Small molecule,Investigational
+CHEMBL821,GUANIDINE,Small molecule,Investigational
+CHEMBL822,TERBINAFINE,Small molecule,Investigational
+CHEMBL826,ENOXACIN,Small molecule,Investigational
+CHEMBL827,DEXMETHYLPHENIDATE,Small molecule,Investigational
+CHEMBL829,METHYLPROMAZINE,Small molecule,Investigational
+CHEMBL43128,PRIMAQUINE PHOSPHATE,Small molecule,Investigational
+CHEMBL830,EFLORNITHINE,Small molecule,Investigational
+CHEMBL831,LOXAPINE,Small molecule,Investigational
+CHEMBL832,SULFINPYRAZONE,Small molecule,Investigational
+CHEMBL288470,AMINOPYRINE,Small molecule,Investigational

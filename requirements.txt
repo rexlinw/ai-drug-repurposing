@@ -1,0 +1,9 @@
+pandas
+biopython
+rdkit
+tqdm
+scikit-learn
+requests
+jupyter
+matplotlib
+seaborn

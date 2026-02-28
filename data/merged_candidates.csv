@@ -1,0 +1,2001 @@
+diseaseid,disease_name,disease_type,drug_id,drug_name,drug_type,approval_status
+C0002395,alzheimer's disease,disease,CHEMBL2,prazosin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL3,nicotine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL4,ofloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL5,nalidixic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL6,indomethacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL403,sulbactam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL404,tazobactam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL8,ciprofloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL9,norfloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL405,amphetamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL6622,isosorbide dinitrate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL6437,mianserin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL11,imipramine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL406,indapamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL407,flumazenil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL408,troglitazone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL409,bicalutamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL12,diazepam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL13,metoprolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL411,diethylstilbestrol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL267936,mecamylamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL14,carbachol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL16,phenytoin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL413,sirolimus,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL269732,tacrolimus anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL415,clomipramine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL416,methoxsalen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL17,dichlorphenamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL18,ethoxzolamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL417,epirubicin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL19,methazolamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL20,acetazolamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL419,mafenide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL21,sulfanilamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL420,guanabenz,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL22,trimethoprim,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL6966,verapamil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL421,sulfasalazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL6466,coumarin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL23,diltiazem,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL24,atenolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL25,aspirin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL422,trifluoperazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL423,betaxolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL425,olsalazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL27,propranolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL6995,practolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL427,mechlorethamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL29,penicillin g,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL428,trovafloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL30,cimetidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL31,gatifloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL429,labetalol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL32,moxifloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL33,levofloxacin anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL430,gemifloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL431,spirapril,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL433,valproate sodium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL434,isoproterenol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL435,hydrochlorothiazide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL35,furosemide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL36,pyrimethamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL436,tolrestat,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL437,sulfathiazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL438,sulfamerazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL439,sulfadiazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL440,thiamylal,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL441,thiopental,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL268164,cyclobarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL442,ergotamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL38,tretinoin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL7413,methohexital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL40,phenobarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL41,fluoxetine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL443,sulfamethoxazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL42,clozapine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL445,nortriptyline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL446,sulfamethazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL447,secobarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL448,pentobarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL7568,quinacrine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL267894,amobarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL7728,hexobarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL449,butabarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL7863,aprobarbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL450,metharbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL451,chlordiazepoxide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL266349,melagatran,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL452,clonazepam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL453,sulfisoxazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL268869,sulfamethoxypyridazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL454,butalbital,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL455,sulfacetamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL43,amsacrine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL456,ethacrynic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL267744,ticrynafen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL457,gemfibrozil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL45,melatonin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL46,ondansetron,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL49,buspirone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL459,methyldopa,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL460,molindone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL53,apomorphine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL54,haloperidol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL55,pentamidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL463,aminohippuric acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL464,etretinate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL57,nevirapine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL465,dronabinol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL58,mitoxantrone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL59,dopamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL467,hydroxyurea,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL61,podofilox,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL64,isoniazid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL468,thalidomide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL469,ketorolac,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL471,sotalol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL472,glyburide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL9225,hexestrol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL473,dofetilide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL476,dacarbazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL477,adenosine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL479,thioridazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL480,lansoprazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL481,irinotecan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL70,morphine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL485,codeine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL71,chlorpromazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL72,desipramine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL488,aminoglutethimide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL74,cromolyn sodium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL76,chloroquine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL490,paroxetine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL416146,etoricoxib,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL79,lidocaine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL492,etidocaine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL80,naloxone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL81,raloxifene,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL83,tamoxifen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL493,bromocriptine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL494,iloprost,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL84,topotecan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL85,risperidone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL428880,cromolyn,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL86,metoclopramide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL428647,paclitaxel,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL495,alprostadil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL496,hexachlorophene,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL497,clioquinol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL10878,agomelatine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL88,cyclophosphamide anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL498,chlorpropamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL499,timolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL500,pindolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL11359,cisplatin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL276832,hydralazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL501,amphetamine sulfate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL267345,amphotericin b,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL90,histamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL91,miconazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL92,docetaxel anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL93,zileuton,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL95,tacrine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL502,donepezil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL503,lovastatin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL11662,ozagrel,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL269644,acetanilide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL504,dimethyl sulfoxide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL505,chlorpheniramine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL506,primaquine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL509,meclofenamic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL511,pyrilamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL12713,sertindole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL513,carmustine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL514,lomustine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL515,chlorambucil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL516,cyproheptadine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL12856,inamrinone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL517,disopyramide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL98,vorinostat,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL521,ibuprofen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL13376,clometacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL13280,flunitrazepam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL524,methoxamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL526,propofol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL527,piroxicam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL528,ceftizoxime,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL101,phenylbutazone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL529,azithromycin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL530,amdinocillin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL531,pergolide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL532,erythromycin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL533,ibutilide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL103,progesterone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL534,ketotifen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL535,sunitinib,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL537,hydroquinone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL539,acetic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL14060,phenol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL544,mequinol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL104,clotrimazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL105,mitomycin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL545,alcohol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL546,oxprenolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL106,fluconazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL547,isotretinoin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL14376,iloperidone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL548,dinoprostone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL278020,neostigmine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL14370,reboxetine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL549,citalopram,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL550,pilocarpine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL107,colchicine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL553,erlotinib,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL554,lapatinib,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL108,carbamazepine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL109,valproic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL277100,temafloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL110,benznidazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL556,deferoxamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL558,mexiletine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL559,dextrothyroxine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL111,rimonabant,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL273575,nomifensine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL561,lomefloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL562,griseofulvin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL563,flurbiprofen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL564,promazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL565,clofibrate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL112,acetaminophen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL113,caffeine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL16073,phenacetin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL567,perphenazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL568,oxazepam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL15770,sulindac,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL15677,fenclofenac,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL276520,indalpine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL569,procaine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL570,triflupromazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL571,ketoprofen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL572,nitrofurantoin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL15870,indoprofen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL15891,lindane,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL573,niacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL575,methicillin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL16080,trichloroethane,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL577,enalaprilat anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL578,enalapril,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL580,lorazepam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL582,isopropyl alcohol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL583,grepafloxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL114,saquinavir,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL115,indinavir anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL584,nelfinavir,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL116,amprenavir,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL585,triamterene,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL16476,pronetalol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL118,celecoxib,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL119,trimetrexate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL588,fenoldopam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL589,ropinirole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL590,menadione,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL591,ethchlorvynol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL17157,terfenadine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL592,levorphanol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL593,delavirdine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL594,emedastine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL595,pioglitazone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL596,fentanyl,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL121,rosiglitazone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL17879,maralixibat chloride,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL17860,lofexidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL597,phentolamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL18442,plerixafor,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL18116,toloxatone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL599,meloxicam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL600,acetylcysteine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL601,aminolevulinic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL602,cysteamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL19019,naltrexone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL603,zafirlukast,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL276568,"cefprozil anhydrous, (e)-",Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL122,rofecoxib,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL19236,moxonidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL604,cupric sulfate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL605,procainamide hydrochloride,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL606,misoprostol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL278623,macimorelin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL607,meperidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL282052,methaqualone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL608,probucol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL19299,loxoprofen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL609,trientine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL19490,zomepirac,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL611,terazosin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL19393,levamfetamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL612,dextroamphetamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL282724,sitaxentan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL614,pyrazinamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL19449,ibudilast,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL282042,saquinavir mesylate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL615,penicillin v,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL617,cephalothin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL125,miltefosine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL126,linezolid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL620,clidinium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL127,meropenem,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL621,trazodone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL622,etodolac,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL21333,pranlukast,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL623,nefazodone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL625,thiabendazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL21536,xanomeline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL626,naftifine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL628,pentoxifylline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL629,amitriptyline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL21869,dibromsalan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL24944,tribromsalan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL128,sumatriptan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL631,propafenone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL632,betamethasone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL633,amiodarone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL634,alfentanil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL635,prednisone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL636,rivastigmine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL637,venlafaxine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL129,zidovudine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL638,voriconazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL639,azelastine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL130,chloramphenicol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL640,procainamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL641,atomoxetine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL642,acebutolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL643,promethazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL131,prednisolone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL644,trimipramine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL645,bisoprolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL646,triazolam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL647,apraclonidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL648,cyclizine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL434394,nebivolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL650,methylprednisolone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL651,methadone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL652,flecainide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL134,clonidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL654,mirtazapine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL655,midazolam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL22242,remoxipride,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL656,oxycodone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL135,estradiol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL657,diphenhydramine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL658,sufentanil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL659,galantamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL660,amantadine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL661,alprazolam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL21731,maprotiline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL666,foscarnet,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL667,acetylcholine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL137,metronidazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL668,protriptyline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL669,cyclobenzaprine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL671,thiotepa,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL672,fenofibrate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL673,pargyline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL675,alendronate sodium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL677,levonordefrin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL679,epinephrine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL680,cefaclor anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL681,etomidate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL682,amodiaquine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL684,diethylcarbamazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL685,mebendazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL139,diclofenac,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL686,mefenamic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL688,fentanyl citrate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL689,mannitol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL690,pravastatin sodium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL24072,prenylamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL691,ethinyl estradiol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL284348,dalfampridine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL692,glycerin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL695,trimethadione,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL696,ethosuximide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL697,methsuximide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL698,tetracaine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL700,sulfapyridine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL701,baclofen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL702,piperacillin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL703,suxamethonium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL704,mesalamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL705,alitretinoin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL706,cetyl alcohol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL24778,silodosin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL282468,choline chloride,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL707,doxazosin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL24828,vandetanib,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL278819,minaprine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL25202,tamibarotene,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL708,ziprasidone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL709,alfuzosin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL710,finasteride,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL711,phenindione,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL712,anisindione,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL713,entecavir anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL141,lamivudine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL714,albuterol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL715,olanzapine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL716,quetiapine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL717,medroxyprogesterone acetate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL719,mupirocin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL720,benzyl alcohol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL28318,propyphenazone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL723,carvedilol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL726,fluphenazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL727,thioguanine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL27193,dilevalol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL728,prochlorperazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL729,lopinavir,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL730,nitroglycerin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL734,acetohydroxamic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL738,thiopental sodium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL30219,methohexital sodium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL741,lamotrigine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL742,ketamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL744,riluzole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL746,nedocromil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL748,pralidoxime chloride,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL750,zonisamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL752,adenosine phosphate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL753,phenoxybenzamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL754,foscarnet sodium,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL760,anagrelide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL761,naphazoline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL762,oxymetazoline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL765,guanethidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL766,cilastatin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL768,esmolol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL770,tolazoline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL771,cycloserine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL148,imipenem anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL772,reserpine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL773,glycine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL776,metaproterenol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL777,clavulanic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL778,dexmedetomidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL779,tadalafil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL33986,butorphanol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL780,pentetic acid,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL781,mazindol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL290106,bithionol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL782,tolbutamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL783,nateglinide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL32479,brotizolam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL786,tamoxifen citrate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL787,montelukast,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL788,idoxuridine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL36506,novobiocin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL152,cidofovir anhydrous,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL790,chlorhexidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL32800,fenoterol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL796,methylphenidate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL285674,estazolam,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL797,phensuximide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL34259,methotrexate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL284092,gepirone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL799,cilostazol,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL802,minoxidil,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL154,naproxen,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL416956,mefloquine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL803,cytarabine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL806,flutamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL807,memantine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL808,econazole,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL809,sertraline,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL810,temozolomide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL811,brompheniramine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL37744,zimeldine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL812,pyridostigmine bromide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL813,eprosartan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL289469,granisetron,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL814,fluvoxamine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL441738,afamelanotide,Protein,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL815,dinoprost,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL39736,buformin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL38827,lumefantrine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL817,tolazamide,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL818,iobenguane,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL819,oxacillin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL290960,nifurtimox,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL820,busulfan,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL821,guanidine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL822,terbinafine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL826,enoxacin,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL827,dexmethylphenidate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL829,methylpromazine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL43128,primaquine phosphate,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL830,eflornithine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL831,loxapine,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL832,sulfinpyrazone,Small molecule,Investigational
+C0002395,alzheimer's disease,disease,CHEMBL288470,aminopyrine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL2,prazosin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL3,nicotine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL4,ofloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL5,nalidixic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL6,indomethacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL403,sulbactam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL404,tazobactam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL8,ciprofloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL9,norfloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL405,amphetamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL6622,isosorbide dinitrate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL6437,mianserin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL11,imipramine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL406,indapamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL407,flumazenil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL408,troglitazone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL409,bicalutamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL12,diazepam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL13,metoprolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL411,diethylstilbestrol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL267936,mecamylamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL14,carbachol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL16,phenytoin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL413,sirolimus,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL269732,tacrolimus anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL415,clomipramine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL416,methoxsalen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL17,dichlorphenamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL18,ethoxzolamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL417,epirubicin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL19,methazolamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL20,acetazolamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL419,mafenide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL21,sulfanilamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL420,guanabenz,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL22,trimethoprim,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL6966,verapamil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL421,sulfasalazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL6466,coumarin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL23,diltiazem,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL24,atenolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL25,aspirin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL422,trifluoperazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL423,betaxolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL425,olsalazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL27,propranolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL6995,practolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL427,mechlorethamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL29,penicillin g,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL428,trovafloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL30,cimetidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL31,gatifloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL429,labetalol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL32,moxifloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL33,levofloxacin anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL430,gemifloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL431,spirapril,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL433,valproate sodium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL434,isoproterenol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL435,hydrochlorothiazide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL35,furosemide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL36,pyrimethamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL436,tolrestat,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL437,sulfathiazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL438,sulfamerazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL439,sulfadiazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL440,thiamylal,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL441,thiopental,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL268164,cyclobarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL442,ergotamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL38,tretinoin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL7413,methohexital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL40,phenobarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL41,fluoxetine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL443,sulfamethoxazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL42,clozapine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL445,nortriptyline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL446,sulfamethazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL447,secobarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL448,pentobarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL7568,quinacrine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL267894,amobarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL7728,hexobarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL449,butabarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL7863,aprobarbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL450,metharbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL451,chlordiazepoxide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL266349,melagatran,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL452,clonazepam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL453,sulfisoxazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL268869,sulfamethoxypyridazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL454,butalbital,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL455,sulfacetamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL43,amsacrine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL456,ethacrynic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL267744,ticrynafen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL457,gemfibrozil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL45,melatonin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL46,ondansetron,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL49,buspirone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL459,methyldopa,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL460,molindone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL53,apomorphine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL54,haloperidol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL55,pentamidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL463,aminohippuric acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL464,etretinate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL57,nevirapine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL465,dronabinol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL58,mitoxantrone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL59,dopamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL467,hydroxyurea,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL61,podofilox,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL64,isoniazid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL468,thalidomide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL469,ketorolac,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL471,sotalol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL472,glyburide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL9225,hexestrol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL473,dofetilide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL476,dacarbazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL477,adenosine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL479,thioridazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL480,lansoprazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL481,irinotecan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL70,morphine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL485,codeine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL71,chlorpromazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL72,desipramine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL488,aminoglutethimide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL74,cromolyn sodium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL76,chloroquine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL490,paroxetine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL416146,etoricoxib,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL79,lidocaine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL492,etidocaine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL80,naloxone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL81,raloxifene,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL83,tamoxifen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL493,bromocriptine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL494,iloprost,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL84,topotecan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL85,risperidone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL428880,cromolyn,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL86,metoclopramide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL428647,paclitaxel,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL495,alprostadil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL496,hexachlorophene,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL497,clioquinol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL10878,agomelatine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL88,cyclophosphamide anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL498,chlorpropamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL499,timolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL500,pindolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL11359,cisplatin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL276832,hydralazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL501,amphetamine sulfate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL267345,amphotericin b,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL90,histamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL91,miconazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL92,docetaxel anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL93,zileuton,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL95,tacrine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL502,donepezil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL503,lovastatin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL11662,ozagrel,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL269644,acetanilide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL504,dimethyl sulfoxide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL505,chlorpheniramine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL506,primaquine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL509,meclofenamic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL511,pyrilamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL12713,sertindole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL513,carmustine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL514,lomustine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL515,chlorambucil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL516,cyproheptadine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL12856,inamrinone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL517,disopyramide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL98,vorinostat,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL521,ibuprofen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL13376,clometacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL13280,flunitrazepam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL524,methoxamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL526,propofol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL527,piroxicam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL528,ceftizoxime,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL101,phenylbutazone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL529,azithromycin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL530,amdinocillin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL531,pergolide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL532,erythromycin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL533,ibutilide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL103,progesterone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL534,ketotifen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL535,sunitinib,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL537,hydroquinone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL539,acetic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL14060,phenol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL544,mequinol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL104,clotrimazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL105,mitomycin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL545,alcohol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL546,oxprenolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL106,fluconazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL547,isotretinoin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL14376,iloperidone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL548,dinoprostone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL278020,neostigmine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL14370,reboxetine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL549,citalopram,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL550,pilocarpine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL107,colchicine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL553,erlotinib,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL554,lapatinib,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL108,carbamazepine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL109,valproic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL277100,temafloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL110,benznidazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL556,deferoxamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL558,mexiletine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL559,dextrothyroxine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL111,rimonabant,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL273575,nomifensine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL561,lomefloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL562,griseofulvin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL563,flurbiprofen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL564,promazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL565,clofibrate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL112,acetaminophen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL113,caffeine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL16073,phenacetin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL567,perphenazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL568,oxazepam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL15770,sulindac,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL15677,fenclofenac,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL276520,indalpine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL569,procaine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL570,triflupromazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL571,ketoprofen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL572,nitrofurantoin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL15870,indoprofen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL15891,lindane,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL573,niacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL575,methicillin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL16080,trichloroethane,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL577,enalaprilat anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL578,enalapril,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL580,lorazepam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL582,isopropyl alcohol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL583,grepafloxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL114,saquinavir,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL115,indinavir anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL584,nelfinavir,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL116,amprenavir,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL585,triamterene,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL16476,pronetalol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL118,celecoxib,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL119,trimetrexate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL588,fenoldopam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL589,ropinirole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL590,menadione,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL591,ethchlorvynol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL17157,terfenadine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL592,levorphanol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL593,delavirdine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL594,emedastine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL595,pioglitazone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL596,fentanyl,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL121,rosiglitazone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL17879,maralixibat chloride,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL17860,lofexidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL597,phentolamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL18442,plerixafor,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL18116,toloxatone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL599,meloxicam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL600,acetylcysteine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL601,aminolevulinic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL602,cysteamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL19019,naltrexone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL603,zafirlukast,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL276568,"cefprozil anhydrous, (e)-",Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL122,rofecoxib,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL19236,moxonidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL604,cupric sulfate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL605,procainamide hydrochloride,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL606,misoprostol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL278623,macimorelin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL607,meperidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL282052,methaqualone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL608,probucol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL19299,loxoprofen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL609,trientine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL19490,zomepirac,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL611,terazosin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL19393,levamfetamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL612,dextroamphetamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL282724,sitaxentan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL614,pyrazinamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL19449,ibudilast,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL282042,saquinavir mesylate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL615,penicillin v,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL617,cephalothin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL125,miltefosine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL126,linezolid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL620,clidinium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL127,meropenem,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL621,trazodone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL622,etodolac,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL21333,pranlukast,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL623,nefazodone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL625,thiabendazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL21536,xanomeline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL626,naftifine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL628,pentoxifylline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL629,amitriptyline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL21869,dibromsalan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL24944,tribromsalan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL128,sumatriptan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL631,propafenone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL632,betamethasone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL633,amiodarone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL634,alfentanil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL635,prednisone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL636,rivastigmine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL637,venlafaxine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL129,zidovudine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL638,voriconazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL639,azelastine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL130,chloramphenicol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL640,procainamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL641,atomoxetine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL642,acebutolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL643,promethazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL131,prednisolone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL644,trimipramine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL645,bisoprolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL646,triazolam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL647,apraclonidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL648,cyclizine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL434394,nebivolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL650,methylprednisolone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL651,methadone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL652,flecainide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL134,clonidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL654,mirtazapine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL655,midazolam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL22242,remoxipride,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL656,oxycodone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL135,estradiol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL657,diphenhydramine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL658,sufentanil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL659,galantamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL660,amantadine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL661,alprazolam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL21731,maprotiline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL666,foscarnet,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL667,acetylcholine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL137,metronidazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL668,protriptyline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL669,cyclobenzaprine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL671,thiotepa,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL672,fenofibrate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL673,pargyline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL675,alendronate sodium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL677,levonordefrin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL679,epinephrine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL680,cefaclor anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL681,etomidate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL682,amodiaquine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL684,diethylcarbamazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL685,mebendazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL139,diclofenac,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL686,mefenamic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL688,fentanyl citrate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL689,mannitol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL690,pravastatin sodium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL24072,prenylamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL691,ethinyl estradiol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL284348,dalfampridine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL692,glycerin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL695,trimethadione,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL696,ethosuximide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL697,methsuximide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL698,tetracaine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL700,sulfapyridine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL701,baclofen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL702,piperacillin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL703,suxamethonium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL704,mesalamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL705,alitretinoin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL706,cetyl alcohol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL24778,silodosin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL282468,choline chloride,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL707,doxazosin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL24828,vandetanib,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL278819,minaprine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL25202,tamibarotene,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL708,ziprasidone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL709,alfuzosin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL710,finasteride,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL711,phenindione,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL712,anisindione,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL713,entecavir anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL141,lamivudine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL714,albuterol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL715,olanzapine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL716,quetiapine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL717,medroxyprogesterone acetate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL719,mupirocin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL720,benzyl alcohol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL28318,propyphenazone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL723,carvedilol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL726,fluphenazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL727,thioguanine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL27193,dilevalol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL728,prochlorperazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL729,lopinavir,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL730,nitroglycerin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL734,acetohydroxamic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL738,thiopental sodium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL30219,methohexital sodium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL741,lamotrigine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL742,ketamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL744,riluzole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL746,nedocromil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL748,pralidoxime chloride,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL750,zonisamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL752,adenosine phosphate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL753,phenoxybenzamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL754,foscarnet sodium,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL760,anagrelide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL761,naphazoline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL762,oxymetazoline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL765,guanethidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL766,cilastatin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL768,esmolol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL770,tolazoline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL771,cycloserine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL148,imipenem anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL772,reserpine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL773,glycine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL776,metaproterenol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL777,clavulanic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL778,dexmedetomidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL779,tadalafil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL33986,butorphanol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL780,pentetic acid,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL781,mazindol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL290106,bithionol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL782,tolbutamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL783,nateglinide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL32479,brotizolam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL786,tamoxifen citrate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL787,montelukast,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL788,idoxuridine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL36506,novobiocin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL152,cidofovir anhydrous,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL790,chlorhexidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL32800,fenoterol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL796,methylphenidate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL285674,estazolam,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL797,phensuximide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL34259,methotrexate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL284092,gepirone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL799,cilostazol,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL802,minoxidil,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL154,naproxen,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL416956,mefloquine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL803,cytarabine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL806,flutamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL807,memantine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL808,econazole,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL809,sertraline,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL810,temozolomide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL811,brompheniramine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL37744,zimeldine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL812,pyridostigmine bromide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL813,eprosartan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL289469,granisetron,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL814,fluvoxamine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL441738,afamelanotide,Protein,Investigational
+C0006142,breast cancer,disease,CHEMBL815,dinoprost,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL39736,buformin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL38827,lumefantrine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL817,tolazamide,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL818,iobenguane,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL819,oxacillin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL290960,nifurtimox,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL820,busulfan,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL821,guanidine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL822,terbinafine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL826,enoxacin,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL827,dexmethylphenidate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL829,methylpromazine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL43128,primaquine phosphate,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL830,eflornithine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL831,loxapine,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL832,sulfinpyrazone,Small molecule,Investigational
+C0006142,breast cancer,disease,CHEMBL288470,aminopyrine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL2,prazosin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL3,nicotine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL4,ofloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL5,nalidixic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL6,indomethacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL403,sulbactam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL404,tazobactam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL8,ciprofloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL9,norfloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL405,amphetamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL6622,isosorbide dinitrate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL6437,mianserin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL11,imipramine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL406,indapamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL407,flumazenil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL408,troglitazone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL409,bicalutamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL12,diazepam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL13,metoprolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL411,diethylstilbestrol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL267936,mecamylamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL14,carbachol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL16,phenytoin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL413,sirolimus,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL269732,tacrolimus anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL415,clomipramine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL416,methoxsalen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL17,dichlorphenamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL18,ethoxzolamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL417,epirubicin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL19,methazolamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL20,acetazolamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL419,mafenide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL21,sulfanilamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL420,guanabenz,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL22,trimethoprim,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL6966,verapamil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL421,sulfasalazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL6466,coumarin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL23,diltiazem,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL24,atenolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL25,aspirin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL422,trifluoperazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL423,betaxolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL425,olsalazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL27,propranolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL6995,practolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL427,mechlorethamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL29,penicillin g,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL428,trovafloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL30,cimetidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL31,gatifloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL429,labetalol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL32,moxifloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL33,levofloxacin anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL430,gemifloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL431,spirapril,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL433,valproate sodium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL434,isoproterenol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL435,hydrochlorothiazide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL35,furosemide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL36,pyrimethamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL436,tolrestat,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL437,sulfathiazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL438,sulfamerazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL439,sulfadiazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL440,thiamylal,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL441,thiopental,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL268164,cyclobarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL442,ergotamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL38,tretinoin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL7413,methohexital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL40,phenobarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL41,fluoxetine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL443,sulfamethoxazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL42,clozapine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL445,nortriptyline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL446,sulfamethazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL447,secobarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL448,pentobarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL7568,quinacrine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL267894,amobarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL7728,hexobarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL449,butabarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL7863,aprobarbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL450,metharbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL451,chlordiazepoxide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL266349,melagatran,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL452,clonazepam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL453,sulfisoxazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL268869,sulfamethoxypyridazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL454,butalbital,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL455,sulfacetamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL43,amsacrine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL456,ethacrynic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL267744,ticrynafen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL457,gemfibrozil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL45,melatonin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL46,ondansetron,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL49,buspirone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL459,methyldopa,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL460,molindone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL53,apomorphine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL54,haloperidol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL55,pentamidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL463,aminohippuric acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL464,etretinate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL57,nevirapine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL465,dronabinol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL58,mitoxantrone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL59,dopamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL467,hydroxyurea,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL61,podofilox,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL64,isoniazid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL468,thalidomide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL469,ketorolac,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL471,sotalol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL472,glyburide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL9225,hexestrol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL473,dofetilide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL476,dacarbazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL477,adenosine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL479,thioridazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL480,lansoprazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL481,irinotecan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL70,morphine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL485,codeine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL71,chlorpromazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL72,desipramine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL488,aminoglutethimide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL74,cromolyn sodium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL76,chloroquine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL490,paroxetine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL416146,etoricoxib,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL79,lidocaine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL492,etidocaine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL80,naloxone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL81,raloxifene,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL83,tamoxifen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL493,bromocriptine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL494,iloprost,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL84,topotecan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL85,risperidone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL428880,cromolyn,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL86,metoclopramide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL428647,paclitaxel,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL495,alprostadil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL496,hexachlorophene,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL497,clioquinol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL10878,agomelatine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL88,cyclophosphamide anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL498,chlorpropamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL499,timolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL500,pindolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL11359,cisplatin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL276832,hydralazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL501,amphetamine sulfate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL267345,amphotericin b,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL90,histamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL91,miconazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL92,docetaxel anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL93,zileuton,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL95,tacrine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL502,donepezil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL503,lovastatin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL11662,ozagrel,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL269644,acetanilide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL504,dimethyl sulfoxide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL505,chlorpheniramine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL506,primaquine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL509,meclofenamic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL511,pyrilamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL12713,sertindole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL513,carmustine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL514,lomustine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL515,chlorambucil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL516,cyproheptadine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL12856,inamrinone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL517,disopyramide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL98,vorinostat,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL521,ibuprofen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL13376,clometacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL13280,flunitrazepam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL524,methoxamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL526,propofol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL527,piroxicam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL528,ceftizoxime,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL101,phenylbutazone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL529,azithromycin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL530,amdinocillin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL531,pergolide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL532,erythromycin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL533,ibutilide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL103,progesterone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL534,ketotifen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL535,sunitinib,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL537,hydroquinone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL539,acetic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL14060,phenol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL544,mequinol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL104,clotrimazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL105,mitomycin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL545,alcohol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL546,oxprenolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL106,fluconazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL547,isotretinoin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL14376,iloperidone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL548,dinoprostone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL278020,neostigmine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL14370,reboxetine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL549,citalopram,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL550,pilocarpine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL107,colchicine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL553,erlotinib,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL554,lapatinib,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL108,carbamazepine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL109,valproic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL277100,temafloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL110,benznidazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL556,deferoxamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL558,mexiletine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL559,dextrothyroxine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL111,rimonabant,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL273575,nomifensine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL561,lomefloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL562,griseofulvin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL563,flurbiprofen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL564,promazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL565,clofibrate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL112,acetaminophen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL113,caffeine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL16073,phenacetin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL567,perphenazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL568,oxazepam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL15770,sulindac,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL15677,fenclofenac,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL276520,indalpine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL569,procaine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL570,triflupromazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL571,ketoprofen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL572,nitrofurantoin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL15870,indoprofen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL15891,lindane,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL573,niacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL575,methicillin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL16080,trichloroethane,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL577,enalaprilat anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL578,enalapril,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL580,lorazepam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL582,isopropyl alcohol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL583,grepafloxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL114,saquinavir,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL115,indinavir anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL584,nelfinavir,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL116,amprenavir,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL585,triamterene,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL16476,pronetalol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL118,celecoxib,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL119,trimetrexate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL588,fenoldopam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL589,ropinirole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL590,menadione,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL591,ethchlorvynol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL17157,terfenadine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL592,levorphanol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL593,delavirdine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL594,emedastine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL595,pioglitazone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL596,fentanyl,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL121,rosiglitazone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL17879,maralixibat chloride,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL17860,lofexidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL597,phentolamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL18442,plerixafor,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL18116,toloxatone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL599,meloxicam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL600,acetylcysteine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL601,aminolevulinic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL602,cysteamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL19019,naltrexone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL603,zafirlukast,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL276568,"cefprozil anhydrous, (e)-",Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL122,rofecoxib,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL19236,moxonidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL604,cupric sulfate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL605,procainamide hydrochloride,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL606,misoprostol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL278623,macimorelin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL607,meperidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL282052,methaqualone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL608,probucol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL19299,loxoprofen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL609,trientine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL19490,zomepirac,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL611,terazosin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL19393,levamfetamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL612,dextroamphetamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL282724,sitaxentan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL614,pyrazinamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL19449,ibudilast,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL282042,saquinavir mesylate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL615,penicillin v,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL617,cephalothin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL125,miltefosine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL126,linezolid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL620,clidinium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL127,meropenem,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL621,trazodone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL622,etodolac,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL21333,pranlukast,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL623,nefazodone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL625,thiabendazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL21536,xanomeline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL626,naftifine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL628,pentoxifylline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL629,amitriptyline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL21869,dibromsalan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL24944,tribromsalan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL128,sumatriptan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL631,propafenone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL632,betamethasone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL633,amiodarone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL634,alfentanil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL635,prednisone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL636,rivastigmine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL637,venlafaxine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL129,zidovudine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL638,voriconazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL639,azelastine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL130,chloramphenicol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL640,procainamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL641,atomoxetine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL642,acebutolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL643,promethazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL131,prednisolone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL644,trimipramine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL645,bisoprolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL646,triazolam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL647,apraclonidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL648,cyclizine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL434394,nebivolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL650,methylprednisolone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL651,methadone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL652,flecainide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL134,clonidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL654,mirtazapine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL655,midazolam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL22242,remoxipride,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL656,oxycodone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL135,estradiol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL657,diphenhydramine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL658,sufentanil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL659,galantamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL660,amantadine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL661,alprazolam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL21731,maprotiline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL666,foscarnet,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL667,acetylcholine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL137,metronidazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL668,protriptyline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL669,cyclobenzaprine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL671,thiotepa,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL672,fenofibrate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL673,pargyline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL675,alendronate sodium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL677,levonordefrin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL679,epinephrine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL680,cefaclor anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL681,etomidate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL682,amodiaquine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL684,diethylcarbamazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL685,mebendazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL139,diclofenac,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL686,mefenamic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL688,fentanyl citrate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL689,mannitol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL690,pravastatin sodium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL24072,prenylamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL691,ethinyl estradiol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL284348,dalfampridine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL692,glycerin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL695,trimethadione,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL696,ethosuximide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL697,methsuximide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL698,tetracaine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL700,sulfapyridine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL701,baclofen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL702,piperacillin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL703,suxamethonium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL704,mesalamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL705,alitretinoin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL706,cetyl alcohol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL24778,silodosin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL282468,choline chloride,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL707,doxazosin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL24828,vandetanib,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL278819,minaprine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL25202,tamibarotene,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL708,ziprasidone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL709,alfuzosin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL710,finasteride,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL711,phenindione,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL712,anisindione,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL713,entecavir anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL141,lamivudine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL714,albuterol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL715,olanzapine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL716,quetiapine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL717,medroxyprogesterone acetate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL719,mupirocin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL720,benzyl alcohol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL28318,propyphenazone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL723,carvedilol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL726,fluphenazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL727,thioguanine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL27193,dilevalol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL728,prochlorperazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL729,lopinavir,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL730,nitroglycerin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL734,acetohydroxamic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL738,thiopental sodium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL30219,methohexital sodium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL741,lamotrigine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL742,ketamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL744,riluzole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL746,nedocromil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL748,pralidoxime chloride,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL750,zonisamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL752,adenosine phosphate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL753,phenoxybenzamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL754,foscarnet sodium,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL760,anagrelide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL761,naphazoline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL762,oxymetazoline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL765,guanethidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL766,cilastatin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL768,esmolol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL770,tolazoline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL771,cycloserine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL148,imipenem anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL772,reserpine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL773,glycine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL776,metaproterenol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL777,clavulanic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL778,dexmedetomidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL779,tadalafil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL33986,butorphanol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL780,pentetic acid,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL781,mazindol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL290106,bithionol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL782,tolbutamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL783,nateglinide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL32479,brotizolam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL786,tamoxifen citrate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL787,montelukast,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL788,idoxuridine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL36506,novobiocin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL152,cidofovir anhydrous,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL790,chlorhexidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL32800,fenoterol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL796,methylphenidate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL285674,estazolam,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL797,phensuximide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL34259,methotrexate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL284092,gepirone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL799,cilostazol,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL802,minoxidil,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL154,naproxen,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL416956,mefloquine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL803,cytarabine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL806,flutamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL807,memantine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL808,econazole,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL809,sertraline,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL810,temozolomide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL811,brompheniramine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL37744,zimeldine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL812,pyridostigmine bromide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL813,eprosartan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL289469,granisetron,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL814,fluvoxamine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL441738,afamelanotide,Protein,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL815,dinoprost,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL39736,buformin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL38827,lumefantrine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL817,tolazamide,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL818,iobenguane,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL819,oxacillin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL290960,nifurtimox,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL820,busulfan,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL821,guanidine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL822,terbinafine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL826,enoxacin,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL827,dexmethylphenidate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL829,methylpromazine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL43128,primaquine phosphate,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL830,eflornithine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL831,loxapine,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL832,sulfinpyrazone,Small molecule,Investigational
+C0011849,diabetes mellitus,disease,CHEMBL288470,aminopyrine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL2,prazosin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL3,nicotine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL4,ofloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL5,nalidixic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL6,indomethacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL403,sulbactam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL404,tazobactam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL8,ciprofloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL9,norfloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL405,amphetamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL6622,isosorbide dinitrate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL6437,mianserin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL11,imipramine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL406,indapamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL407,flumazenil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL408,troglitazone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL409,bicalutamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL12,diazepam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL13,metoprolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL411,diethylstilbestrol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL267936,mecamylamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL14,carbachol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL16,phenytoin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL413,sirolimus,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL269732,tacrolimus anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL415,clomipramine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL416,methoxsalen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL17,dichlorphenamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL18,ethoxzolamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL417,epirubicin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL19,methazolamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL20,acetazolamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL419,mafenide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL21,sulfanilamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL420,guanabenz,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL22,trimethoprim,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL6966,verapamil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL421,sulfasalazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL6466,coumarin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL23,diltiazem,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL24,atenolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL25,aspirin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL422,trifluoperazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL423,betaxolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL425,olsalazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL27,propranolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL6995,practolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL427,mechlorethamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL29,penicillin g,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL428,trovafloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL30,cimetidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL31,gatifloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL429,labetalol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL32,moxifloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL33,levofloxacin anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL430,gemifloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL431,spirapril,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL433,valproate sodium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL434,isoproterenol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL435,hydrochlorothiazide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL35,furosemide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL36,pyrimethamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL436,tolrestat,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL437,sulfathiazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL438,sulfamerazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL439,sulfadiazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL440,thiamylal,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL441,thiopental,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL268164,cyclobarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL442,ergotamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL38,tretinoin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL7413,methohexital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL40,phenobarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL41,fluoxetine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL443,sulfamethoxazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL42,clozapine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL445,nortriptyline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL446,sulfamethazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL447,secobarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL448,pentobarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL7568,quinacrine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL267894,amobarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL7728,hexobarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL449,butabarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL7863,aprobarbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL450,metharbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL451,chlordiazepoxide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL266349,melagatran,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL452,clonazepam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL453,sulfisoxazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL268869,sulfamethoxypyridazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL454,butalbital,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL455,sulfacetamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL43,amsacrine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL456,ethacrynic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL267744,ticrynafen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL457,gemfibrozil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL45,melatonin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL46,ondansetron,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL49,buspirone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL459,methyldopa,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL460,molindone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL53,apomorphine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL54,haloperidol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL55,pentamidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL463,aminohippuric acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL464,etretinate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL57,nevirapine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL465,dronabinol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL58,mitoxantrone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL59,dopamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL467,hydroxyurea,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL61,podofilox,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL64,isoniazid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL468,thalidomide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL469,ketorolac,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL471,sotalol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL472,glyburide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL9225,hexestrol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL473,dofetilide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL476,dacarbazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL477,adenosine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL479,thioridazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL480,lansoprazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL481,irinotecan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL70,morphine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL485,codeine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL71,chlorpromazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL72,desipramine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL488,aminoglutethimide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL74,cromolyn sodium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL76,chloroquine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL490,paroxetine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL416146,etoricoxib,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL79,lidocaine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL492,etidocaine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL80,naloxone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL81,raloxifene,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL83,tamoxifen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL493,bromocriptine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL494,iloprost,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL84,topotecan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL85,risperidone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL428880,cromolyn,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL86,metoclopramide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL428647,paclitaxel,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL495,alprostadil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL496,hexachlorophene,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL497,clioquinol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL10878,agomelatine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL88,cyclophosphamide anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL498,chlorpropamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL499,timolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL500,pindolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL11359,cisplatin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL276832,hydralazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL501,amphetamine sulfate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL267345,amphotericin b,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL90,histamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL91,miconazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL92,docetaxel anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL93,zileuton,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL95,tacrine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL502,donepezil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL503,lovastatin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL11662,ozagrel,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL269644,acetanilide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL504,dimethyl sulfoxide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL505,chlorpheniramine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL506,primaquine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL509,meclofenamic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL511,pyrilamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL12713,sertindole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL513,carmustine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL514,lomustine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL515,chlorambucil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL516,cyproheptadine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL12856,inamrinone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL517,disopyramide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL98,vorinostat,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL521,ibuprofen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL13376,clometacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL13280,flunitrazepam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL524,methoxamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL526,propofol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL527,piroxicam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL528,ceftizoxime,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL101,phenylbutazone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL529,azithromycin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL530,amdinocillin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL531,pergolide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL532,erythromycin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL533,ibutilide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL103,progesterone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL534,ketotifen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL535,sunitinib,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL537,hydroquinone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL539,acetic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL14060,phenol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL544,mequinol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL104,clotrimazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL105,mitomycin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL545,alcohol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL546,oxprenolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL106,fluconazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL547,isotretinoin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL14376,iloperidone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL548,dinoprostone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL278020,neostigmine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL14370,reboxetine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL549,citalopram,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL550,pilocarpine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL107,colchicine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL553,erlotinib,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL554,lapatinib,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL108,carbamazepine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL109,valproic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL277100,temafloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL110,benznidazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL556,deferoxamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL558,mexiletine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL559,dextrothyroxine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL111,rimonabant,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL273575,nomifensine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL561,lomefloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL562,griseofulvin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL563,flurbiprofen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL564,promazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL565,clofibrate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL112,acetaminophen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL113,caffeine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL16073,phenacetin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL567,perphenazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL568,oxazepam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL15770,sulindac,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL15677,fenclofenac,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL276520,indalpine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL569,procaine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL570,triflupromazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL571,ketoprofen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL572,nitrofurantoin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL15870,indoprofen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL15891,lindane,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL573,niacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL575,methicillin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL16080,trichloroethane,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL577,enalaprilat anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL578,enalapril,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL580,lorazepam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL582,isopropyl alcohol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL583,grepafloxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL114,saquinavir,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL115,indinavir anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL584,nelfinavir,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL116,amprenavir,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL585,triamterene,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL16476,pronetalol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL118,celecoxib,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL119,trimetrexate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL588,fenoldopam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL589,ropinirole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL590,menadione,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL591,ethchlorvynol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL17157,terfenadine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL592,levorphanol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL593,delavirdine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL594,emedastine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL595,pioglitazone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL596,fentanyl,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL121,rosiglitazone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL17879,maralixibat chloride,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL17860,lofexidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL597,phentolamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL18442,plerixafor,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL18116,toloxatone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL599,meloxicam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL600,acetylcysteine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL601,aminolevulinic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL602,cysteamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL19019,naltrexone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL603,zafirlukast,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL276568,"cefprozil anhydrous, (e)-",Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL122,rofecoxib,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL19236,moxonidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL604,cupric sulfate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL605,procainamide hydrochloride,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL606,misoprostol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL278623,macimorelin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL607,meperidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL282052,methaqualone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL608,probucol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL19299,loxoprofen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL609,trientine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL19490,zomepirac,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL611,terazosin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL19393,levamfetamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL612,dextroamphetamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL282724,sitaxentan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL614,pyrazinamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL19449,ibudilast,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL282042,saquinavir mesylate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL615,penicillin v,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL617,cephalothin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL125,miltefosine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL126,linezolid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL620,clidinium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL127,meropenem,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL621,trazodone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL622,etodolac,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL21333,pranlukast,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL623,nefazodone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL625,thiabendazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL21536,xanomeline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL626,naftifine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL628,pentoxifylline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL629,amitriptyline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL21869,dibromsalan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL24944,tribromsalan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL128,sumatriptan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL631,propafenone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL632,betamethasone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL633,amiodarone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL634,alfentanil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL635,prednisone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL636,rivastigmine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL637,venlafaxine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL129,zidovudine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL638,voriconazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL639,azelastine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL130,chloramphenicol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL640,procainamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL641,atomoxetine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL642,acebutolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL643,promethazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL131,prednisolone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL644,trimipramine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL645,bisoprolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL646,triazolam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL647,apraclonidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL648,cyclizine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL434394,nebivolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL650,methylprednisolone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL651,methadone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL652,flecainide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL134,clonidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL654,mirtazapine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL655,midazolam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL22242,remoxipride,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL656,oxycodone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL135,estradiol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL657,diphenhydramine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL658,sufentanil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL659,galantamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL660,amantadine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL661,alprazolam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL21731,maprotiline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL666,foscarnet,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL667,acetylcholine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL137,metronidazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL668,protriptyline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL669,cyclobenzaprine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL671,thiotepa,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL672,fenofibrate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL673,pargyline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL675,alendronate sodium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL677,levonordefrin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL679,epinephrine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL680,cefaclor anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL681,etomidate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL682,amodiaquine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL684,diethylcarbamazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL685,mebendazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL139,diclofenac,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL686,mefenamic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL688,fentanyl citrate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL689,mannitol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL690,pravastatin sodium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL24072,prenylamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL691,ethinyl estradiol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL284348,dalfampridine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL692,glycerin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL695,trimethadione,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL696,ethosuximide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL697,methsuximide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL698,tetracaine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL700,sulfapyridine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL701,baclofen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL702,piperacillin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL703,suxamethonium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL704,mesalamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL705,alitretinoin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL706,cetyl alcohol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL24778,silodosin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL282468,choline chloride,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL707,doxazosin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL24828,vandetanib,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL278819,minaprine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL25202,tamibarotene,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL708,ziprasidone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL709,alfuzosin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL710,finasteride,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL711,phenindione,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL712,anisindione,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL713,entecavir anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL141,lamivudine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL714,albuterol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL715,olanzapine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL716,quetiapine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL717,medroxyprogesterone acetate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL719,mupirocin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL720,benzyl alcohol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL28318,propyphenazone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL723,carvedilol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL726,fluphenazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL727,thioguanine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL27193,dilevalol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL728,prochlorperazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL729,lopinavir,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL730,nitroglycerin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL734,acetohydroxamic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL738,thiopental sodium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL30219,methohexital sodium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL741,lamotrigine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL742,ketamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL744,riluzole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL746,nedocromil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL748,pralidoxime chloride,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL750,zonisamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL752,adenosine phosphate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL753,phenoxybenzamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL754,foscarnet sodium,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL760,anagrelide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL761,naphazoline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL762,oxymetazoline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL765,guanethidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL766,cilastatin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL768,esmolol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL770,tolazoline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL771,cycloserine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL148,imipenem anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL772,reserpine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL773,glycine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL776,metaproterenol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL777,clavulanic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL778,dexmedetomidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL779,tadalafil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL33986,butorphanol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL780,pentetic acid,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL781,mazindol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL290106,bithionol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL782,tolbutamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL783,nateglinide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL32479,brotizolam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL786,tamoxifen citrate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL787,montelukast,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL788,idoxuridine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL36506,novobiocin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL152,cidofovir anhydrous,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL790,chlorhexidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL32800,fenoterol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL796,methylphenidate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL285674,estazolam,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL797,phensuximide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL34259,methotrexate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL284092,gepirone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL799,cilostazol,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL802,minoxidil,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL154,naproxen,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL416956,mefloquine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL803,cytarabine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL806,flutamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL807,memantine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL808,econazole,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL809,sertraline,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL810,temozolomide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL811,brompheniramine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL37744,zimeldine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL812,pyridostigmine bromide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL813,eprosartan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL289469,granisetron,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL814,fluvoxamine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL441738,afamelanotide,Protein,Investigational
+C0021368,inflammation,disease,CHEMBL815,dinoprost,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL39736,buformin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL38827,lumefantrine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL817,tolazamide,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL818,iobenguane,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL819,oxacillin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL290960,nifurtimox,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL820,busulfan,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL821,guanidine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL822,terbinafine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL826,enoxacin,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL827,dexmethylphenidate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL829,methylpromazine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL43128,primaquine phosphate,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL830,eflornithine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL831,loxapine,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL832,sulfinpyrazone,Small molecule,Investigational
+C0021368,inflammation,disease,CHEMBL288470,aminopyrine,Small molecule,Investigational
